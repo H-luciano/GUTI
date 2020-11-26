@@ -1,0 +1,757 @@
+(11/11)
+
+{% load static %}
+<!doctype html>
+<html lang="fr">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href={% static 'french/css/bootstrap.min.css' %} />
+  <link rel="stylesheet" type="text/css" href={% static 'french/css/custom.css' %} />
+
+
+  <title>{{title}}</title>
+
+
+</head>
+
+<body>
+
+  {% load crispy_forms_tags %}
+
+  <!-- ヘッダ/Nav-Bar -->
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">GUTI ! Français</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+          <li class="nav-item">
+            <a class="nav-link" href="../main_fr">Practice</a>
+          </li>
+
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Set <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              type
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="er.html">-er</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">-ir</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">-re</a>
+            </div>
+          </li>
+
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Home</a>
+          </li>
+
+        </ul>
+
+      </div>
+    </nav>
+  </div>
+
+
+
+  <form action="% url 'set_fr' %" method="post">
+    {% csrf_token %}
+
+
+    <div class="container-fluid">
+
+      <div class="row text-white mx-auto" style="background:#00249C">
+          Mode et Temps
+      </div>
+
+      <div class="row">
+        <div class="col">{{ form.INDICATIF|as_crispy_field }} </div>
+        <div class="col">{{ form.CONDITIONNEL|as_crispy_field }} </div>
+        <div class="col">{{ form.SUBJONCTIF|as_crispy_field }} </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row text-white mx-auto" style="background:#EF3340">
+        Mots
+      </div>
+      <div class="row">
+        <div class="col">{{ form.ER|as_crispy_field }} </div>
+        <div class="col">{{ form.IR|as_crispy_field }} </div>
+        <div class="col">{{ form.RE|as_crispy_field }}</div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div class="d-flex justify-content-center">
+
+        <div class="col">
+          <button type="submit" class="btn btn btn-dark btn-block">
+            Set
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+
+
+
+
+  </form>
+
+
+
+
+
+</body>
+
+</html>
+
+from django import forms
+
+class ModeSelectFrForm(forms.Form):
+
+    INDICATIF = forms.MultipleChoiceField (
+        label = 'INDICATIF',
+        choices = [
+            ("Indicatif Présent","Présent"),
+            ("Indicatif Passé composé","Passé composé"),
+            ("Indicatif Impafait","Impafait"),
+            ("Indicatif Plus-que-parfait","Plus-que-parfait"),
+            ("Indicatif Futur simple","Futur simple"),
+            ("Impératif","IMPÉRATIF"),
+            ],
+        widget = forms.CheckboxSelectMultiple()
+        )
+
+    SUBJONCTIF = forms.MultipleChoiceField (
+        label = 'SUBJONCTIF',
+        choices = [
+            ("Subjonctif Présent","Présent"),
+            ("Subjonctif Passé","Passé"),
+            ],
+        widget = forms.CheckboxSelectMultiple()
+        )
+
+    CONDITIONNEL = forms.MultipleChoiceField (
+        label = 'CONDITIONNEL',
+        choices = [
+            ("Conditionel Présent","Présent"),
+            ("Conditionel Passé","Passé"),
+            ],
+        widget = forms.CheckboxSelectMultiple()
+        )
+
+    ER = forms.MultipleChoiceField (
+        label = '-ER',
+        choices = [
+            ("er_1", "-er (1)"),
+            ("er_2", "-er (2)"),
+            ("er_3", "-er (3)"),
+            ("er_irrég_1", "-er Irrégulier (1)"),
+            ("er_irrég_2", "-er Irrégulier (2)"),
+            ],
+        widget = forms.CheckboxSelectMultiple()
+        )
+
+    IR = forms.MultipleChoiceField (
+        label = '-IR',
+        choices = [
+            ("ir_1", "-ir (1)"),
+            ("ir_2", "-ir (2)"),
+            ("ir_3", "-ir (3)"),
+            ("ir_irrég_1", "-ir Irrégulier (1)"),
+            ("ir_irrég_2", "-ir Irrégulier (2)"),
+            ],
+        widget = forms.CheckboxSelectMultiple()
+        )
+
+    RE = forms.MultipleChoiceField (
+        label = '-RE',
+        choices = [
+            ("re_1", "-re (1)"),
+            ("re_2", "-re (2)"),
+            ("re_3", "-re (3)"),
+            ("re_irrég_1", "-re Irrégulier (1)"),
+            ("re_irrég_2", "-re Irrégulier (2)"),
+            ],
+        widget = forms.CheckboxSelectMultiple()
+        )
+
+
+
+(10/29)
+
+<body>
+
+
+  <p>{{result|safe}}</P>
+
+
+  <table>
+    <form action="% url 'set_fr' %" method="post">
+      {% csrf_token %}
+      {{form.as_p}}
+      <tr>
+        <td>{{word}}</td>
+        <td></td><input type="submit" value="click"></td>
+      </tr>
+    </form>
+  </table>
+
+  <h1>Bienvenu a G.U.T.I francais</h1>
+
+
+
+
+</body>
+
+<!-- ボタン -->
+
+<form action="% url 'question_fr' %" method="post">
+  {% csrf_token %}
+  {{form.as_p}}
+
+  <div class="container-fluid">
+    <div class="d-flex justify-content-center">
+      <div class="d-flex flex-row">
+
+        <button type="button" class="btn btn-french-blue ">
+          <input type="submit" name="button_question" value="Question">
+        </button>
+        <button type="button" class="btn btn-french-red ">
+          <input type="submit" name="button_answer" value="Answer">
+        </button>
+      </div>
+
+</form>
+
+
+(10/28)
+
+{% load static %}
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <link rel="stylesheet" type="text/css" href={% static 'french/css/style.css' %} />
+  <meta charset="utf-8">
+  <title>{{title}}</title>
+</head>
+
+<body>
+
+
+  <p>{{result|safe}}</P>
+
+  <table>
+    <form action="% url 'question_fr' %" method="post">
+      {% csrf_token %}
+      {{form.as_p}}
+      <tr>
+        <td>{{answer}}</td>
+        <td>{{mode}}</td>
+        <td>
+          {% load static %}
+          <img src="{% static subject %}" alt="My image">
+        </td>
+        <td>
+          {% load static %}
+          <img src="{% static tense %}" alt="My image">
+        </td>
+        <td></td><input type="submit" name="button_question" value="Question"></td>
+        <td></td><input type="submit" name="button_answer" value="Answer"></td>
+      </tr>
+    </form>
+  </table>
+
+
+
+
+  <h1>Bienvenu a G.U.T.I francais</h1>
+
+
+
+
+</body>
+
+</html>
+
+
+
+(10/17)
+
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.views.generic import TemplateView
+from .forms import ModeSelectFrForm
+import random
+from . table import *
+
+global candidate_dict, mode_cnddt, words_cnddt, tense_dict
+
+mode_tense_cnddt = []
+words_cnddt = []
+
+class FrenchSetView(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'set_french',
+            'form': ModeSelectFrForm(),
+            'result': None,
+            'word': None
+        }
+
+    def get(self, request):
+        return render (request, 'french/set_fr.html', self.params)
+
+    def post (self, request):
+
+        global cnadidate_mode, mode_tense_cnddt, words_cnddt
+
+        #チェックボタンから候補(mode)選択のリストを作る
+        indicatif_chcd = request.POST.getlist('INDICATIF')
+        subjontif_chcd = request.POST.getlist('SUBJONCTIF')
+        conditionel_chcd = request.POST.getlist('CONDITIONNEL')
+
+        #上記リストを結合
+        mode_tense_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
+
+        #チェックボタンから候補(word)選択のリストを作る
+        er_chcd = request.POST.getlist('ER')
+        ir_chcd = request.POST.getlist('IR')
+        re_chcd = request.POST.getlist('RE')
+
+        #上記リストを結合
+        words_cnddt = er_chcd + ir_chcd + re_chcd
+
+
+        #フォームとしてhtmlで表示させる
+        self.params['result'] = mode_tense_cnddt
+        self.params['word'] = words_cnddt
+        self.params['form'] = ModeSelectFrForm(request.POST)
+
+        return render(request,'french/set_fr.html', self.params)
+
+
+class FrenchQuestion(FrenchSetView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'main_french',
+            'result': "Question is :",
+            'answer': "",
+        }
+
+    def get(self, request):
+        return render (request, 'french/main_fr.html', self.params)
+
+    def post(self, request):
+
+        global question_fr, answer_fr, mode_tense_cnddt, words_cnddt, tense_dict, tense_img_chcd
+
+
+        if "button_question" in request.POST:
+            #選ばれた単語のタイプから単語リストを作る
+            #eval関数でwords_cnddt要素の文字列を変数名に変更
+            #random.choiceで最終1単語を選ぶ
+            words_fnl = []
+            for i in words_cnddt:
+                words_fnl.extend(eval(i))
+            word_fnl = random.choice(words_fnl)
+
+            #最終modeを選ぶ
+            mode_tense_fnl = []
+            mode_tense_fnl = random.choice(mode_tense_cnddt)
+
+            #tenseの画像を選択
+            tense_img_chcd = tense_dict[mode_tense_fnl]
+
+            #最終単語/modeを表示
+            self.params['result'] = word_fnl
+            self.params['answer'] = mode_tense_fnl
+
+
+
+        if "button_answer" in request.POST:
+            self.params['result'] = mode_tense_cnddt
+            self.params['answer'] = tense_img_chcd
+
+        return render(request,'french/main_fr.html', self.params)
+
+
+(10/15)
+
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.views.generic import TemplateView
+from .forms import ModeSelectFrForm
+import random
+from . table import *
+
+global candidate_dict, mode_cnddt, words_cnddt
+
+mode_tense_cnddt = []
+words_cnddt = []
+
+class FrenchSetView(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'set_french',
+            'form': ModeSelectFrForm(),
+            'result': None,
+            'word': None
+        }
+
+    def get(self, request):
+        return render (request, 'french/set_fr.html', self.params)
+
+    def post (self, request):
+
+        global cnadidate_mode, mode_tense_cnddt, words_cnddt
+
+        #チェックボタンから候補(mode)選択のリストを作る
+        indicatif_chcd = request.POST.getlist('INDICATIF')
+        subjontif_chcd = request.POST.getlist('SUBJONCTIF')
+        conditionel_chcd = request.POST.getlist('CONDITIONNEL')
+
+        #上記リストを結合
+        mode_tense_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
+
+        #チェックボタンから候補(word)選択のリストを作る
+        er_chcd = request.POST.getlist('ER')
+        ir_chcd = request.POST.getlist('IR')
+        re_chcd = request.POST.getlist('RE')
+
+        #上記リストを結合
+        words_cnddt = er_chcd + ir_chcd + re_chcd
+
+
+        #フォームとしてhtmlで表示させる
+        self.params['result'] = mode_tense_cnddt
+        self.params['word'] = words_cnddt
+        self.params['form'] = ModeSelectFrForm(request.POST)
+
+        return render(request,'french/set_fr.html', self.params)
+
+
+class FrenchQuestion(FrenchSetView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'main_french',
+            'result': "Question is :",
+            'answer': "",
+        }
+
+    def get(self, request):
+        return render (request, 'french/main_fr.html', self.params)
+
+    def post(self, request):
+
+        global question_fr, answer_fr, mode_tense_cnddt, words_cnddt
+
+
+        if "button_question" in request.POST:
+
+            #選ばれた単語のタイプから単語リストを作る
+            #eval関数でwords_cnddt要素の文字列を変数名に変更
+            #random.choiceで最終1単語を選ぶ
+
+            words_fnl = []
+            for i in words_cnddt:
+                words_fnl.extend(eval(i))
+            word_fnl = random.choice(words_fnl)
+
+            #最終modeを選ぶ
+
+            mode_tense_fnl = []
+            mode_tense_fnl = random.choice(mode_tense_cnddt)
+
+            #最終単語/modeを表示
+            self.params['result'] = word_fnl
+            self.params['answer'] = mode_tense_fnl
+
+
+
+        if "button_answer" in request.POST:
+            self.params['result'] = mode_tense_cnddt
+            self.params['answer'] = words_cnddt
+
+        return render(request,'french/main_fr.html', self.params)
+
+
+(10/14)
+
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.views.generic import TemplateView
+from .forms import ModeSelectFrForm
+import random
+from . table import *
+
+global candidate_dict, mode_cnddt, words_cnddt
+
+mode_cnddt = []
+words_cnddt = []
+
+class FrenchSetView(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'set_french',
+            'form': ModeSelectFrForm(),
+            'result': None,
+            'word': None
+        }
+
+    def get(self, request):
+        return render (request, 'french/set_fr.html', self.params)
+
+    def post (self, request):
+
+        global cnadidate_mode, mode_cnddt, words_cnddt
+
+        #チェックボタンから候補(mode)選択のリストを作る
+        indicatif_chcd = request.POST.getlist('INDICATIF')
+        subjontif_chcd = request.POST.getlist('SUBJONCTIF')
+        conditionel_chcd = request.POST.getlist('CONDITIONNEL')
+
+        #上記リストを結合
+        mode_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
+
+        #チェックボタンから候補(word)選択のリストを作る
+        er_chcd = request.POST.getlist('ER')
+        ir_chcd = request.POST.getlist('IR')
+        re_chcd = request.POST.getlist('RE')
+
+        #上記リストを結合
+        words_cnddt = er_chcd + ir_chcd + re_chcd
+
+
+        #フォームとしてhtmlで表示させる
+        self.params['result'] = mode_cnddt
+        self.params['word'] = words_cnddt
+        self.params['form'] = ModeSelectFrForm(request.POST)
+
+        return render(request,'french/set_fr.html', self.params)
+
+
+class FrenchQuestion(FrenchSetView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'main_french',
+            'result': "Question is :",
+            'answer': "",
+        }
+
+    def get(self, request):
+        return render (request, 'french/main_fr.html', self.params)
+
+    def post(self, request):
+
+        global question_fr, answer_fr, mode_cnddt, words_cnddt
+
+
+        if "button_question" in request.POST:
+            #選ばれた単語のタイプから単語リストを作る
+            words_fnl = []
+            for i in words_cnddt:
+                words_fnl.extend(eval(i))
+
+
+            self.params['result'] = words_fnl
+
+
+
+        if "button_answer" in request.POST:
+            self.params['result'] = mode_cnddt
+            self.params['answer'] = words_cnddt
+
+        return render(request,'french/main_fr.html', self.params)
+
+
+(10/13)
+
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.views.generic import TemplateView
+from .forms import ModeSelectFrForm
+import random
+from . table import *
+
+global candidate_dict, mode_cnddt, words_cnddt
+
+mode_cnddt = []
+words_cnddt = []
+
+class FrenchSetView(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'set_french',
+            'form': ModeSelectFrForm(),
+            'result': None,
+            'word': None
+        }
+
+    def get(self, request):
+        return render (request, 'french/set_fr.html', self.params)
+
+    def post (self, request):
+
+        global cnadidate_mode, mode_cnddt, words_cnddt
+
+        #チェックボタンから候補(mode)選択のリストを作る
+        indicatif_chcd = request.POST.getlist('INDICATIF')
+        subjontif_chcd = request.POST.getlist('SUBJONCTIF')
+        conditionel_chcd = request.POST.getlist('CONDITIONNEL')
+
+        #上記リストを結合
+        mode_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
+
+        #チェックボタンから候補(word)選択のリストを作る
+        er_chcd = request.POST.getlist('ER')
+        ir_chcd = request.POST.getlist('IR')
+        re_chcd = request.POST.getlist('RE')
+
+        #上記リストを結合
+        words_cnddt = er_chcd + ir_chcd + re_chcd
+
+
+        #フォームとしてhtmlで表示させる
+        self.params['result'] = mode_cnddt
+        self.params['word'] = words_cnddt
+        self.params['form'] = ModeSelectFrForm(request.POST)
+
+        return render(request,'french/set_fr.html', self.params)
+
+
+class FrenchQuestion(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'main_french',
+            'result': "Question is :",
+            'answer': "",
+        }
+
+    def get(self, request):
+        return render (request, 'french/main_fr.html', self.params)
+
+    def post(self, request):
+
+        global question_fr, answer_fr, mode_cnddt, words_cnddt
+
+
+        if "button_question" in request.POST:
+            question_fr = random.randint(1,3)
+            self.params['result'] = mode_cnddt
+
+
+        if "button_answer" in request.POST:
+            self.params['result'] = question_fr
+            self.params['answer'] = words_cnddt
+
+        return render(request,'french/main_fr.html', self.params)
+
+
+(10/12)
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.views.generic import TemplateView
+from .forms import ModeSelectFrForm
+import random
+from . table import *
+
+global candidate_dict
+
+class FrenchSetView(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'set_french',
+            'form': ModeSelectFrForm(),
+            'result': None,
+            'word': None
+        }
+
+    def get(self, request):
+        return render (request, 'french/set_fr.html', self.params)
+
+    def post (self, request):
+
+        global cnadidate_mode
+
+        #チェックボタンから候補(mode)選択のリストを作る
+        choiced_indicatif = request.POST.getlist('INDICATIF')
+        choiced_subjontif = request.POST.getlist('SUBJONCTIF')
+        choiced_conditionel = request.POST.getlist('CONDITIONNEL')
+
+        #上記リストを結合
+        cnadidate_mode = choiced_indicatif + choiced_subjontif + choiced_conditionel
+
+        #チェックボタンから候補(word)選択のリストを作る
+        choiced_er = request.POST.getlist('ER')
+        choiced_ir = request.POST.getlist('IR')
+        choiced_re = request.POST.getlist('RE')
+
+        #上記リストを結合
+        cnadidate_word = choiced_er + choiced_ir + choiced_re
+
+
+        #フォームとしてhtmlで表示させる
+        self.params['result'] = cnadidate_mode
+        self.params['word'] = cnadidate_word
+        self.params['form'] = ModeSelectFrForm(request.POST)
+
+        return render(request,'french/set_fr.html', self.params)
+
+
+class FrenchQuestion(TemplateView):
+
+    def __init__(self):
+        self.params = {
+            'title': 'main_french',
+            'result': "Question is :",
+            'answer': "",
+        }
+
+    def get(self, request):
+        return render (request, 'french/main_fr.html', self.params)
+
+    def post(self, request):
+
+        global question_fr, answer_fr, candidate_dict
+
+
+        if "button_question" in request.POST:
+            question_fr = random.randint(1,3)
+            self.params['result'] = question_fr
+            answer_fr = candidate_dict.get(question_fr)
+
+        if "button_answer" in request.POST:
+            self.params['result'] = question_fr
+            self.params['answer'] = answer_fr
+
+        return render(request,'french/main_fr.html', self.params)

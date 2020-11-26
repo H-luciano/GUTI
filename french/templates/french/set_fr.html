@@ -1,0 +1,115 @@
+{% load static %}
+<!doctype html>
+<html lang="fr">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href={% static 'french/css/bootstrap.min.css' %} />
+  <link rel="stylesheet" type="text/css" href={% static 'french/css/custom.css' %} />
+
+  <title>{{title}}</title>
+
+</head>
+
+<body>
+
+  {% load crispy_forms_tags %}
+
+
+
+
+  <!-- ヘッダ/Nav-Bar -->
+
+
+  <div class="container-fluid ">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">GUTI ! Français</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+          <li class="nav-item">
+            <a class="nav-link" href="../main_fr">Practice</a>
+          </li>
+
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Set <span class="sr-only">(current)</span></a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="../list_fr">List</a>
+          </li>
+
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/.">Home</a>
+          </li>
+
+        </ul>
+
+      </div>
+    </nav>
+  </div>
+
+
+
+  <form action="% url 'set_fr' %" method="post">
+    {% csrf_token %}
+
+
+    <div class="container-fluid">
+
+      <div class="row text-white mx-auto" style="background:#00249C">
+        Mode et Temps
+      </div>
+
+      <div class="row">
+        <div class="col">{{ form.INDICATIF|as_crispy_field }} </div>
+        <div class="col">{{ form.CONDITIONNEL|as_crispy_field }} </div>
+        <div class="col">{{ form.SUBJONCTIF|as_crispy_field }} </div>
+        <div class="col">{{ form.IMPÉRATIF|as_crispy_field }} </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row text-white mx-auto" style="background:#EF3340">
+        Mots
+      </div>
+      <div class="row">
+        <div class="col">{{ form.ER|as_crispy_field }} </div>
+        <div class="col">{{ form.IR|as_crispy_field }} </div>
+        <div class="col">{{ form.RE|as_crispy_field }}</div>
+        <div class="col">{{ form.Illéguliers|as_crispy_field }}</div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div class="d-flex justify-content-center">
+
+        <div class="col">
+          <button type="submit" class="btn btn btn-dark btn-block">
+            Set
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+  </form>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+
+.jumbotron-extend {
+    position: relative;
+    height: 20vh;
+    min-height: 20px;
+    background: url(../images/bread-2588182_1920.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.jumbotron-container {
+    position: relative;
+    top: 90%;
+    transform: translateY(-50%);
+}
+
+.site-name {
+    margin-bottom: 0px;
+    font-family: 'Playfair Display', serif;
+    color: #F8F9F9;
+    text-align: center
+}
+
+.btn-french-blue {
+  color: #fff;
+  background-color: #00249C;
+  border-color: #007bff;
+}
+
+.btn-french-red {
+  color: #fff;
+  background-color: #EF3340;
+  border-color: #EF3340;
+}
+
+body {
+font-family: 'klee','Optima','Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴシック',sans-serif
+}
