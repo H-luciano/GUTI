@@ -82,7 +82,7 @@ class ModeSelectFrForm(forms.Form):
     Illéguliers = forms.MultipleChoiceField (
         label = 'Illéguliers',
         choices = [
-            ("Illéguliers", "(1)"),
+            ("Illéguliers_1", "(1)"),
             ("Illéguliers_2", "(2)"),
             ("Illéguliers_3", "(3)"),
             ],

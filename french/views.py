@@ -41,9 +41,10 @@ class FrenchSetView(TemplateView):
         er_chcd = request.POST.getlist('ER')
         ir_chcd = request.POST.getlist('IR')
         re_chcd = request.POST.getlist('RE')
+        Illég_chcd = request.POST.getlist('Illéguliers')
 
         #上記リストを結合
-        words_cnddt = er_chcd + ir_chcd + re_chcd
+        words_cnddt = er_chcd + ir_chcd + re_chcd + Illég_chcd
 
 
         #フォームとしてhtmlで表示させる

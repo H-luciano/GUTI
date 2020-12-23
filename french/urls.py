@@ -4,6 +4,8 @@ from django.conf.urls import url
 from django.urls import path
 from .views import FrenchSetView, FrenchQuestion, FrenchList
 
+app_name = 'french'
+
 urlpatterns = [
     url(r'^main_fr/', FrenchQuestion.as_view(), name = 'main_fr'),
     url(r'^set_fr/', FrenchSetView.as_view(), name = 'set_fr'),
