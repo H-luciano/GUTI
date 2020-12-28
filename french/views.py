@@ -19,7 +19,7 @@ class FrenchSetView(TemplateView):
             'title': 'set_french',
             'form': ModeSelectFrForm(),
             'result': None,
-            'word': None
+            'word': None,
         }
 
     def get(self, request):
