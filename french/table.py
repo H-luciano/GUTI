@@ -38,16 +38,16 @@ subject_dict = {
 mode = ("Indicatif Présent","Indicatif Passé composé","Indicatif Impafait","Indicatif Plus-que-parfait","Indicatif Futur simple", "Subjonctif Présent","Subjonctif Passé","Conditionel Présent","Conditionel Passé", "Impératif")
 
 tense_dict = {
-"Indicatif Présent": 'french/images/présent.png',
-"Indicatif Passé composé": 'french/images/passé.png',
-"Indicatif Impafait": 'french/images/impafait.png',
-"Indicatif Plus-que-parfait": "french/images/plus-que-pafait.png",
-"Indicatif Futur simple": "french/images/future.png",
-"Impératif": 'french/images/présent.png',
-"Subjonctif Présent": 'french/images/présent.png',
-"Subjonctif Passé":'french/images/passé.png',
-"Conditionel Présent": 'french/images/présent.png',
-"Conditionel Passé":'french/images/passé.png',
+"Indicatif Présent": "french/images/présent.png",
+"Indicatif Passé composé":"french/images/passé.png",
+"Indicatif Impafait":"french/images/impafait.png",
+"Indicatif Plus-que-parfait":"french/images/plus-que-pafait.png",
+"Indicatif Futur simple":"french/images/future.png",
+"Impératif":"french/images/présent.png",
+"Subjonctif Présent":"french/images/présent.png",
+"Subjonctif Passé":"french/images/passé.png",
+"Conditionel Présent":"french/images/présent.png",
+"Conditionel Passé":"french/images/passé.png",
 }
 
 table = {
