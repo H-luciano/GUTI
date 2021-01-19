@@ -16,7 +16,7 @@ class FrenchSetView(TemplateView):
 
     def __init__(self):
         self.params = {
-            'title': 'set_french',
+            'title': 'GUTI! Français/Set',
             'form': ModeSelectFrForm(),
             'result': None,
             'word': None,
@@ -60,7 +60,7 @@ class FrenchQuestion(FrenchSetView):
 
     def __init__(self):
         self.params = {
-            'title': 'main_french',
+            'title': 'GUTI! Français/Practice',
             'result': "",
             'answer': "",
             'subject':'french/images/none_subject.png',
@@ -134,7 +134,7 @@ class FrenchList(FrenchSetView):
 
     def __init__(self):
         self.params = {
-            'title': 'List_french',
+            'title': 'GUTI! Français/List',
         }
 
     def get(self, request):
