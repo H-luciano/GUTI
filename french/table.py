@@ -38,8 +38,8 @@ subject_dict = {
 mode = ("Indicatif Présent","Indicatif Passé composé","Indicatif Impafait","Indicatif Plus-que-parfait","Indicatif Futur simple", "Subjonctif Présent","Subjonctif Passé","Conditionel Présent","Conditionel Passé", "Impératif")
 
 tense_dict = {
-"Indicatif Présent": "french/images/present.png",
-"Indicatif Passé composé":"french/images/passe.png",
+"Indicatif Présent":"french/images/present_fr.png",
+"Indicatif Passé composé":"french/images/passe_fr.png",
 "Indicatif Impafait":"french/images/impafait.png",
 "Indicatif Plus-que-parfait":"french/images/plus-que-pafait.png",
 "Indicatif Futur simple":"french/images/future.png",
