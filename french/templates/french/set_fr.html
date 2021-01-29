@@ -5,13 +5,14 @@
 <head>
 
   <meta charset="utf-8">
+  <title>{{title}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
   <link rel="stylesheet" type="text/css" href={% static 'french/css/bootstrap.min.css' %} />
   <link rel="stylesheet" type="text/css" href={% static 'french/css/custom.css' %} />
 
-  <title>{{title}}</title>
 
 </head>
 
@@ -72,10 +73,10 @@
       </div>
 
       <div class="row">
-        <div class="col">{{ form.INDICATIF|as_crispy_field }} </div>
-        <div class="col">{{ form.CONDITIONNEL|as_crispy_field }} </div>
-        <div class="col">{{ form.SUBJONCTIF|as_crispy_field }} </div>
-        <div class="col">{{ form.IMPÉRATIF|as_crispy_field }} </div>
+        <div class="col-6 col-md-3">{{ form.INDICATIF|as_crispy_field }} </div>
+        <div class="col-6 col-md-3">{{ form.CONDITIONNEL|as_crispy_field }} </div>
+        <div class="col-6 col-md-3">{{ form.SUBJONCTIF|as_crispy_field }} </div>
+        <div class="col-6 col-md-3">{{ form.IMPÉRATIF|as_crispy_field }} </div>
       </div>
     </div>
 
@@ -84,10 +85,10 @@
         Mots
       </div>
       <div class="row">
-        <div class="col">{{ form.ER|as_crispy_field }} </div>
-        <div class="col">{{ form.IR|as_crispy_field }} </div>
-        <div class="col">{{ form.RE|as_crispy_field }}</div>
-        <div class="col">{{ form.Illéguliers|as_crispy_field }}</div>
+        <div class="col-6 col-md-3">{{ form.ER|as_crispy_field }} </div>
+        <div class="col-6 col-md-3">{{ form.IR|as_crispy_field }} </div>
+        <div class="col-6 col-md-3">{{ form.RE|as_crispy_field }}</div>
+        <div class="col-6 col-md-3">{{ form.Illéguliers|as_crispy_field }}</div>
       </div>
     </div>
 
