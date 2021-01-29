@@ -3,7 +3,7 @@
 
 er_1 = ["parler","donner","passer","se trouver","laisser","penser","chercher","demander"]
 er_2 = ["manger","changer","s'appeler","renouveler","espérer","considérer","payer","essayer","commencer","exercer","lever","élever","jeter","rejeter","acheter","racheter","envoyer","renvoyer","mener","se promener"]
-er_3 = ["mener","se promener","protéger","piéger","répéter","interpréter","régler","dérégler","procéder","posséder","révéler","corréler","peser","soupeser","déceler","modeler","intégrer","réintégrer","régner","imprégner","sécher","lécher","célébrer","concélébrer","résulter","incomber","semer","parsemer",]
+er_3 = ["mener","se promener","protéger","piéger","répéter","interpréter","régler","dérégler","procéder","posséder","révéler","corréler","peser","soupeser","déceler","modeler","intégrer","réintégrer","régner","imprégner","sécher","lécher","célébrer","concélébrer","résulter","incomber","semer","parsemer"]
 
 
 ir_1 = ["voir","revoir","partir","sortir","sentir","mentir","venir","tenir","se souvenir","devenir","finir","choisir","fournir","réfléchir",]
