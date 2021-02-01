@@ -43,11 +43,11 @@ tense_dict = {
 "Indicatif Impafait":"french/images/impafait.png",
 "Indicatif Plus-que-parfait":"french/images/plus-que-pafait.png",
 "Indicatif Futur simple":"french/images/future.png",
-"Impératif":"french/images/present.png",
-"Subjonctif Présent":"french/images/present.png",
-"Subjonctif Passé":"french/images/passe.png",
-"Conditionel Présent":"french/images/present.png",
-"Conditionel Passé":"french/images/passe.png",
+"Impératif":"french/images/present_fr.png",
+"Subjonctif Présent":"french/images/present_fr.png",
+"Subjonctif Passé":"french/images/passe_fr.png",
+"Conditionel Présent":"french/images/present_fr.png",
+"Conditionel Passé":"french/images/passe_fr.png",
 }
 
 table = {
