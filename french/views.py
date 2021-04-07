@@ -7,76 +7,46 @@ from .forms import ModeSelectFrForm
 import random
 from . table import *
 
-global candidate_dict, mode_cnddt, words_cnddt, tense_dict, tense_img_chcd, mode_fnl, subject, table, mode
 
-mode_tense_cnddt = []
-words_cnddt = []
+class French(TemplateView):
 
-class FrenchSetView(TemplateView):
 
     def __init__(self):
         self.params = {
-            'title': 'GUTI! Français/Set',
-            'form': ModeSelectFrForm(),
-            'result': None,
-            'word': None,
-        }
-
-    def get(self, request):
-        return render (request, 'french/set_fr.html', self.params)
-
-    def post (self, request):
-
-        global cnadidate_mode, mode_tense_cnddt, words_cnddt
-
-        #チェックボタンから候補(mode)選択のリストを作る
-        indicatif_chcd = request.POST.getlist('INDICATIF')
-        subjontif_chcd = request.POST.getlist('SUBJONCTIF')
-        conditionel_chcd = request.POST.getlist('CONDITIONNEL')
-
-        #上記リストを結合
-        mode_tense_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
-
-        #チェックボタンから候補(word)選択のリストを作る
-        er_chcd = request.POST.getlist('ER')
-        ir_chcd = request.POST.getlist('IR')
-        re_chcd = request.POST.getlist('RE')
-        Illég_chcd = request.POST.getlist('Illéguliers')
-
-        #上記リストを結合
-        words_cnddt = er_chcd + ir_chcd + re_chcd + Illég_chcd
-
-
-        #フォームとしてhtmlで表示させる
-        self.params['result'] = mode_tense_cnddt
-        self.params['word'] = words_cnddt
-        self.params['form'] = ModeSelectFrForm(request.POST)
-
-        return render(request,'french/set_fr.html', self.params)
-
-
-
-class FrenchQuestion(FrenchSetView):
-
-    def __init__(self):
-        self.params = {
-            'title': 'GUTI! Français/Practice',
+            'title': 'GUTI! Français',
             'result': "",
             'answer': "",
             'subject':'french/images/none_subject.png',
             'tense': 'french/images/none_tense.png',
             'mode': "",
-        }
+            'form': ModeSelectFrForm(),
+            }
 
     def get(self, request):
         return render (request, 'french/main_fr.html', self.params)
 
-    def post(self, request):
+    def post (self, request):
 
-        global question_fr, answer_fr, mode_tense_cnddt, words_cnddt, tense_dict, tense_img_chcd, mode_fnl, subject_dict, subject_image, answer, answer_list, answer_dict, mode, word_fnl
-
+        global answer, mode_fnl, tense_img_chcd, subject_image, word_fnl, mode_tense_cnddt, words_cnddt
 
         if "button_question" in request.POST:
+
+            #チェックボタンから候補(mode)選択のリストを作る
+            indicatif_chcd = request.POST.getlist('INDICATIF')
+            subjontif_chcd = request.POST.getlist('SUBJONCTIF')
+            conditionel_chcd = request.POST.getlist('CONDITIONNEL')
+
+            #上記リストを結合
+            mode_tense_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
+
+            #チェックボタンから候補(word)選択のリストを作る
+            er_chcd = request.POST.getlist('ER')
+            ir_chcd = request.POST.getlist('IR')
+            re_chcd = request.POST.getlist('RE')
+            Illég_chcd = request.POST.getlist('Illéguliers')
+
+            #上記リストを結合
+            words_cnddt = er_chcd + ir_chcd + re_chcd + Illég_chcd
 
             #選ばれた単語のタイプから単語リストを作る
             #eval関数でwords_cnddt要素の文字列を変数名に変更
@@ -117,6 +87,7 @@ class FrenchQuestion(FrenchSetView):
             self.params['result'] = word_fnl
             self.params['mode'] = mode_fnl
             self.params['tense'] = tense_img_chcd
+            self.params['form'] = ModeSelectFrForm(request.POST)
 
 
         if "button_answer" in request.POST:
@@ -126,11 +97,16 @@ class FrenchQuestion(FrenchSetView):
             self.params['tense'] = tense_img_chcd
             self.params['subject'] = subject_image
             self.params['result'] = word_fnl
-
+            self.params['form'] = ModeSelectFrForm(request.POST)
+            
         return render(request,'french/main_fr.html', self.params)
 
 
-class FrenchList(FrenchSetView):
+
+
+
+
+class FrenchList(French):
 
     def __init__(self):
         self.params = {

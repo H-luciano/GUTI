@@ -5,13 +5,18 @@
 <head>
 
   <meta charset="utf-8">
-  <title>{{title}}</title>
+  <title>GUTI !(Test Version)</title>
+  <meta name='author' content='Luciano'>
+  <meta name="description" content='An ideal tool to "install" conjugation into yourself.'>
+  <meta name="keywords" content='conjugation,動詞活用'>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
+
+  <link rel="stylesheet" href="{% static 'french/css/bootstrap.min.css' %} /">
   <link rel="stylesheet" type="text/css" href={% static 'french/css/bootstrap.min.css' %} />
   <link rel="stylesheet" type="text/css" href={% static 'french/css/custom.css' %} />
 
@@ -34,41 +39,45 @@
 
   <div class="container-fluid">
 
-    <p><h4>Get Used To It rather than learn! </h4></p>
+    <p>
+    <h4><strong>G</strong>et <strong>U</strong>sed <strong>T</strong>o <strong>I</strong>t rather than learn<strong>!</strong> </h4>
+    </p>
 
     <p>The name of this site "GUTI !" comes from this proverb.</p>
 
     <p>
-      One of the difficulties in learning a foreign language is the verb conjugation.<br>
-      How the native speakers have obtained that of their native language ?<br>
-      Thet did't "learn" it.  They just "get used to it". In other words, they have "installed" it naturally through countless times of experiences.<br>
+      One of the difficulties in learning foreign languages is the verb conjugation.
+      How the native speakers have obtained that of their native language ?
+      They did't "learn" it. They just "get used to it". In other words, they have "installed" it naturally through countless times of experiences.<br>
     </p>
 
-    <p>We provide you an ideal tool to simulate that.</p>
+    <p>
+    <h5><strong>We provide you an ideal tool to simulate that.</strong></h5>
+    </p>
 
     <p>Q&As of a verb are provided randomlly, according to the conditions you set (i.e. level of words/mode/tense). Verbs are attentivelly selected (see "List" page) to cover almost all types of conjugation.</p>
 
-    <p>Then all you have to do is just practicing it over and over again to "install" it into yourself. At anytime & anywhere. To your best satisfaction.</p>
+    <p>Then all you have to do is just practicing it over and over again to "install" it into yourself. At anytime & anywhere, to your best satisfaction.</p>
 
   </div>
 
+  <hr>
 
   <div class="container-sm">
     <p>
     <h5>How to use:</h5><br>
-  </div>
 
-  <div class="container-sm">
     <ol>
       <li>Click the flag of the language you'd like to practice. </li>
-      <li>This leads you to "Set" page of the language you chose.</li>
-      <li>Check conditions you'd like to practice, then click "Set" button.</li>
-      <li>Go to "Practice" page by clicking "Practice" on Navigation Bar. </li>
+      <li>At first, check conditions you'd like to practice, on the lower section of the page.</li>
       <li>Then, start your practice !! </li>
       <li>For the next question, just click "Question" button again.</li>
-      <li>When you want to change conditions, go to "Set" page via Navigation Bar and go back to #3 above. </li>
-    </ol><br>
+      <li>You can change the conditions at anytime you want, by checking/unchecking them. </li>
+      <li>To know which types & verbs are included in each level, go to "List" page via Navigation Bar. </li>
+    </ol>
   </div>
+
+  <hr>
 
   <div class="container-sm">
     <p>
@@ -79,15 +88,24 @@
     <div class="d-flex justify-content-center">
       <div class="d-flex row align-items-center" style="height:80px">
         <div class="col">
-          <a href="french/set_fr"><img src="static/home/images/frenchFrag.gif" alt="FrenchFrag"></a>
+          <a href="french/main_fr"><img src="static/home/images/frenchFrag.gif" alt="FrenchFrag"></a>
         </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="container-fluid">
+      <div class="d-flex justify-content-center">
+        (links)
       </div>
     </div>
 
 </body>
 
+
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">
-    <span class="text-muted">© 2020 Luciano</span>
+    <small>&copy; Copyright 2021 Luciano</small>
   </div>
 </footer>

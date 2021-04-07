@@ -4,20 +4,19 @@
     padding: 2rem 0rem;
     margin-bottom: 0rem;
     height: 15vh;
-    min-height: 50px;
+    min-height: 30px;
     background: url(../images/bread-2588182_1920.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .jumbotron-container {
     position: relative;
-    top: 75%;
+    top: 15%;
     transform: translateY(-50%);
 }
 
 .site-name {
     margin-bottom: 0px;
-    font-family: 'klee', serif;
     color: #F8F9F9;
     text-align: center
 }
@@ -44,8 +43,13 @@ div.container-fluid {
   margin-top: 5px;
 }
 
+strong {
+  color: #f00;
+}
 
-
+.french-blue {
+  color: #00249C;
+}
 
 
 body {

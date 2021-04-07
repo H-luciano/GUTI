@@ -38,16 +38,16 @@ subject_dict = {
 mode = ("Indicatif Présent","Indicatif Passé composé","Indicatif Impafait","Indicatif Plus-que-parfait","Indicatif Futur simple", "Subjonctif Présent","Subjonctif Passé","Conditionel Présent","Conditionel Passé", "Impératif")
 
 tense_dict = {
-"Indicatif Présent":"french/images/present_fr.png",
-"Indicatif Passé composé":"french/images/passe_fr.png",
-"Indicatif Impafait":"french/images/impafait.png",
-"Indicatif Plus-que-parfait":"french/images/plus-que-pafait.png",
-"Indicatif Futur simple":"french/images/future.png",
-"Impératif":"french/images/present_fr.png",
-"Subjonctif Présent":"french/images/present_fr.png",
-"Subjonctif Passé":"french/images/passe_fr.png",
-"Conditionel Présent":"french/images/present_fr.png",
-"Conditionel Passé":"french/images/passe_fr.png",
+"Indicatif Présent":"french/images/fr_present.png",
+"Indicatif Passé composé":"french/images/fr_past.png",
+"Indicatif Impafait":"french/images/fr_past2.png",
+"Indicatif Plus-que-parfait":"french/images/fr_past3.png",
+"Indicatif Futur simple":"french/images/fr_future.png",
+"Impératif":"french/images/fr_present.png",
+"Subjonctif Présent":"french/images/fr_present.png",
+"Subjonctif Passé":"french/images/fr_past.png",
+"Conditionel Présent":"french/images/fr_present.png",
+"Conditionel Passé":"french/images/fr_past.png",
 }
 
 table = {
@@ -60,7 +60,7 @@ table = {
 ("parler","vous"):["Vous parlez.","Vous avez parlé.","Vous parliez.","Vous aviez parlé.","Vous parlerez.","que vous parliez.","que vous ayez parlé.","vous parleriez.","vous auriez parlé.","Parlez !"],
 ("parler","ils"):["Ils parlent.","Ils ont parlé.","Ils parlaient.","Ils avaient parlé.","Ils parleront.","qu'ils parlent.","qu'ils aient parlé.","ils parleraient.","ils auraient parlé.","n/a"],
 ("parler","elles"):["Elles parlent.","Elles ont parlé.","Elles parlaient.","Elles avaient parlé.","Elles parleront.","qu'elles parlent.","qu'elles aient parlé.","elles parleraient.","elle auraient parlé.","n/a"],
-("parler","ça"):["Ça parle.","Ça a parlé.","Ça parlasit.","Ça avait parlé.","Ça parlera.","que ça parle.","que ça ait parlé.","ça parlerait.","ça aurait parlé.","n/a"],
+("parler","ça"):["Ça parle.","Ça a parlé.","Ça parlait.","Ça avait parlé.","Ça parlera.","que ça parle.","que ça ait parlé.","ça parlerait.","ça aurait parlé.","n/a"],
 
 ("donner","je"):["Je donne.","J'ai donné.","Je donnais.","J'avais donné.","Je donnerai.","que je donne.","que j'aie donné."," je donnerais.","j'aurais donné","n/a"],
 ("donner","tu"):["Tu donnes.","Tu as donné.","Tu donnais.","Tu avais donné.","Tu donneras.","que tu donnes.","que tu aies donné.","tu donnerais.","tu aurais donné.","Donne !"],
@@ -610,7 +610,7 @@ table = {
 ("revoir","il"):["Il revoit.","Il a revu.","Il revoyait.","Il avait revu.","Il reverra.","qu'il revoie.","qu'il ait revu.","il reverrait.","il aurait revu.","n/a"],
 ("revoir","elle"):["Elle revoit.","Elle a revu.","Elle revoyait.","Elle avait revu.","Elle reverra.","qu'elle revoie.","qu'elle ait revu.","elle reverrait.","elle aurait revu.","n/a"],
 ("revoir","nous"):["Nous revoyons.","Nous arevons revu.","Nous revoyions.","Nous avions revu.","Nous reverrons.","que nous revoyions.","que nous ayons revu.","nous reverrions.","nous aurions revu.","Revoyons !"],
-("revoir","revous"):["revous revoyez.","revous avez revu.","revous revoyiez.","revous aviez revu.","revous reverrez.","que revous revoyiez.","que revous ayez revu.","revous reverriez.","revous auriez revu.","Revoyez !"],
+("revoir","vous"):["revous revoyez.","revous avez revu.","revous revoyiez.","revous aviez revu.","revous reverrez.","que revous revoyiez.","que revous ayez revu.","revous reverriez.","revous auriez revu.","Revoyez !"],
 ("revoir","ils"):["Ils revoient.","Ils ont revu.","Ils revoyaient.","Ils avaient revu.","Ils reverront.","qu'ils revoient.","qu'ils aient revu.","ils reverraient.","ils auraient revu.","n/a"],
 ("revoir","elles"):["Elles revoient.","Elles ont revu.","Elles revoyaient.","elles avaient revu.","Elles reverront.","qu'elles revoient.","qu'elles aient revu.","elles reverraient.","elle auraient revu.","n/a"],
 ("revoir","ça"):["Ça revoit.","Ça a revu.","Ça revoyait.","Ça avait revu.","Ça reverra.","que ça revoie.","que ça ait revu.","ça reverrait.","ça aurait revu.","n/a"],
@@ -1115,7 +1115,7 @@ table = {
 ("paraître","elles"):["Elles paraissent.","Elles ont paru.","Elles paraissaient.","elles avaient paru.","Elles paraîtront.","qu'elles paraissent.","qu'elles aient paru.","elles paraîtraient.","elle auraient paru.","n/a"],
 ("paraître","ça"):["Ça paraît.","Ça a paru.","Ça paraisait.","Ça avait paru.","Ça paraîtra.","que ça paraisse.","que ça ait paru.","ça paraîtrait.","ça aurait paru.","n/a"],
 
-("atteindre","je"):["Je atteins.","J'ai atteint.","Je atteignais.","J'avais atteint.","Je atteindrai.","que je atteigne.","que j'aie atteint.","je atteindrais.","j'aurais atteint.","n/a"],
+("atteindre","je"):["J'atteins.","J'ai atteint.","J'atteignais.","J'avais atteint.","J'atteindrai.","que j'atteigne.","que j'aie atteint.","J'atteindrais.","j'aurais atteint.","n/a"],
 ("atteindre","tu"):["Tu atteins.","Tu as atteint.","Tu atteignais.","Tu avais atteint.","Tu atteindras.","que tu atteingnes.","que tu aies atteint.","tu atteindrais.","tu aurais atteint.","Atteins !"],
 ("atteindre","il"):["Il atteint.","Il a atteint.","Il atteignait.","Il avait atteint.","Il atteindra.","qu'il atteinge.","qu'il ait atteint.","il atteindrait.","il aurait atteint.","n/a"],
 ("atteindre","elle"):["Elle atteint.","Ella atteint.","Elle atteignait.","Elle avait atteint.","Elle atteindra.","qu'elle atteinge.","qu'elle ait atteint.","elle atteindrait.","elle aurait atteint.","n/a"],
