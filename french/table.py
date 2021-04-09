@@ -18,7 +18,7 @@ re_3 = ["résoudre","soudre","naître","renaître","conclure","exclure","rompre"
 
 Illéguliers_1 = ["être","avoir","aller"]
 Illéguliers_2 = ["pouvoir","vouloir","devoir","falloir","savoir","croire","mourir","boire","s'asseoir"]
-Illéguliers_3 = ["pleuvoir","prévoir","suffire","coudre","choir","prévaloir","se taire","hair","foutre"]
+Illéguliers_3 = ["pleuvoir","prévoir","suffire","coudre","choir","prévaloir","se taire","haïr","foutre"]
 
 
 subject = ('je','tu','il','elle','ça','nous','vous','ils','elles')
@@ -1571,7 +1571,7 @@ table = {
 ("prévoir","il"):["Il prévoit.","Il a prévu.","Il prévoyait.","Il avait prévu.","Il prévoira.","qu'il prévoie.","qu'il ait prévu.","il prévoirait.","il aurait prévu.","n/a"],
 ("prévoir","elle"):["Elle prévoit.","Elle a prévu.","Elle prévoyait.","Elle avait prévu.","Elle prévoira.","qu'elle prévoie.","qu'elle ait prévu.","elle prévoirait.","elle aurait prévu.","n/a"],
 ("prévoir","nous"):["Nous prévoyons.","Nous arevons prévu.","Nous prévoyions.","Nous avions prévu.","Nous prévoirons.","que nous prévoyions.","que nous ayons prévu.","nous prévoirions.","nous aurions prévu.","Prévoyons !"],
-("prévoir","revous"):["Vous prévoyez.","revous avez prévu.","Vous prévoyiez.","revous aviez prévu.","Vous prévoirez.","que vous prévoyiez.","que revous ayez prévu.","vous prévoiriez.","revous auriez prévu.","Prévoyez !"],
+("prévoir","vous"):["Vous prévoyez.","vous avez prévu.","Vous prévoyiez.","vous aviez prévu.","Vous prévoirez.","que vous prévoyiez.","que vous ayez prévu.","vous prévoiriez.","vous auriez prévu.","Prévoyez !"],
 ("prévoir","ils"):["Ils prévoient.","Ils ont prévu.","Ils prévoyaient.","Ils avaient prévu.","Ils prévoiront.","qu'ils prévoient.","qu'ils aient prévu.","ils prévoiraient.","ils auraient prévu.","n/a"],
 ("prévoir","elles"):["Elles prévoyent.","Elles ont prévu.","Elles prévoyaient.","elles avaient prévu.","Elles prévoiront.","qu'elles prévoient.","qu'elles aient prévu.","elles prévoiraient.","elle auraient prévu.","n/a"],
 ("prévoir","ça"):["Ça prévoit.","Ça a prévu.","Ça prévoyait.","Ça avait prévu.","Ça prévoira.","que ça prévoie.","que ça ait prévu.","ça pour voirait.","ça aurait prévu.","n/a"],
@@ -1626,15 +1626,15 @@ table = {
 ("se taire","elles"):["Elles se taisent.","Elles se sont tues.","Elles se taisaient.","Elles s'étaient tues.","Elles se tairont.","qu'elles se taisent.","qu'elles se soient tues.","elles sevtairent.","elles se seraient tues.","n/a"],
 ("se taire","ça"):["Ça se tait.","Ça s'est tu.","Ça se taisait.","Ça s'etait tu.","Ça se taira.","que ça se taise.","que ça se soit tu.","ça se tairait.","ça se serait tu.","n/a"],
 
-("haïr ","je"):["Je hais.","J'ai haï.","Je haïssais.","J'avais haï.","Je haïrai.","que je haïsse.","que j'aie haï.","je haïrais.","j'aurais haï.","n/a"],
-("haïr ","tu"):["Tu hais.","Tu as haï.","Tu haïssais.","Tu avais haï.","Tu haïras.","que tu haïssess.","que tu aies haï.","tu haïrais.","tu aurais haï.","Hais !"],
-("haïr ","il"):["Il hait.","Il a haï.","Il haïssait.","Il avait haï.","Il haïra.","qu'il haïsse.","qu'il ait haï.","il haïrait.","il aurait haï.","n/a"],
-("haïr ","elle"):["Elle hait.","Ella a haï.","Elle haïssait.","Ella avait haï.","Elle haïra.","qu'elle haïsse.","qu'elle ait haï.","elle haïrait.","elle aurait haï.","n/a"],
-("haïr ","nous"):["Nous haïssons.","Nous avons haï.","Nous haïssions.","Nous avions haï.","Nous haïrons.","que nous haïssions.","que nous ayons haï.","nous haïrions.","nous aurions haï.","Haïssons !"],
-("haïr ","vous"):["Vous haïssez.","Vous avez haï.","Vous haïssiez.","Vous aviez haï.","Vous haïrez.","que vous haïssiez.","que vous ayez haï.","vous haïriez.","vous auriez haï.","Haïssez !"],
-("haïr ","ils"):["Ils haïssent.","Ils ont haï.","Ils haïssaient.","Ils avaient haï.","Ils haïront.","qu'ils haïssent.","qu'ils aient haï.","ils haïraient.","ils auraient haï.","n/a"],
-("haïr ","elles"):["Elles haïssent.","Elles ont haï.","Elles haïssaient.","Elles avaient haï.","Elles haïront.","qu'elles haïssent.","qu'elles aient haï.","elles haïraient.","elle auraient haï.","n/a"],
-("haïr ","ça"):["Ça hait.","Ça a haï.","Ça haïssait.","Ça avait haï.","Ça haïra.","que ça haïsse.","que ça ait haï.","ça haïrait.","ça aurait haï.","n/a"],
+("haïr","je"):["Je hais.","J'ai haï.","Je haïssais.","J'avais haï.","Je haïrai.","que je haïsse.","que j'aie haï.","je haïrais.","j'aurais haï.","n/a"],
+("haïr","tu"):["Tu hais.","Tu as haï.","Tu haïssais.","Tu avais haï.","Tu haïras.","que tu haïssess.","que tu aies haï.","tu haïrais.","tu aurais haï.","Hais !"],
+("haïr","il"):["Il hait.","Il a haï.","Il haïssait.","Il avait haï.","Il haïra.","qu'il haïsse.","qu'il ait haï.","il haïrait.","il aurait haï.","n/a"],
+("haïr","elle"):["Elle hait.","Ella a haï.","Elle haïssait.","Ella avait haï.","Elle haïra.","qu'elle haïsse.","qu'elle ait haï.","elle haïrait.","elle aurait haï.","n/a"],
+("haïr","nous"):["Nous haïssons.","Nous avons haï.","Nous haïssions.","Nous avions haï.","Nous haïrons.","que nous haïssions.","que nous ayons haï.","nous haïrions.","nous aurions haï.","Haïssons !"],
+("haïr","vous"):["Vous haïssez.","Vous avez haï.","Vous haïssiez.","Vous aviez haï.","Vous haïrez.","que vous haïssiez.","que vous ayez haï.","vous haïriez.","vous auriez haï.","Haïssez !"],
+("haïr","ils"):["Ils haïssent.","Ils ont haï.","Ils haïssaient.","Ils avaient haï.","Ils haïront.","qu'ils haïssent.","qu'ils aient haï.","ils haïraient.","ils auraient haï.","n/a"],
+("haïr","elles"):["Elles haïssent.","Elles ont haï.","Elles haïssaient.","Elles avaient haï.","Elles haïront.","qu'elles haïssent.","qu'elles aient haï.","elles haïraient.","elle auraient haï.","n/a"],
+("haïr","ça"):["Ça hait.","Ça a haï.","Ça haïssait.","Ça avait haï.","Ça haïra.","que ça haïsse.","que ça ait haï.","ça haïrait.","ça aurait haï.","n/a"],
 
 ("foutre","je"):["Je fous.","J'ai foutu.","Je foutais.","J'avais foutu.","Je foutrai.","que je foute.","que j'aie foutu.","je foutrais.","j'aurais foutu.","n/a"],
 ("foutre","tu"):["Tu fous.","Tu as foutu.","Tu foutais.","Tu avais foutu.","Tu foutras.","que tu foutes.","que tu aies foutu.","tu foutrais.","tu aurais foutu.","Fous !"],

@@ -18,7 +18,8 @@
 .site-name {
     margin-bottom: 0px;
     color: #F8F9F9;
-    text-align: center
+    text-align: center;
+    text-align: middle;
 }
 
 .btn-french-blue {
@@ -43,9 +44,7 @@ div.container-fluid {
   margin-top: 5px;
 }
 
-strong {
-  color: #f00;
-}
+
 
 .french-blue {
   color: #00249C;
@@ -53,5 +52,5 @@ strong {
 
 
 body {
-font-family: 'klee','Segoe UI','Verdana','Arial','Hiragino Mincho Pro',serif
+font-family: 'klee','Papyrus','Segoe UI',sans-serif;
 }

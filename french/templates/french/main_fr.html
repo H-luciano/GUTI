@@ -11,7 +11,6 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-  <link rel="stylesheet" type="text/css" href={% static 'french/css/normalize.css' %} />
   <link rel="stylesheet" type="text/css" href={% static 'french/css/bootstrap.min.css' %} />
   <link rel="stylesheet" type="text/css" href={% static 'french/css/custom.css' %} />
 
@@ -60,7 +59,7 @@
   </div>
 </nav>
 
-
+{% load static %}
 
   <!-- 単語 -->
 
@@ -78,7 +77,7 @@
       <div class="d-flex justify-content-center">
         <div class="d-flex flex-row">
           <div style="padding:0px;">
-            {% load static %}
+
             <img src="{% static subject %}" alt="My image">
           </div>
           <div style="padding:0px;">
@@ -147,10 +146,10 @@
     </div>
 
     <div class="row">
-      <div class="col-3 col-md-3">{{ form.INDICATIF|as_crispy_field }} </div>
-      <div class="col-3 col-md-3">{{ form.CONDITIONNEL|as_crispy_field }} </div>
-      <div class="col-3 col-md-3">{{ form.SUBJONCTIF|as_crispy_field }} </div>
-      <div class="col-3 col-md-3">{{ form.IMPÉRATIF|as_crispy_field }} </div>
+      <div class="col-6 col-md-3">{{ form.INDICATIF|as_crispy_field }} </div>
+      <div class="col-6 col-md-3">{{ form.CONDITIONNEL|as_crispy_field }} </div>
+      <div class="col-6 col-md-3">{{ form.SUBJONCTIF|as_crispy_field }} </div>
+      <div class="col-6 col-md-3">{{ form.IMPÉRATIF|as_crispy_field }} </div>
     </div>
   </div>
 
@@ -185,8 +184,8 @@
 
 </body>
 
-<footer class="footer mt-auto py-3 bg-light">
-  <div class="container">
+<footer class="footer mt-auto py-3 bg-light" >
+  <div class="container text-right">
     <small>&copy; Copyright 2021 Luciano</small>
   </div>
 </footer>
