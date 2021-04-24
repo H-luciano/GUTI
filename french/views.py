@@ -35,9 +35,10 @@ class French(TemplateView):
             indicatif_chcd = request.POST.getlist('INDICATIF')
             subjontif_chcd = request.POST.getlist('SUBJONCTIF')
             conditionel_chcd = request.POST.getlist('CONDITIONNEL')
+            impératif_chcd = request.POST.getlist('IMPÉRATIF')
 
             #上記リストを結合
-            mode_tense_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd
+            mode_tense_cnddt = indicatif_chcd + subjontif_chcd + conditionel_chcd + impératif_chcd
 
             #チェックボタンから候補(word)選択のリストを作る
             er_chcd = request.POST.getlist('ER')
@@ -98,7 +99,7 @@ class French(TemplateView):
             self.params['subject'] = subject_image
             self.params['result'] = word_fnl
             self.params['form'] = ModeSelectFrForm(request.POST)
-            
+
         return render(request,'french/main_fr.html', self.params)
 
 
