@@ -312,7 +312,7 @@ table = {
 ("renvoyer","elles"):["Elles renvoyent.","Elles ont renvoyé.","Elles renvoyaient.","elles avaient renvoyé.","Elles renverront.","qu'elles renvoient.","qu'elles aient renvoyé.","elles renverraient.","elle auraient renvoyé.","n/a"],
 ("renvoyer","ça"):["Ça renvoie.","Ça a renvoyé.","Ça renvoyait.","Ça avait renvoyé.","Ça renverra.","que ça renvoie.","que ça ait renvoyé.","ça renverrait.","ça aurait renvoyé.","n/a"],
 
-("mener","je"):["Je mène.","J'ai mené.","Je ,enais.","J'avais mené.","Je mènerai.","que je mène.","que j'aie mené.","je mènerais.","j'aurais mené.","n/a"],
+("mener","je"):["Je mène.","J'ai mené.","Je menais.","J'avais mené.","Je mènerai.","que je mène.","que j'aie mené.","je mènerais.","j'aurais mené.","n/a"],
 ("mener","tu"):["Tu mènes.","Tu as mené.","Tu menais.","Tu avais mené.","Tu mènras.","que tu mènes.","que tu aies mené.","tu mènerais.","tu aurais mené.","Mène !"],
 ("mener","il"):["Il mène.","Il a mené.","Il menait.","Il avait mené.","Il mènera.","qu'il mène.","qu'il ait mené.","il mènerait.","il aurait mené.","n/a"],
 ("mener","elle"):["Elle mène.","Elle a mené.","Elle menait.","Elle avait mené.","Elle mènera.","qu'elle mène.","qu'elle ait mené.","elle mènerait.","elle aurait mené.","n/a"],
@@ -968,7 +968,7 @@ table = {
 ("satisfaire","je"):["Je satisfais.","J'ai satisfait.","Je satisfaisais.","J'avais satisfait.","Je satisferai.","que je satisfasse.","que j'aie satisfait.","je satisferais.","j'aurais satisfait.","n/a"],
 ("satisfaire","tu"):["Tu satisfais.","Tu as satisfait.","Te satisfaisas.","Tu avais satisfait.","Tu satisferas.","que tu satisfasses.","que tu aies satisfait.","tu satisferais.","tu aurais satisfait.","Satisfais !"],
 ("satisfaire","il"):["Il satisfait.","Il a satisfait.","Il satisfaisait.","Il avait satisfait.","Il satisfera.","qu'il satisfasse.","qu'il ait satisfait.","il satisferait.","il aurait satisfait.","n/a"],
-("satisfaire","elle"):["Elle satisfait.","Ella satisfait.","Elle satisfaisait.","Elle avait satisfait.","Elle satisfera.","qu'elle satisfasse.","qu'elle ait satisfait.","elle satisferait.","elle aurait satisfait.","n/a"],
+("satisfaire","elle"):["Elle satisfait.","Elle a satisfait.","Elle satisfaisait.","Elle avait satisfait.","Elle satisfera.","qu'elle satisfasse.","qu'elle ait satisfait.","elle satisferait.","elle aurait satisfait.","n/a"],
 ("satisfaire","nous"):["Nous satisfaisons.","Nous avons satisfait.","Nous satisfaisions.","Nous avions satisfait.","Nous satisferons.","que nous satisfassions.","que nous ayons satisfait.","nous satisferions.","nous aurions satisfait.","Satisfaison !"],
 ("satisfaire","vous"):["Vous satisfaites.","Vous avez satisfait.","Vous satisfaisiez.","Vous aviez satisfait.","Vous satisferez.","que vous satisfassiez.","que vous ayez satisfait.","vous satisferiez.","vous auriez satisfait.","Satisfaites !"],
 ("satisfaire","ils"):["Ils satisfont.","Ils ont satisfait.","Ils satisfaisaient.","Ils avaient satisfait.","Ils satisferont.","qu'ils satisfassent.","qu'ils aient satisfait.","ils satisferaient.","ils auraient satisfait.","n/a"],
@@ -1633,7 +1633,7 @@ table = {
 ("haïr","nous"):["Nous haïssons.","Nous avons haï.","Nous haïssions.","Nous avions haï.","Nous haïrons.","que nous haïssions.","que nous ayons haï.","nous haïrions.","nous aurions haï.","Haïssons !"],
 ("haïr","vous"):["Vous haïssez.","Vous avez haï.","Vous haïssiez.","Vous aviez haï.","Vous haïrez.","que vous haïssiez.","que vous ayez haï.","vous haïriez.","vous auriez haï.","Haïssez !"],
 ("haïr","ils"):["Ils haïssent.","Ils ont haï.","Ils haïssaient.","Ils avaient haï.","Ils haïront.","qu'ils haïssent.","qu'ils aient haï.","ils haïraient.","ils auraient haï.","n/a"],
-("haïr","elles"):["Elles haïssent.","Elles ont haï.","Elles haïssaient.","Elles avaient haï.","Elles haïront.","qu'elles haïssent.","qu'elles aient haï.","elles haïraient.","elle auraient haï.","n/a"],
+("haïr","elles"):["Elles haïssent.","Elles ont haï.","Elles haïssaient.","Elles avaient haï.","Elles haïront.","qu'elles haïssent.","qu'elles aient haï.","elles haïraient.","elles auraient haï.","n/a"],
 ("haïr","ça"):["Ça hait.","Ça a haï.","Ça haïssait.","Ça avait haï.","Ça haïra.","que ça haïsse.","que ça ait haï.","ça haïrait.","ça aurait haï.","n/a"],
 
 ("foutre","je"):["Je fous.","J'ai foutu.","Je foutais.","J'avais foutu.","Je foutrai.","que je foute.","que j'aie foutu.","je foutrais.","j'aurais foutu.","n/a"],
