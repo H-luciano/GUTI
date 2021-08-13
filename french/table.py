@@ -59,7 +59,7 @@ table = {
 ("parler","nous"):["Nous parlons.","Nous avons parlé.","Nous parlion.","Nous avions parlé.","Nous parlerons.","que nous parlions.","que nous ayons parlé.","nous parlerions.","nous aurions parlé.","Parlons !"],
 ("parler","vous"):["Vous parlez.","Vous avez parlé.","Vous parliez.","Vous aviez parlé.","Vous parlerez.","que vous parliez.","que vous ayez parlé.","vous parleriez.","vous auriez parlé.","Parlez !"],
 ("parler","ils"):["Ils parlent.","Ils ont parlé.","Ils parlaient.","Ils avaient parlé.","Ils parleront.","qu'ils parlent.","qu'ils aient parlé.","ils parleraient.","ils auraient parlé.","n/a"],
-("parler","elles"):["Elles parlent.","Elles ont parlé.","Elles parlaient.","Elles avaient parlé.","Elles parleront.","qu'elles parlent.","qu'elles aient parlé.","elles parleraient.","elle auraient parlé.","n/a"],
+("parler","elles"):["Elles parlent.","Elles ont parlé.","Elles parlaient.","Elles avaient parlé.","Elles parleront.","qu'elles parlent.","qu'elles aient parlé.","elles parleraient.","elles auraient parlé.","n/a"],
 ("parler","ça"):["Ça parle.","Ça a parlé.","Ça parlait.","Ça avait parlé.","Ça parlera.","que ça parle.","que ça ait parlé.","ça parlerait.","ça aurait parlé.","n/a"],
 
 ("donner","je"):["Je donne.","J'ai donné.","Je donnais.","J'avais donné.","Je donnerai.","que je donne.","que j'aie donné.","je donnerais.","j'aurais donné","n/a"],
@@ -69,7 +69,7 @@ table = {
 ("donner","nous"):["Nous donnons. ","Nous avons donné.","Nous donnions.","Nous avions donné.","Nous donnerons.","que nous donnions.","que nous ayons donné.","nous donnerions.","nous aurions donné.","Donnons !"],
 ("donner","vous"):["Vous donnez.","Vous avez donné.","Vous donniez.","Vous aviez donné.","Vous donnerez.","que vous donniez.","que vous ayez donné.","vous donneriez.","vous auriez donné.","Donnez !"],
 ("donner","ils"):["Ils donnent.","Ils ont donné.","Ils donnaient.","Ils avaient donné.","Ils donneront.","qu'ils donnent.","qu'ils aient donné.","ils donneraient.","ils auraient donné.","n/a"],
-("donner","elles"):["Elles donnent.","Elles ont donné.","Elles donnaient.","Elles avaient donné.","Elles donneront.","qu'elles donnent.","qu'elles aient donné.","elles donneraient.","elle auraient donné.","n/a"],
+("donner","elles"):["Elles donnent.","Elles ont donné.","Elles donnaient.","Elles avaient donné.","Elles donneront.","qu'elles donnent.","qu'elles aient donné.","elles donneraient.","elles auraient donné.","n/a"],
 ("donner","ça"):["Ça donne.","Ça a donné.","Ça donnait.","Ça avait donné.","Ça donnera.","que ça donne.","que ça ait donné.","ça donnerait.","ça aurait donné.","n/a"],
 
 ("passer","je"):["Je passe.","J'ai passé.","Je passais.","J'avais passé.","Je passerai.","que je passe.","que j'aie passé.","je passerais.","j'aurais passé","n/a"],
@@ -79,7 +79,7 @@ table = {
 ("passer","nous"):["Nous passons. ","Nous avons passé.","Nous passions.","Nous avions passé.","Nous passerons.","que nous passions.","que nous ayons passé.","nous passerions.","nous aurions passé.","Passons !"],
 ("passer","vous"):["Vous passez.","Vous avez passé.","Vous passiez.","Vous aviez passé.","Vous passerez.","que vous passiez.","que vous ayez passé.","vous passeriez.","vous auriez passé.","Passez !"],
 ("passer","ils"):["Ils passent.","Ils ont passé.","Ils passaient.","Ils avaient passé.","Ils passeront.","qu'ils passent.","qu'ils aient passé.","ils passeraient.","ils auraient passé.","n/a"],
-("passer","elles"):["Elles passent.","Elles ont passé.","Elles passaient.","Elles avaient passé.","Elles passeront.","qu'elles passent.","qu'elles aient passé.","elles passeraient.","elle auraient passé.","n/a"],
+("passer","elles"):["Elles passent.","Elles ont passé.","Elles passaient.","Elles avaient passé.","Elles passeront.","qu'elles passent.","qu'elles aient passé.","elles passeraient.","elles auraient passé.","n/a"],
 ("passer","ça"):["Ça passe.","Ça a passé.","Ça passait.","Ça avait passé.","Ça passera.","que ça passe.","que ça ait passé.","ça passerait.","ça aurait passé.","n/a"],
 
 ("se trouver","je"):["Je me trouve.","Je me suis trouvé.","Je me trouvais.","Je m'étais trouvé.","Je me trouverai.","que je me trouve.","que je me sois trouvé.","je me trouverais.","je me serais trouvé.","n/a"],
@@ -89,7 +89,7 @@ table = {
 ("se trouver","nous"):["Nous nous trouvons.","Nous nous sommes trouvés.","Nous nous trouvions.","Nous nous étions trouvés.","Nous nous trouverons.","que nous nous trouvions..","que nous soyons trouvés.","nous nous trouverions.","nous nous serions trouvés.","Trouvons-nous !"],
 ("se trouver","vous"):["Vous vous trouvez.","Vous vous êtes trouvés.","Vous vous trouviez.","Vous vous étiez trouvés.","Vous vous trouverez.","que vous vous trouvliez.","que vous vous soyez trouvés.","vous vous trouveriez.","vous vous seriez trouvés.","Trouvez-vous !"],
 ("se trouver","ils"):["Ils se trouvent.","Ils se sont trouvés","Ils se trouvaient.","Ils s'étaient trouvés.","Ils se trouveront.","qu'ils se trouvent.","qu'ils se soient trouvés.","ils se trouveraient.","ils se seraient trouvés","n/a"],
-("se trouver","elles"):["Elles se trouvent.","Elles se sont trouvées.","Elles se trouvaient.","Elles s'etaient trouvées.","Elles se trouveront.","qu'elles se trouvent.","qu'elles se soient trouvées.","elle se trouveraient.","elles se seraient trouvées.","n/a"],
+("se trouver","elles"):["Elles se trouvent.","Elles se sont trouvées.","Elles se trouvaient.","Elles s'etaient trouvées.","Elles se trouveront.","qu'elles se trouvent.","qu'elles se soient trouvées.","elles se trouveraient.","elles se seraient trouvées.","n/a"],
 ("se trouver","ça"):["Ça se trouve.","Ça s'est trouvé.","Ça se trouvait.","Ça s'était trouvé.","Ça se trouvera.","que  ça se trouve.","que ça se soit trouvé.","ça se trouverait.","ça se serait trouvé.","n/a"],
 
 ("laisser","je"):["Je laisse.","J'ai laissé.","Je laissais.","J'avais laissé.","Je laisserai.","que je laisse.","que j'aie laissé.","je laisserais.","j'aurais laissé","n/a"],
@@ -99,7 +99,7 @@ table = {
 ("laisser","nous"):["Nous laissons. ","Nous avons laissé.","Nous laissions.","Nous avions laissé.","Nous laisserons.","que nous laissions.","que nous ayons laissé.","nous laisserions.","nous aurions laissé.","Laissons !"],
 ("laisser","vous"):["Vous laissez.","Vous avez laissé.","Vous laissiez.","Vous aviez laissé.","Vous laisserez.","que vous laissiez.","que vous ayez laissé.","vous laisseriez.","vous auriez laissé.","Laissez !"],
 ("laisser","ils"):["Ils laissent.","Ils ont laissé.","Ils laissaient.","Ils avaient laissé.","Ils laisseront.","qu'ils laissent.","qu'ils aient laissé.","ils laisseraient.","ils auraient laissé.","n/a"],
-("laisser","elles"):["Elles laissent.","Elles ont laissé.","Elles laissaient.","Elles avaient laissé.","Elles laisseront.","qu'elles laissent.","qu'elles aient laissé.","elles laisseraient.","elle auraient laissé.","n/a"],
+("laisser","elles"):["Elles laissent.","Elles ont laissé.","Elles laissaient.","Elles avaient laissé.","Elles laisseront.","qu'elles laissent.","qu'elles aient laissé.","elles laisseraient.","elles auraient laissé.","n/a"],
 ("laisser","ça"):["Ça laisse.","Ça a laissé.","Ça laissait.","Ça avait laissé.","Ça laissera.","que ça laisse.","que ça ait laissé.","ça laisserait.","ça aurait laissé.","n/a"],
 
 ("penser","je"):["Je pense.","J'ai pensé.","Je pensais.","J'avais pensé.","Je penserai.","que je pense.","que j'aie pensé.","je penserais.","j'aurais pensé","n/a"],
@@ -109,7 +109,7 @@ table = {
 ("penser","nous"):["Nous pensons. ","Nous avons pensé.","Nous pensions.","Nous avions pensé.","Nous penserons.","que nous pensions.","que nous ayons pensé.","nous penserions.","nous aurions pensé.","Pensons !"],
 ("penser","vous"):["Vous pensez.","Vous avez pensé.","Vous pensiez.","Vous aviez pensé.","Vous penserez.","que vous pensiez.","que vous ayez pensé.","vous penseriez.","vous auriez pensé.","Pensez !"],
 ("penser","ils"):["Ils pensent.","Ils ont pensé.","Ils pensaient.","Ils avaient pensé.","Ils penseront.","qu'ils pensent.","qu'ils aient pensé.","ils penseraient.","ils auraient pensé.","n/a"],
-("penser","elles"):["Elles pensent.","Elles ont pensé.","Elles pensaient.","Elles avaient pensé.","Elles penseront.","qu'elles pensent.","qu'elles aient pensé.","elles penseraient.","elle auraient pensé.","n/a"],
+("penser","elles"):["Elles pensent.","Elles ont pensé.","Elles pensaient.","Elles avaient pensé.","Elles penseront.","qu'elles pensent.","qu'elles aient pensé.","elles penseraient.","elles auraient pensé.","n/a"],
 ("penser","ça"):["Ça pense.","Ça a pensé.","Ça pensait.","Ça avait pensé.","Ça pensera.","que ça pense.","que ça ait pensé.","ça penserait.","ça aurait pensé.","n/a"],
 
 ("chercher","je"):["Je cherche.","J'ai cherché.","Je cherchais.","J'avais cherché.","Je chercherai.","que je cherche.","que j'aie cherché.","je chercherais.","j'aurais cherché","n/a"],
@@ -119,7 +119,7 @@ table = {
 ("chercher","nous"):["Nous cherchons. ","Nous avons cherché.","Nous cherchions.","Nous avions cherché.","Nous chercherons.","que nous cherchions.","que nous ayons cherché.","nous chercherions.","nous aurions cherché.","Cherchons !"],
 ("chercher","vous"):["Vous cherchez.","Vous avez cherché.","Vous cherchiez.","Vous aviez cherché.","Vous chercherez.","que vous cherchiez.","que vous ayez cherché.","vous chercheriez.","vous auriez cherché.","Cherchez !"],
 ("chercher","ils"):["Ils cherchent.","Ils ont cherché.","Ils cherchaient.","Ils avaient cherché.","Ils chercheront.","qu'ils cherchent.","qu'ils aient cherché.","ils chercheraient.","ils auraient cherché.","n/a"],
-("chercher","elles"):["Elles cherchent.","Elles ont cherché.","Elles cherchaient.","Elles avaient cherché.","Elles chercheront.","qu'elles cherchent.","qu'elles aient cherché.","elles chercheraient.","elle auraient cherché.","n/a"],
+("chercher","elles"):["Elles cherchent.","Elles ont cherché.","Elles cherchaient.","Elles avaient cherché.","Elles chercheront.","qu'elles cherchent.","qu'elles aient cherché.","elles chercheraient.","elles auraient cherché.","n/a"],
 ("chercher","ça"):["Ça cherche.","Ça a cherché.","Ça cherchait.","Ça avait cherché.","Ça cherchera.","que ça cherche.","que ça ait cherché.","ça chercherait.","ça aurait cherché.","n/a"],
 
 ("demander","je"):["Je demande.","J'ai demandé.","Je demandais.","J'avais demandé.","Je demanderai.","que je demande.","que j'aie demandé.","je demanderais.","j'aurais demandé","n/a"],
@@ -129,7 +129,7 @@ table = {
 ("demander","nous"):["Nous demandons. ","Nous avons demandé.","Nous demandions.","Nous avions demandé.","Nous demanderons.","que nous demandions.","que nous ayons demandé.","nous demanderions.","nous aurions demandé.","Demandons !"],
 ("demander","vous"):["Vous demandez.","Vous avez demandé.","Vous demandiez.","Vous aviez demandé.","Vous demanderez.","que vous demandiez.","que vous ayez demandé.","vous demanderiez.","vous auriez demandé.","Demandez !"],
 ("demander","ils"):["Ils demandent.","Ils ont demandé.","Ils demandaient.","Ils avaient demandé.","Ils demanderont.","qu'ils demandent.","qu'ils aient demandé.","ils demanderaient.","ils auraient demandé.","n/a"],
-("demander","elles"):["Elles demandent.","Elles ont demandé.","Elles demandaient.","Elles avaient demandé.","Elles demanderont.","qu'elles demandent.","qu'elles aient demandé.","elles demanderaient.","elle auraient demandé.","n/a"],
+("demander","elles"):["Elles demandent.","Elles ont demandé.","Elles demandaient.","Elles avaient demandé.","Elles demanderont.","qu'elles demandent.","qu'elles aient demandé.","elles demanderaient.","elles auraient demandé.","n/a"],
 ("demander","ça"):["Ça demande.","Ça a demandé.","Ça demandait.","Ça avait demandé.","Ça demandera.","que ça demande.","que ça ait demandé.","ça demanderait.","ça aurait demandé.","n/a"],
 
 ("manger","je"):["Je mange.","J'ai mangé.","Je mangeais.","J'avais mangé.","Je mangerai.","que je mange.","que j'aie mangé.","je mangerais.","j'aurais mangé.","n/a"],
@@ -139,7 +139,7 @@ table = {
 ("manger","nous"):["Nous mangeons.","Nous avons mangé.","Nous mangions.","Nous avions mangé.","Nous mangerons.","que nous mangions.","que nous ayons mangé.","nous mangerions.","nous aurions mangé.","Mangeons !"],
 ("manger","vous"):["Vous mangez.","Vous avez mangé.","Vous mangiez.","Vous aviez mangé.","Vous mangerez.","que vous mangiez.","que vous ayez mangé.","vous mangeriez.","vous auriez mangé.","Mangez!"],
 ("manger","ils"):["Ils mangent.","Ils ont mangé.","Ils mangeaient.","Ils avaient mangé.","Ils mangeront.","qu'ils mangent.","qu'ils aient mangé.","ils mangeraient.","ils auraient mangé.","n/a"],
-("manger","elles"):["Elles mangent.","Elles ont mangé.","Elles mangeaient.","Elles avaient mangé.","Elles mangeront.","qu'elles mangent.","qu'elles aient mangé.","elles mangeraient.","elle auraient mangé.","n/a"],
+("manger","elles"):["Elles mangent.","Elles ont mangé.","Elles mangeaient.","Elles avaient mangé.","Elles mangeront.","qu'elles mangent.","qu'elles aient mangé.","elles mangeraient.","elles auraient mangé.","n/a"],
 ("manger","ça"):["Ça mange.","Ça a mangé.","Ça mangeait.","Ça avait mangé.","Ça mangera.","que ça mange.","que ça ait mangé.","ça mangerait.","ça aurait mangé.","n/a"],
 
 ("changer","je"):["Je change.","J'ai changé.","Je changeais,","J'avais changé.","Je changerai.","que je change.","que j'aie changé.","je changerais.","j'aurais changé.","n/a"],
@@ -149,7 +149,7 @@ table = {
 ("changer","nous"):["Nous changeons.","Nous avons changé.","Nous changions.","Nous avions changé.","Nous changerons.","que nous changions.","que nous ayons changé.","nous changerions.","nous aurions changé.","Changeons !"],
 ("changer","vous"):["Vous changez.","Vous avez changé.","Vous changiez.","Vous aviez changé.","Vous changerez.","que vous changiez.","que vous ayez changé.","vous changeriez.","vous auriez changé.","Changez !"],
 ("changer","ils"):["Ils changent.","Ils ont changé.","Ils changeaient.","Ils avaient changé.","Ils changeront.","qu'ils changent.","qu'ils aient changé.","ils changeraient.","ils auraient changé.","n/a"],
-("changer","elles"):["Elles changent.","Elles ont changé.","Elles changeaient.","Elles avaient changé.","Elles changeront.","qu'elles changent.","qu'elles aient changé.","elles changeraient.","elle auraient changé.","n/a"],
+("changer","elles"):["Elles changent.","Elles ont changé.","Elles changeaient.","Elles avaient changé.","Elles changeront.","qu'elles changent.","qu'elles aient changé.","elles changeraient.","elles auraient changé.","n/a"],
 ("changer","ça"):["Ça change.","Ça a changé.","Ça changeait.","Ça avait changé.","Ça changera.","que ça change","que ça ait changé.","ça changerait.","ça aurait changé.","n/a"],
 
 ("s'appeler","je"):["Je m'appelle.","Je me suis appelé.","Je m'appelais.","Je m'étais appelé.","Je m'appellerai.","que je m'appelle.","que je me sois appelé.","je m'appellerais.","je me serais appelé.","n/a"],
@@ -169,7 +169,7 @@ table = {
 ("renouveler","nous"):["Nous renouvelons.","Nous avons renouvelé.","Nous renouvelions.","Nous avions renouvelé.","Nous renouvellerons.","que nous renouvelions.","que nous ayons renouvelé.","nous renouvellerions.","nous aurions renouvelé.","Renouvelons !"],
 ("renouveler","vous"):["Vous renouvelez.","Vous avez renouvelé.","Vous renouveliez.","Vous aviez renouvelé.","Vous renouvellerez.","que vous renouveliez.","que vous ayez renouvelé.","vous renouvelleriez.","vous auriez renouvelé.","Renouvelez !"],
 ("renouveler","ils"):["Ils renouvellent.","Ils ont renouvelé.","Ils renouvelaient.","Ils avaient renouvelé.","Ils renouvelleront.","qu'ils renouvellent.","qu'ils aient renouvelé.","ils renouvelleraient.","ils auraient renouvelé.","n/a"],
-("renouveler","elles"):["Elles renouvellent.","Elles ont renouvelé.","Elles renouvelaient.","Elles avaient renouvelé.","Elles renouvelleront.","qu'elles renouvellent.","qu'elles aient renouvelé.","elles renouvelleraient.","elle auraient renouvelé.","n/a"],
+("renouveler","elles"):["Elles renouvellent.","Elles ont renouvelé.","Elles renouvelaient.","Elles avaient renouvelé.","Elles renouvelleront.","qu'elles renouvellent.","qu'elles aient renouvelé.","elles renouvelleraient.","elles auraient renouvelé.","n/a"],
 ("renouveler","ça"):["Ça renouvelle.","Ça a renouvelé.","Ça renouvelait.","Ça avait renouvelé.","Ça renouvellera.","que ça renouvelle.","que ça ait renouvelé.","ça renouvellerait.","ça aurait renouvelé.","n/a"],
 
 ("espérer","je"):["J'espère.","J'ai espéré.","J'espérais","J'avais espéré.","J'espérerai.","que j'espère.","que j'aie espéré.","j'espérerais.","j'aurais espéré.","n/a"],
@@ -179,7 +179,7 @@ table = {
 ("espérer","nous"):["Nous espérons.","Nous avons espéré.","Nous espérions.","Nous avions espéré.","Nous espérerons.","que nous espérions.","que nous ayons espéré.","nous espéreriont.","nous aurions espéré.","Espérons !"],
 ("espérer","vous"):["Vous espérez.","Vous avez espéré.","Vous espésriez.","Vous aviez espéré.","Vous espérerez.","que vous espériez.","que vous ayez espéré.","vous espéreriez.","vous auriez espéré.","Espérez !"],
 ("espérer","ils"):["Ils espèrent.","Ils ont espéré.","Isl espésraient.","Ils avaient espéré.","Ils espéreront.","qu'ils espèrent.","qu'ils aient espéré.","ils espéreraient.","ils auraient espéré.","n/a"],
-("espérer","elles"):["Elles espèrent.","Elles ont espéré.","Elles espéraient.","Elles avaient espéré.","Elles espéreront.","qu'elles espèrent.","qu'elles aient espéré.","elles espéreraient.","elle auraient espéré.","n/a"],
+("espérer","elles"):["Elles espèrent.","Elles ont espéré.","Elles espéraient.","Elles avaient espéré.","Elles espéreront.","qu'elles espèrent.","qu'elles aient espéré.","elles espéreraient.","elles auraient espéré.","n/a"],
 ("espérer","ça"):["Ça espère.","Ça a espéré.","Ça espérait.","Ça avait espéré.","Ça espérera.","que ça espère.","que ça ait espéré.","ça espérerait.","ça aurait espéré.","n/a"],
 
 ("considérer","je"):["Je considère.","J'ai considéré.","Je considérais.","J'avais considéré.","Je considérerai.","que je considère.","que j'aie considéré.","je considérerais.","j'aurais considéré.","n/a"],
@@ -189,7 +189,7 @@ table = {
 ("considérer","nous"):["Nous considérons.","Nous avons considéré.","Nous considérions.","Nous avions considéré.","Nous considérerons.","que nous considérions.","que nous ayons considéré.","nous considérerions.","nous aurions considéré.","Considérons !"],
 ("considérer","vous"):["Vous considérez.","Vous avez considéré.","Vous considériez.","Vous aviez considéré.","Vous considérerez.","que vous considériez.","que vous ayez considéré.","vous considéreriez.","vous auriez considéré.","Considérezs !"],
 ("considérer","ils"):["Ils considèrent.","Ils ont considéré.","Ils considéraient.","Ils avaient considéré.","Ils considéreront.","qu'ils considèrent.","qu'ils aient considéré.","ils considéreraient.","ils auraient considéré.","n/a"],
-("considérer","elles"):["Elles considèrent.","Elles ont considéré.","Elles considéraient.","Elles avaient considéré.","Elles considéreront.","qu'elles considèrent.","qu'elles aient considéré.","elles considéreraient.","elle auraient considéré.","n/a"],
+("considérer","elles"):["Elles considèrent.","Elles ont considéré.","Elles considéraient.","Elles avaient considéré.","Elles considéreront.","qu'elles considèrent.","qu'elles aient considéré.","elles considéreraient.","elles auraient considéré.","n/a"],
 ("considérer","ça"):["Ça considère.","Ça a considéré.","Ça considérait.","Ça avait considéré.","Ça considérera.","que ça considère.","que ça ait considéré.","ça considérerait.","ça aurait considéré","n/a"],
 
 ("payer","je"):["Je paie.","J'ai payé.","Je payais.","J'avais payé.","Je paierai.","que je paie.","que j'aie payé.","je paierais.","j'aurais payé.","n/a"],
@@ -199,7 +199,7 @@ table = {
 ("payer","nous"):["Nous payons.","Nous avons payé.","Nous payions.","Nous avions payé.","Nous paierons.","que nous payions.","que nous ayons payé.","nous paierions.","nous aurions payé.","Payons !"],
 ("payer","vous"):["Vous payez.","Vous avez payé.","Vous payiez.","Vous aviez payé.","Vous paierez.","que vous payiez.","que vous ayez payé.","vous paieriez.","vous auriez payé.","Payez !"],
 ("payer","ils"):["Ils paient.","Ils ont payé.","Ils payaient.","Ils avaient payé.","Ils paieront.","qu'ils paient.","qu'ils aient payé.","ils paieraient.","ils auraient payé.","n/a"],
-("payer","elles"):["Elles paient.","Elles ont payé.","Elles payaient.","Elles avaient payé.","Elles paieront.","qu'elles paient.","qu'elles aient payé.","elles paieraient.","elle auraient payé.","n/a"],
+("payer","elles"):["Elles paient.","Elles ont payé.","Elles payaient.","Elles avaient payé.","Elles paieront.","qu'elles paient.","qu'elles aient payé.","elles paieraient.","elles auraient payé.","n/a"],
 ("payer","ça"):["Ça paie.","Ça a payé.","Ça payait.","Ça avait payé.","Ça paiera.","que ça paie.","que ça ait payé.","ça paierait.","ça aurait payé.","n/a"],
 
 ("essayer","je"):["J'essaie.","J'ai essayé.","J'essayais.","J'avais essayé.","J'essaierai.","que j'essaie.","que j'aie essayé.","j'essaierais.","j'aurais essayé.","n/a"],
@@ -209,7 +209,7 @@ table = {
 ("essayer","nous"):["Nous essayons.","Nous avons essayé.","Nous essayions.","Nous avions essayé.","Nous essaierons.","que nous essayions.","que nous ayons essayé.","nous essaierions.","nous aurions essayé.","Essayons !"],
 ("essayer","vous"):["Vous essayez.","Vous avez essayé.","Vous essayiez.","Vous aviez essayé.","Vous essaierez.","que vous essayiez.","que vous ayez essayé.","vous essaieriez.","vous auriez essayé.","Essayez !"],
 ("essayer","ils"):["Ils essaient.","Ils ont essayé.","Ils essayaient.","Ils avaient essayé.","Ils essaieront.","qu'ils essaient.","qu'ils aient essayé.","ils essaieraient.","ils auraient essayé.","n/a"],
-("essayer","elles"):["Elles essaient.","Elles ont essayé.","Elles essayaient.","Elles avaient essayé.","Elles essaieront.","qu'elles essaient.","qu'elles aient essayé.","elles essaieraient.","elle auraient essayé.","n/a"],
+("essayer","elles"):["Elles essaient.","Elles ont essayé.","Elles essayaient.","Elles avaient essayé.","Elles essaieront.","qu'elles essaient.","qu'elles aient essayé.","elles essaieraient.","elles auraient essayé.","n/a"],
 ("essayer","ça"):["Ça essaie.","Ça a essayé.","Ça essayait.","Ça avait essayé.","Ça essaiera.","que ça essaie.","que ça ait essayé.","ça essaierait.","ça aurait essayé.","n/a"],
 
 ("commencer","je"):["Je commence.","J'ai commencé.","Je commençais.","J'avais commencé.","Je commencerai.","que je commence.","que j'aie commencé.","je commencerais.","j'aurais commencé.","n/a"],
@@ -219,7 +219,7 @@ table = {
 ("commencer","nous"):["Nous commençon.","Nous avons commencé.","Nous commencions.","Nous avions commencé.","Nous commencerons.","que nous commencions.","que nous ayons commencé.","nous commencerions.","nous aurions commencé.","Commençons !"],
 ("commencer","vous"):["Vous commencez.","Vous avez commencé.","Vous commenciez.","Vous aviez commencé.","Vous commencerez.","que vous commenciez.","que vous ayez commencé.","vous commenceriez.","vous auriez commencé.","Commencez !"],
 ("commencer","ils"):["Ils commencent.","Ils ont commencé.","Ils commençaient.","Ils avaient commencé.","Ils commenceront.","qu'ils commencent.","qu'ils aient commencé.","ils commenceraient.","ils auraient commencé.","n/a"],
-("commencer","elles"):["Elles commencent.","Elles ont commencé.","Elles commençaient.","Elles avaient commencé.","Elles commenceront.","qu'elles commencent.","qu'elles aient commencé.","elles commencertaient.","elle auraient commencé.","n/a"],
+("commencer","elles"):["Elles commencent.","Elles ont commencé.","Elles commençaient.","Elles avaient commencé.","Elles commenceront.","qu'elles commencent.","qu'elles aient commencé.","elles commencertaient.","elles auraient commencé.","n/a"],
 ("commencer","ça"):["Ça commence.","Ça a commencé.","Ça commençait.","Ça avait commencé.","Ça commencera.","que ça commence.","que ça ait commencé.","ça commencerait.","ça aurait commencé.","n/a"],
 
 ("exercer","je"):["J'exerce.","J'ai exercé.","J'exerçais.","J'avais exercé.","J'exercerai.","que j'exerce.","que j'aie exercé.","j'exercerais.","j'aurais exercé.","n/a"],
@@ -229,7 +229,7 @@ table = {
 ("exercer","nous"):["Nous excerçon.","Nous avons exercé.","Nous excercions.","Nous avions exercé.","Nous exercerons.","que nous exercions.","que nous ayons exercé.","nous exercerions.","nous aurions exercé.","Exerçons !"],
 ("exercer","vous"):["Vous exercez.","Vous avez exercé.","Vous exerciez.","Vous aviez exercé.","Vous exercerez.","que vous exerciez.","que vous ayez exercé.","vous exerceriez.","vous auriez exercé.","Exercez !"],
 ("exercer","ils"):["Ils exercent.","Ils ont exercé.","Ils exerçaient.","Ils avaient exercé.","Ils exerceront.","qu'ils exercent.","qu'ils aient exercé.","ils exerceraient.","ils auraient exercé.","n/a"],
-("exercer","elles"):["Elles exercent.","Elles ont exercé.","Elles exerçaient.","Elles avaient exercé.","Elles exerceront.","qu'elles exercent.","qu'elles aient exercé.","elles exercertaient.","elle auraient exercé.","n/a"],
+("exercer","elles"):["Elles exercent.","Elles ont exercé.","Elles exerçaient.","Elles avaient exercé.","Elles exerceront.","qu'elles exercent.","qu'elles aient exercé.","elles exercertaient.","elles auraient exercé.","n/a"],
 ("exercer","ça"):["Ça exerce.","Ça a exercé.","Ça exerçait.","Ça avait exercé.","Ça exercera.","que ça exerce.","que ça ait exercé.","ça exercerait.","ça aurait exercé.","n/a"],
 
 ("lever","je"):["Je lève.","J'ai levé.","Je levais.","J'avais levé.","Je lèverai.","que je lève.","que j'aie levé.","je lèverais.","j'aurais levé.","n/a"],
@@ -239,7 +239,7 @@ table = {
 ("lever","nous"):["Nous levons.","Nous avons levé.","Nous levions.","Nous avions levé.","Nous  lèverons.","que nous levions.","que nous ayons levé.","nous  lèverions.","nous aurions levé.","Levons!"],
 ("lever","vous"):["Vous levez.","Vous avez levé.","Vous leviez.","Vous aviez levé.","Vous lèverez.","que vous leviez.","que vous ayez levé.","vous lèveriez.","vous auriez levé.","Levez !"],
 ("lever","ils"):["Ils lèvent.","Ils ont levé.","Ils levaient.","Ils avaient levé.","Ils lèveront.","qu'ils lèvent.","qu'ils aient levé.","ils lèveraient.","ils auraient levé.","n/a"],
-("lever","elles"):["Elles lèvent.","Elles ont levé.","Elles levaient.","Elles avaient levé.","Elles lèveront.","qu'elles lèvent.","qu'elles aient levé.","elles lèveraient.","elle auraient levé.","n/a"],
+("lever","elles"):["Elles lèvent.","Elles ont levé.","Elles levaient.","Elles avaient levé.","Elles lèveront.","qu'elles lèvent.","qu'elles aient levé.","elles lèveraient.","elles auraient levé.","n/a"],
 ("lever","ça"):["Ça lève.","Ça a levé.","Ça levait.","Ça avait levé.","Ça lèvera.","que ça lève.","que ça ait levé.","ça lèverais.","ça aurait levé.","n/a"],
 
 ("élever","je"):["J'élève.","J'ai élevé.","J'élevais.","J'avais élevé.","J'élèverai.","que j'élève.","que j'aie élevé.","j'élèverais.","j'aurais élevé.","n/a"],
@@ -249,7 +249,7 @@ table = {
 ("élever","nous"):["Nous élevons.","Nous avons élevé.","Nous élevions.","Nous avions élevé.","Nous  élèverons.","que nous élevions.","que nous ayons élevé.","nous  élèverions.","nous aurions élevé.","Élevons!"],
 ("élever","vous"):["Vous élevez.","Vous avez élevé.","Vous éleviez.","Vous aviez élevé.","Vous élèverez.","que vous éleviez.","que vous ayez élevé.","vous élèveriez.","vous auriez élevé.","Élevez !"],
 ("élever","ils"):["Ils élèvent.","Ils ont élevé.","Ils élevaient.","Ils avaient élevé.","Ils élèveront.","qu'ils élèvent.","qu'ils aient élevé.","ils élèveraient.","ils auraient élevé.","n/a"],
-("élever","elles"):["Elles élèvent.","Elles ont élevé.","Elles élevaient.","Elles avaient élevé.","Elles élèveront.","qu'elles élèvent.","qu'elles aient élevé.","elles élèveraient.","elle auraient élevé.","n/a"],
+("élever","elles"):["Elles élèvent.","Elles ont élevé.","Elles élevaient.","Elles avaient élevé.","Elles élèveront.","qu'elles élèvent.","qu'elles aient élevé.","elles élèveraient.","elles auraient élevé.","n/a"],
 ("élever","ça"):["Ça élève.","Ça a élevé.","Ça élevait.","Ça avait élevé.","Ça élèvera.","que ça élève.","que ça ait élevé.","ça élèverais.","ça aurait élevé.","n/a"],
 
 ("jeter","je"):["Je jette.","J'ai jeté.","Je jetais.","J'avais jeté.","Je jetterai.","que je jette.","que j'aie jeté.","je jetterais.","j'aurais jeté.","n/a"],
@@ -259,7 +259,7 @@ table = {
 ("jeter","nous"):["Nous jetons.","Nous avons jeté.","Nous jetions.","Nous avions jeté.","Nous jetterons.","que nous jetions.","que nous ayons jeté.","nous jetterions.","nous aurions jeté.","Jetons !"],
 ("jeter","vous"):["Vous jetez.","Vous avez jeté.","Vous jetiez.","Vous aviez jeté.","Vous jetterez.","que vous jetiez.","que vous ayez jeté.","vous jetteriez.","vous auriez jeté.","Jetez !"],
 ("jeter","ils"):["Ils jettent.","Ils ont jeté.","Ils jetaient.","Ils avaient jeté.","Ils jetteront.","qu'ils jettent.","qu'ils aient jeté.","ils jetteraient.","ils auraient jeté.","n/a"],
-("jeter","elles"):["Elles jettent.","Elles ont jeté.","Elles jetaient.","Elles avaient jeté.","Elles jetteront.","qu'elles jettent.","qu'elles aient jeté.","elles jetteraient.","elle auraient jeté.","n/a"],
+("jeter","elles"):["Elles jettent.","Elles ont jeté.","Elles jetaient.","Elles avaient jeté.","Elles jetteront.","qu'elles jettent.","qu'elles aient jeté.","elles jetteraient.","elles auraient jeté.","n/a"],
 ("jeter","ça"):["Ça jette.","Ça a jeté.","Ça jetait.","Ça avait jeté.","Ça jettera.","que ça jette.","que ça ait jeté.","ça jetterait.","ça aurait jeté.","n/a"],
 
 ("rejeter","je"):["Je rejette.","J'ai rejeté.","Je rejetais.","J'avais rejeté.","Je rejetterai.","que je rejette.","que j'aie rejeté.","je rejetterais.","j'aurais rejeté.","n/a"],
@@ -269,7 +269,7 @@ table = {
 ("rejeter","nous"):["Nous rejetons.","Nous avons rejeté.","Nous rejetions.","Nous avions rejeté.","Nous rejetterons.","que nous rejetions.","que nous ayons rejeté.","nous rejetterions.","nous aurions rejeté.","Rejetons !"],
 ("rejeter","vous"):["Vous rejetez.","Vous avez rejeté.","Vous rejetiez.","Vous aviez rejeté.","Vous rejetterez.","que vous rejetiez.","que vous ayez rejeté.","vous rejetteriez.","vous auriez rejeté.","Rejetez !"],
 ("rejeter","ils"):["Ils rejettent.","Ils ont rejeté.","Ils rejetaient.","Ils avaient rejeté.","Ils rejetteront.","qu'ils rejettent.","qu'ils aient rejeté.","ils rejetteraient.","ils auraient rejeté.","n/a"],
-("rejeter","elles"):["Elles rejettent.","Elles ont rejeté.","Elles rejetaient.","Elles avaient rejeté.","Elles rejetteront.","qu'elles rejettent.","qu'elles aient rejeté.","elles rejetteraient.","elle auraient rejeté.","n/a"],
+("rejeter","elles"):["Elles rejettent.","Elles ont rejeté.","Elles rejetaient.","Elles avaient rejeté.","Elles rejetteront.","qu'elles rejettent.","qu'elles aient rejeté.","elles rejetteraient.","elles auraient rejeté.","n/a"],
 ("rejeter","ça"):["Ça rejette.","Ça a rejeté.","Ça rejetait.","Ça avait rejeté.","Ça rejettera.","que ça rejette.","que ça ait rejeté.","ça rejetterait.","ça aurait rejeté.","n/a"],
 
 ("acheter","je"):["J'achète.","J'ai acheté.","J'achetais.","J'avais acheté.","J'achèterai.","que j'achète.","que j'aie acheté.","j'achèterais.","j'aurais acheté.","n/a"],
@@ -279,7 +279,7 @@ table = {
 ("acheter","nous"):["Nous achetons.","Nous avons acheté.","Nous achetions.","Nous avions acheté.","Nous achèterons.","que nous achetions.","que nous ayons acheté.","nous achèterions.","nous aurions acheté.","Achetons !"],
 ("acheter","vous"):["Vous achetez.","Vous avez acheté.","Vous achetiez.","Vous aviez acheté.","Vous achèterez.","que vous achtiez.","que vous ayez acheté.","vous achèteriez.","vous auriez acheté.","Achetez !"],
 ("acheter","ils"):["Ils achètent.","Ils ont acheté.","Ils achetaient.","Ils avaient acheté.","Ils achèteront.","qu'ils achètent.","qu'ils aient acheté.","ils achèteraient.","ils auraient acheté.","n/a"],
-("acheter","elles"):["Elles achètent.","Elles ont acheté.","Elles achetaient.","Elles avaient acheté.","Elles achèteront.","qu'elles achètent.","qu'elles aient acheté.","elles achèteraient.","elle auraient acheté.","n/a"],
+("acheter","elles"):["Elles achètent.","Elles ont acheté.","Elles achetaient.","Elles avaient acheté.","Elles achèteront.","qu'elles achètent.","qu'elles aient acheté.","elles achèteraient.","elles auraient acheté.","n/a"],
 ("acheter","ça"):["Ça achète.","Ça a acheté.","Ça achetait.","Ça avait acheté.","Ça achètera.","que ça achète.","que ça ait acheté.","ça achèterait.","ça aurait acheté.","n/a"],
 
 ("racheter","je"):["Je rachète.","J'ai racheté.","Je rachetais.","J'avais racheté.","Je rachèterai.","que je rachète.","que j'aie racheté.","je rachèterais.","j'aurais racheté.","n/a"],
@@ -289,7 +289,7 @@ table = {
 ("racheter","nous"):["Nous rachetons.","Nous avons racheté.","Nous rachetions.","Nous avions racheté.","Nous rachèterons.","que nous rachetions.","que nous ayons racheté.","nous rachèterions.","nous aurions racheté.","Rachetons !"],
 ("racheter","vous"):["Vous rachetez.","Vous avez racheté.","Vous rachetiez.","Vous aviez racheté.","Vous rachèterez.","que vous rachtiez.","que vous ayez racheté.","vous rachèteriez.","vous auriez racheté.","Rachetez !"],
 ("racheter","ils"):["Ils rachètent.","Ils ont racheté.","Ils rachetaient.","Ils avaient racheté.","Ils rachèteront.","qu'ils rachètent.","qu'ils aient racheté.","ils rachèteraient.","ils auraient racheté.","n/a"],
-("racheter","elles"):["Elles rachètent.","Elles ont racheté.","Elles rachetaient.","Elles avaient racheté.","Elles rachèteront.","qu'elles rachètent.","qu'elles aient racheté.","elles rachèteraient.","elle auraient racheté.","n/a"],
+("racheter","elles"):["Elles rachètent.","Elles ont racheté.","Elles rachetaient.","Elles avaient racheté.","Elles rachèteront.","qu'elles rachètent.","qu'elles aient racheté.","elles rachèteraient.","elles auraient racheté.","n/a"],
 ("racheter","ça"):["Ça rachète.","Ça a racheté.","Ça rachetait.","Ça avait racheté.","Ça rachètera.","que ça rachète.","que ça ait racheté.","ça rachèterait.","ça aurait racheté.","n/a"],
 
 ("envoyer","je"):["J'envoie.","J'ai envoyé.","J'envoyais.","J'avais envoyé.","J'enverrai.","que j'envoie.","que j'aie envoyé.","j'enverrais.","j'aurais envoyé.","n/a"],
@@ -299,7 +299,7 @@ table = {
 ("envoyer","nous"):["Nous envoyons.","Nous avons envoyé.","Nous envoyions.","Nous avions envoyé.","Nous enverrons.","que nous envoyions.","que nous ayons envoyé.","nous enverrions.","nous aurions envoyé.","Envoyons !"],
 ("envoyer","vous"):["Vous envoyez.","Vous avez envoyé.","Vous envoyiez.","Vous aviez envoyé.","Vous enverrez.","que vous envoyiez.","que vous ayez envoyé.","vous enverriez.","vous auriez envoyé.","Envoyez !"],
 ("envoyer","ils"):["Ils envoient.","Ils ont envoyé.","Ils envoyaient.","Ils avaient envoyé.","Ils enverront.","qu'ils envoient.","qu'ils aient envoyé.","ils enverraient.","ils auraient envoyé.","n/a"],
-("envoyer","elles"):["Elles envoyent.","Elles ont envoyé.","Elles envoyaient.","Elles avaient envoyé.","Elles enverront.","qu'elles envoient.","qu'elles aient envoyé.","elles enverraient.","elle auraient envoyé.","n/a"],
+("envoyer","elles"):["Elles envoyent.","Elles ont envoyé.","Elles envoyaient.","Elles avaient envoyé.","Elles enverront.","qu'elles envoient.","qu'elles aient envoyé.","elles enverraient.","elles auraient envoyé.","n/a"],
 ("envoyer","ça"):["Ça envoie.","Ça a envoyé.","Ça envoyait.","Ça avait envoyé.","Ça enverra.","que ça envoie.","que ça ait envoyé.","ça enverrait.","ça aurait envoyé.","n/a"],
 
 ("renvoyer","je"):["Je renvoie.","J'ai renvoyé.","Je renvoyais.","J'avais renvoyé.","Je renverrai.","que je renvoie.","que j'aie renvoyé.","je renverrais.","j'aurais renvoyé.","n/a"],
@@ -309,7 +309,7 @@ table = {
 ("renvoyer","nous"):["Nous renvoyons.","Nous avons renvoyé.","Nous renvoyions.","Nous avions renvoyé.","Nous renverrons.","que nous renvoyions.","que nous ayons renvoyé.","nous renverrions.","nous aurions renvoyé.","Renvoyons !"],
 ("renvoyer","vous"):["Vous renvoyez.","Vous avez renvoyé.","Vous renvoyiez.","Vous aviez renvoyé.","Vous renverrez.","que vous renvoyiez.","que vous ayez renvoyé.","vous renverriez.","vous auriez renvoyé.","Renvoyez !"],
 ("renvoyer","ils"):["Ils renvoient.","Ils ont renvoyé.","Ils renvoyaient.","Ils avaient renvoyé.","Ils renverront.","qu'ils renvoient.","qu'ils aient renvoyé.","ils renverraient.","ils auraient renvoyé.","n/a"],
-("renvoyer","elles"):["Elles renvoyent.","Elles ont renvoyé.","Elles renvoyaient.","Elles avaient renvoyé.","Elles renverront.","qu'elles renvoient.","qu'elles aient renvoyé.","elles renverraient.","elle auraient renvoyé.","n/a"],
+("renvoyer","elles"):["Elles renvoyent.","Elles ont renvoyé.","Elles renvoyaient.","Elles avaient renvoyé.","Elles renverront.","qu'elles renvoient.","qu'elles aient renvoyé.","elles renverraient.","elles auraient renvoyé.","n/a"],
 ("renvoyer","ça"):["Ça renvoie.","Ça a renvoyé.","Ça renvoyait.","Ça avait renvoyé.","Ça renverra.","que ça renvoie.","que ça ait renvoyé.","ça renverrait.","ça aurait renvoyé.","n/a"],
 
 ("mener","je"):["Je mène.","J'ai mené.","Je menais.","J'avais mené.","Je mènerai.","que je mène.","que j'aie mené.","je mènerais.","j'aurais mené.","n/a"],
@@ -319,7 +319,7 @@ table = {
 ("mener","nous"):["Nous menons.","Nous avons mené.","Nous menions.","Nous avions mené.","Nous mènrons.","que nous menions.","que nous ayons mené.","nous mènerions.","nous aurions mené.","Menios !"],
 ("mener","vous"):["Vous menez.","Vous avez mené.","Vous meniez.","Vous aviez mené.","Vous mènerez.","que vous meniez.","que vous ayez mené.","vous mèneriez.","vous auriez mené.","Menez !"],
 ("mener","ils"):["Ils  mènent.","Ils ont mené.","Ils menaient.","Ils avaient mené.","Ils mènront.","qu'ils mènent.","qu'ils aient mené.","ils mèneraient.","ils auraient mené.","n/a"],
-("mener","elles"):["Elles mènent.","Elles ont mené.","Elles menaient.","Elles avaient mené.","Elles mèneront.","qu'elles mènent.","qu'elles aient mené.","elles mèneraient.","elle auraient mené.","n/a"],
+("mener","elles"):["Elles mènent.","Elles ont mené.","Elles menaient.","Elles avaient mené.","Elles mèneront.","qu'elles mènent.","qu'elles aient mené.","elles mèneraient.","elles auraient mené.","n/a"],
 ("mener","ça"):["Ça mène.","Ça a mené.","Ça menait.","Ça avait mené.","Ça mènera.","que ça mène.","que ça ait mené.","ça mènerait.","ça aurait mené.","n/a"],
 
 ("se promener","je"):["Je me promène.","Je me suis promené.","Je me promenais.","Je m'etais promené.","Je me promènerai.","que je me promène.","que je me sois promené.","je me promènerais.","je me serais promené.","n/a"],
@@ -339,7 +339,7 @@ table = {
 ("protéger","nous"):["Nous protégeons.","Nous avons protégé.","Nous protégions.","Nous avions protégé.","Nous protégerons.","que nous protègions.","que nous ayons protégé.","nous protégerions.","nous aurions protégé.","Protégeons !"],
 ("protéger","vous"):["Vous protégez.","Vous avez protégé.","Je protégiez.","Vous aviez protégé.","Vous protégerez","que vous protègiez.","que vous ayez protégé.","vous protégeriez.","vous auriez protégé.","Protégez !"],
 ("protéger","ils"):["Ils protègent.","Ils ont protégé.","Ils protégeaiient.","Ils avaient protégé.","Ils protégeront.","qu'ils protègent.","qu'ils aient protégé.","ils protégeraient.","ils auraient protégé.","n/a"],
-("protéger","elles"):["Elles protègent.","Elles ont protégé.","Elles protégeaient.","Elles avaient protégé.","Elles protégeront.","qu'elle protègent.","qu'elles aient protégé.","elles protégeraient.","elle auraient protégé.","n/a"],
+("protéger","elles"):["Elles protègent.","Elles ont protégé.","Elles protégeaient.","Elles avaient protégé.","Elles protégeront.","qu'elle protègent.","qu'elles aient protégé.","elles protégeraient.","elles auraient protégé.","n/a"],
 ("protéger","ça"):["Ça protège.","Ça a protégé.","Ça protégeait.","Ça avait protégé.","Ça protégera.","que ça protège.","que ça ait protégé.","ça protégerait.","ça aurait protégé.","n/a"],
 
 ("piéger","je"):["Je piège.","J'ai piégé.","Je piégeais.","J'avais piégé.","Je piégerai.","que je piège.","que j'aie piégé.","je piégerais.","j'aurais piégé.","n/a"],
@@ -349,7 +349,7 @@ table = {
 ("piéger","nous"):["Nous piégeons.","Nous avons piégé.","Nous piégions.","Nous avions piégé.","Nous piégerons.","que nous piègions.","que nous ayons piégé.","nous piégerions.","nous aurions piégé.","Piégeons !"],
 ("piéger","vous"):["Vous piégez.","Vous avez piégé.","Vous piégiez.","Vous aviez piégé.","Vous piégerez","que vous piègiez.","que vous ayez piégé.","vous piégeriez.","vous auriez piégé.","Piégez !"],
 ("piéger","ils"):["Ils piègent.","Ils ont piégé.","Ils piégeaient.","Ils avaient piégé.","Ils piégeront.","qu'ils piègent.","qu'ils aient piégé.","ils piégeraient.","ils auraient piégé.","n/a"],
-("piéger","elles"):["Elles piègent.","Elles ont piégé.","Elles piégeaient.","Elles avaient piégé.","Elles piégeront.","qu'elle piègent.","qu'elles aient piégé.","elles piégeraient.","elle auraient piégé.","n/a"],
+("piéger","elles"):["Elles piègent.","Elles ont piégé.","Elles piégeaient.","Elles avaient piégé.","Elles piégeront.","qu'elle piègent.","qu'elles aient piégé.","elles piégeraient.","elles auraient piégé.","n/a"],
 ("piéger","ça"):["Ça piège.","Ça a piégé.","Ça piégeait.","Ça avait piégé.","Ça piégera.","que ça piège.","que ça ait piégé.","ça piégerait.","ça aurait piégé.","n/a"],
 
 ("répéter","je"):["Je répète.","J'ai répété.","Je répétais.","J'avais répété.","Je répéterai.","que je répète.","que j'aie répété.","je répéterais.","j'aurais répété.","n/a"],
@@ -359,7 +359,7 @@ table = {
 ("répéter","nous"):["Nous répétons.","Nous avons répété.","Nous répétions.","Nous avions répété.","Nous répéterons.","que nous répétions.","que nous ayons répété.","nous répéterions.","nous aurions répété.","Répétons !"],
 ("répéter","vous"):["Vous répétez.","Vous avez répété.","Vous répétiez.","Vous aviez répété.","Vous répéterez.","que vous répétiez.","que vous ayez répété.","vous répéteriez.","vous auriez répété.","Répétez !"],
 ("répéter","ils"):["Ils répètent.","Ils ont répété.","Ils répétaient.","Ils avaient répété.","Ils répéteront.","qu'ils répètent.","qu'ils aient répété.","ils répéteraient.","ils auraient répété.","n/a"],
-("répéter","elles"):["Elles répètent.","Elles ont répété.","Elles répétaient.","Elles avaient répété.","Elles répéteront.","qu'elles répètent.","qu'elles aient répété.","elles répéteraient.","elle auraient répété.","n/a"],
+("répéter","elles"):["Elles répètent.","Elles ont répété.","Elles répétaient.","Elles avaient répété.","Elles répéteront.","qu'elles répètent.","qu'elles aient répété.","elles répéteraient.","elles auraient répété.","n/a"],
 ("répéter","ça"):["Ça répète.","Ça a répété.","Ça répétait.","Ça avait répété.","Ça répétera.","que ça répète.","que ça ait répété.","ça répéterait.","ça aurait répété","n/a"],
 
 ("interpréter","je"):["J'interprète.","J'ai interprété.","J'interprétais.","J'avais interprété.","J'interpréterai.","que j'interprète.","que j'aie interprété.","j'interpréterais.","j'aurais interprété.","n/a"],
@@ -369,7 +369,7 @@ table = {
 ("interpréter","nous"):["Nous interprétons.","Nous avons interprété.","Nous interprétions.","Nous avions interprété.","Nous interpréterons.","que nous interprètions.","que nous ayons interprété.","nous interpréterions.","nous aurions interprété.","Interprétons !"],
 ("interpréter","vous"):["Vous interprétez.","Vous avez interprété.","Vous interprétiez.","Vous aviez interprété.","Vous interpréterez.","que vous interprètiez.","que vous ayez interprété.","vous interpréteriez.","vous auriez interprété.","Interprétez !"],
 ("interpréter","ils"):["Ils interprètent.","Ils ont interprété.","Ils interprétaient.","Ils avaient interprété.","Ils interpréteront.","qu'ils interprètent.","qu'ils aient interprété.","ils interpréteraient.","ils auraient interprété.","n/a"],
-("interpréter","elles"):["Elles interprètent.","Elles ont interprété.","Elles interprétaient.","Elles avaient interprété.","Elles interpréteront.","qu'elles interprètent.","qu'elles aient interprété.","elles interpréteraient.","elle auraient interprété.","n/a"],
+("interpréter","elles"):["Elles interprètent.","Elles ont interprété.","Elles interprétaient.","Elles avaient interprété.","Elles interpréteront.","qu'elles interprètent.","qu'elles aient interprété.","elles interpréteraient.","elles auraient interprété.","n/a"],
 ("interpréter","ça"):["Ça interprète.","Ça a interprété.","Ça interprétait.","Ça avait interprété.","Ça interprétera.","que ça interprète.","que ça ait interprété.","ça interpréterait.","ça aurait interprété","n/a"],
 
 ("régler","je"):["Je règle.","J'ai réglé.","Je réglais.","J'avais réglé.","Je réglerai.","que je règle.","que j'aie réglé.","je réglerais.","j'aurais réglé.","n/a"],
@@ -379,7 +379,7 @@ table = {
 ("régler","nous"):["Nous réglons.","Nous avons réglé.","Nous réglions.","Nous avions réglé.","Nous réglerons.","que nous règlions.","que nous ayons réglé.","nous réglerions.","nous aurions réglé.","Règlons !"],
 ("régler","vous"):["Vous réglez.","Vous avez réglé.","Vous régliez.","Vous aviez réglé.","Vous réglerez.","que vous règliez.","que vous ayez réglé.","vous régleriez.","vous auriez réglé.","Règlez !"],
 ("régler","ils"):["Ils règlent.","Ils ont réglé.","Ils réglaient.","Ils avaient réglé.","Ils régleront.","qu'ils règlent.","qu'ils aient réglé.","ils régleraient.","ils auraient réglé.","n/a"],
-("régler","elles"):["Elles règlent.","Elles ont réglé.","Elles réglaient.","Elles avaient réglé.","Elles régleront","qu'elles règlent.","qu'elles aient réglé.","elles régleraient.","elle auraient réglé.","n/a"],
+("régler","elles"):["Elles règlent.","Elles ont réglé.","Elles réglaient.","Elles avaient réglé.","Elles régleront","qu'elles règlent.","qu'elles aient réglé.","elles régleraient.","elles auraient réglé.","n/a"],
 ("régler","ça"):["Ça règle.","Ça a réglé.","Ça réglait.","Ça avait réglé.","Ça réglera.","que ça règle.","que ça ait réglé.","ça réglerait.","ça aurait réglé.","n/a"],
 
 ("dérégler","je"):["Je dérègle.","J'ai déréglé.","Je déréglais.","J'avais déréglé.","Je déréglerai.","que je dérègle.","que j'aie déréglé.","je déréglerais.","j'aurais déréglé.","n/a"],
@@ -389,7 +389,7 @@ table = {
 ("dérégler","nous"):["Nous déréglons.","Nous avons déréglé.","Nous déréglions.","Nous avions déréglé.","Nous déréglerons.","que nous dérèglions.","que nous ayons déréglé.","nous déréglerions.","nous aurions déréglé.","Dérèglons !"],
 ("dérégler","vous"):["Vous déréglez.","Vous avez déréglé.","Vous dérégliez.","Vous aviez déréglé.","Vous déréglerez.","que vous dérègliez.","que vous ayez déréglé.","vous dérégleriez.","vous auriez déréglé.","Dérèglez !"],
 ("dérégler","ils"):["Ils dérèglent.","Ils ont déréglé.","Ils déréglaient.","Ils avaient déréglé.","Ils dérégleront.","qu'ils dérèglent.","qu'ils aient déréglé.","ils dérégleraient.","ils auraient déréglé.","n/a"],
-("dérégler","elles"):["Elles dérèglent.","Elles ont déréglé.","Elles déréglaient.","Elles avaient déréglé.","Elles dérégleront","qu'elles dérèglent.","qu'elles aient déréglé.","elles dérégleraient.","elle auraient déréglé.","n/a"],
+("dérégler","elles"):["Elles dérèglent.","Elles ont déréglé.","Elles déréglaient.","Elles avaient déréglé.","Elles dérégleront","qu'elles dérèglent.","qu'elles aient déréglé.","elles dérégleraient.","elles auraient déréglé.","n/a"],
 ("dérégler","ça"):["Ça dérègle.","Ça a déréglé.","Ça déréglait.","Ça avait déréglé.","Ça déréglera.","que ça dérègle.","que ça ait déréglé.","ça déréglerait.","ça aurait déréglé.","n/a"],
 
 ("procéder","je"):["Je procède.","J'ai procédé.","Je procédais.","J'avais procédé.","Je procéderai.","que je procède.","que j'aie procédé.","je procéderais.","j'aurais procédé.","n/a"],
@@ -399,7 +399,7 @@ table = {
 ("procéder","nous"):["Nous procédons.","Nous avons procédé.","Nous procédions.","Nous avions procédé.","Nous procédrerons.","que nous procédions.","que nous ayons procédé.","nous procéderions.","nous aurions procédé.","Procède !"],
 ("procéder","vous"):["Vous procédez.","Vous avez procédé.","Vous procédiez.","Vous aviez procédé.","Vous procéderez.","que vous procédiez.","que vous ayez procédé.","vous procéderiez.","vous auriez procédé.","Procédez !"],
 ("procéder","ils"):["Ils procèdent.","Ils ont procédé.","Ils procédaient.","Ils avaient procédé.","Ils procéderont.","qu'ils procèdent.","qu'ils aient procédé.","ils procéderaient.","ils auraient procédé.","n/a"],
-("procéder","elles"):["Elles procèdent.","Elles ont procédé.","Elles procédaient.","Elles avaient procédé.","Elles procéderont.","qu'elles cprocèdent.","qu'elles aient procédé.","elles procéderaient.","elle auraient procédé.","n/a"],
+("procéder","elles"):["Elles procèdent.","Elles ont procédé.","Elles procédaient.","Elles avaient procédé.","Elles procéderont.","qu'elles cprocèdent.","qu'elles aient procédé.","elles procéderaient.","elles auraient procédé.","n/a"],
 ("procéder","ça"):["Ça procède.","Ça a procédé.","Ça procédait.","Ça avait procédé.","Ça procédera.","que ça procède.","que ça ait procédé.","ça procéderait.","ça aurait procédé.","n/a"],
 
 ("posséder","je"):["Je possède.","J'ai possédé.","Je possédais.","J'avais possédé.","Je posséderai.","que je possède.","que j'aie possédé.","je posséderais.","j'aurais possédé.","n/a"],
@@ -409,7 +409,7 @@ table = {
 ("posséder","nous"):["Nous possédons.","Nous avons possédé.","Nous possédions.","Nous avions possédé.","Nous posséderons.","que nous possédions.","que nous ayons possédé.","nous posséderions.","nous aurions possédé.","Possédons !"],
 ("posséder","vous"):["Vous possédez.","Vous avez possédé.","Vous possédiez.","Vous aviez possédé.","Vous posséderez.","que vous jpossédiez.","que vous ayez possédé.","vous posséderiez.","vous auriez possédé.","Possédez !"],
 ("posséder","ils"):["Ils possèdent","Ils ont possédé.","Ils possédaient.","Ils avaient possédé.","Ils posséderont","qu'ils possèdent.","qu'ils aient possédé.","iIls posséderaient.","ils auraient possédé.","n/a"],
-("posséder","elles"):["Elles possèdent.","Elles ont possédé.","Elles possédaient.","Elles avaient possédé.","Elles posséderont","qu'elles possèdent.","qu'elles aient possédé.","elles posséderaient.","elle auraient possédé.","n/a"],
+("posséder","elles"):["Elles possèdent.","Elles ont possédé.","Elles possédaient.","Elles avaient possédé.","Elles posséderont","qu'elles possèdent.","qu'elles aient possédé.","elles posséderaient.","elles auraient possédé.","n/a"],
 ("posséder","ça"):["Ça possède.","Ça a possédé.","Ça possédait.","Ça avait possédé.","Ça possédera.","que ça possède.","que ça ait possédé.","ça posséderait.","ça aurait possédé.","n/a"],
 
 ("révéler","je"):["Je révèle.","J'ai révélé.","Je révélais.","J'avais révélé.","Je révélerai.","que je révèle.","que j'aie révélé.","je révélerais.","j'aurais révélé.","n/a"],
@@ -419,7 +419,7 @@ table = {
 ("révéler","nous"):["Nous révélons","Nous avons révélé.","Nous révélions.","Nous avions révélé.","Nous révéleront.","que nous révélions.","que nous ayons révélé.","nous révélerions.","nous aurions révélé.","Révélons !"],
 ("révéler","vous"):["Vous révélez.","Vous avez révélé.","Vous révéliez.","Vous aviez révélé.","Vous révélerez.","que vous révéliez.","que vous ayez révélé.","vous révéleriez.","vous auriez révélé.","Révélez !"],
 ("révéler","ils"):["Ils révèlent.","Ils ont révélé.","Ils révélaient.","Ils avaient révélé.","Ils révéleront.","qu'ils révèlent.","qu'ils aient révélé.","ils révéleraient.","ils auraient révélé.","n/a"],
-("révéler","elles"):["Elles révèlent.","Elles ont révélé.","Elles révélaient.","Elles avaient révélé.","Elles révéleront.","qu'elles révèlent.","qu'elles aient révélé.","elles révéleraient.","elle auraient révélé.","n/a"],
+("révéler","elles"):["Elles révèlent.","Elles ont révélé.","Elles révélaient.","Elles avaient révélé.","Elles révéleront.","qu'elles révèlent.","qu'elles aient révélé.","elles révéleraient.","elles auraient révélé.","n/a"],
 ("révéler","ça"):["Ça révèle.","Ça a révélé.","Ça révélait.","Ça avait révélé.","Ça révélera.","que ça révèle.","que ça ait révélé.","ça révélerait.","ça aurait révélé.","n/a"],
 
 ("corréler","je"):["Je corrèle.","J'ai corrélé.","Je corrélais.","J'avais corrélé.","Je corrélerai.","que je corrèle.","que j'aie corrélé.","je corrélerais.","j'aurais corrélé.","n/a"],
@@ -429,7 +429,7 @@ table = {
 ("corréler","nous"):["Nous corrélons","Nous avons corrélé.","Nous corrélions.","Nous avions corrélé.","Nous corréleront.","que nous corrélions.","que nous ayons corrélé.","nous corrélerions.","nous aurions corrélé.","Corrélons !"],
 ("corréler","vous"):["Vous corrélez.","Vous avez corrélé.","Vous corréliez.","Vous aviez corrélé.","Vous corrélerez.","que vous corréliez.","que vous ayez corrélé.","vous corréleriez.","vous auriez corrélé.","Corrélez !"],
 ("corréler","ils"):["Ils corrèlent.","Ils ont corrélé.","Ils corrélaient.","Ils avaient corrélé.","Ils corréleront.","qu'ils corrèlent.","qu'ils aient corrélé.","ils corréleraient.","ils auraient corrélé.","n/a"],
-("corréler","elles"):["Elles corrèlent.","Elles ont corrélé.","Elles corrélaient.","Elles avaient corrélé.","Elles corréleront.","qu'elles corrèlent.","qu'elles aient corrélé.","elles corréleraient.","elle auraient corrélé.","n/a"],
+("corréler","elles"):["Elles corrèlent.","Elles ont corrélé.","Elles corrélaient.","Elles avaient corrélé.","Elles corréleront.","qu'elles corrèlent.","qu'elles aient corrélé.","elles corréleraient.","elles auraient corrélé.","n/a"],
 ("corréler","ça"):["Ça corrèle.","Ça a corrélé.","Ça corrélait.","Ça avait corrélé.","Ça corrélera.","que ça corrèle.","que ça ait corrélé.","ça corrélerait.","ça aurait corrélé.","n/a"],
 
 ("peser","je"):["Je pèse.","J'ai pesé.","Je pesais.","J'avais pesé.","Je pèserai.","que je pèse.","que j'aie pesé.","je pèserais.","j'aurais pesé.","n/a"],
@@ -439,7 +439,7 @@ table = {
 ("peser","nous"):["Nous pesons.","Nous avons pesé.","Nous pesions.","Nous avions pesé.","Nous pèseront.","que nous pesions.","que nous ayons pesé.","nous pèserions.","nous aurions pesé.","Pesions !"],
 ("peser","vous"):["Vous pesez.","Vous avez pesé.","Vous pesiez.","Vous aviez pesé.","Vous pèserez.","que vous pesiez.","que vous ayez pesé.","vou pèseriez.","vous auriez pesé.","Pesiez !"],
 ("peser","ils"):["Ils pèsent.","Ils ont pesé.","Ils pesaient.","Ils avaient pesé.","Ils pèseront.","qu'ils pèsent.","qu'ils aient pesé.","ils pèseraient.","ils auraient pesé.","n/a"],
-("peser","elles"):["Elles pèsent.","Elles ont pesé.","Elles pesaient.","Elles avaient pesé.","Elles pèseront.","qu'elles pèsent.","qu'elles aient pesé.","elles pèseraient.","elle auraient pesé.","n/a"],
+("peser","elles"):["Elles pèsent.","Elles ont pesé.","Elles pesaient.","Elles avaient pesé.","Elles pèseront.","qu'elles pèsent.","qu'elles aient pesé.","elles pèseraient.","elles auraient pesé.","n/a"],
 ("peser","ça"):["Ça pèse.","Ça a pesé.","Ça pesait.","Ça avait pesé.","Ça pèsera.","que ça pèse.","que ça ait pesé.","ça pèserait.","ça aurait pesé","n/a"],
 
 ("soupeser","je"):["Je soupèse.","J'ai soupesé.","Je soupesais.","J'avais soupesé.","Je soupèserai.","que je soupèse.","que j'aie soupesé.","je soupèserais.","j'aurais soupesé.","n/a"],
@@ -449,7 +449,7 @@ table = {
 ("soupeser","nous"):["Nous soupesons.","Nous avons soupesé.","Nous soupesions.","Nous avions soupesé.","Nous soupèseront.","que nous soupesions.","que nous ayons soupesé.","nous soupèserions.","nous aurions soupesé.","Soupesions !"],
 ("soupeser","vous"):["Vous soupesez.","Vous avez soupesé.","Vous soupesiez.","Vous aviez soupesé.","Vous soupèserez.","que vous soupesiez.","que vous ayez soupesé.","vou soupèseriez.","vous auriez soupesé.","Soupesiez !"],
 ("soupeser","ils"):["Ils soupèsent.","Ils ont soupesé.","Ils soupesaient.","Ils avaient soupesé.","Ils soupèseront.","qu'ils soupèsent.","qu'ils aient soupesé.","ils soupèseraient.","ils auraient soupesé.","n/a"],
-("soupeser","elles"):["Elles soupèsent.","Elles ont soupesé.","Elles soupesaient.","Elles avaient soupesé.","Elles soupèseront.","qu'elles soupèsent.","qu'elles aient soupesé.","elles soupèseraient.","elle auraient soupesé.","n/a"],
+("soupeser","elles"):["Elles soupèsent.","Elles ont soupesé.","Elles soupesaient.","Elles avaient soupesé.","Elles soupèseront.","qu'elles soupèsent.","qu'elles aient soupesé.","elles soupèseraient.","elles auraient soupesé.","n/a"],
 ("soupeser","ça"):["Ça soupèse.","Ça a soupesé.","Ça soupesait.","Ça avait soupesé.","Ça soupèsera.","que ça soupèse.","que ça ait soupesé.","ça soupèserait.","ça aurait soupesé","n/a"],
 
 ("déceler","je"):["Je décèle.","J'ai décelé.","Je décelais.","J'avais décelé.","Je décèlerai.","que je décèle.","que j'aie décelé.","je décèlerais.","j'aurais décelé.","n/a"],
@@ -459,7 +459,7 @@ table = {
 ("déceler","nous"):["Nous décelons.","Nous avons décelé.","Nous décelions.","Nous avions décelé.","Nous décèlerons.","que nous décelions.","que nous ayons décelé.","nous décèlerions.","nous aurions décelé.","Décelons !"],
 ("déceler","vous"):["Vous décelez.","Vous avez décelé.","Vous déceliez.","Vous aviez décelé.","Vous décèlerez.","que vous déceliez.","que vous ayez décelé.","vous décèleriez.","vous auriez décelé.","Décelez !"],
 ("déceler","ils"):["Ils décèlent.","Ils ont décelé.","Ils décelaient.","Ils avaient décelé.","Ils décèleront.","qu'ils rdécèlent.","qu'ils aient décelé.","ils décèleraeient.","ils auraient décelé.","n/a"],
-("déceler","elles"):["Elles décèlent.","Elles ont décelé.","Elles décelaient.","Elles avaient décelé.","Elles décèleront.","qu'elles décèlent.","qu'elles aient décelé.","elles décèleraeient.","elle auraient décelé.","n/a"],
+("déceler","elles"):["Elles décèlent.","Elles ont décelé.","Elles décelaient.","Elles avaient décelé.","Elles décèleront.","qu'elles décèlent.","qu'elles aient décelé.","elles décèleraeient.","elles auraient décelé.","n/a"],
 ("déceler","ça"):["Ça décèle.","Ça a décelé.","Ça décelait.","Ça avait décelé.","Ça décèlera.","que ça décèle.","que ça ait décelé.","ça décèlerait.","ça aurait décelé.","n/a"],
 
 ("modeler","je"):["Je modèle.","J'ai modelé.","Je modelais.","J'avais modelé.","Je modèlerai.","que je modèle.","que j'aie modelé.","je modèlerais.","j'aurais modelé.","n/a"],
@@ -469,7 +469,7 @@ table = {
 ("modeler","nous"):["Nous modelons.","Nous avons modelé.","Nous modelions.","Nous avions modelé.","Nous modèlerons.","que nous modelions.","que nous ayons modelé.","nous modèlerions.","nous aurions modelé.","Modelons !"],
 ("modeler","vous"):["Vous modelez.","Vous avez modelé.","Vous modeliez.","Vous aviez modelé.","Vous modèlerez.","que vous modeliez.","que vous ayez modelé.","vous modèleriez.","vous auriez modelé.","Modelez !"],
 ("modeler","ils"):["Ils modèlent.","Ils ont modelé.","Ils modelaient.","Ils avaient modelé.","Ils modèleront.","qu'ils rmodèlent.","qu'ils aient modelé.","ils modèleraeient.","ils auraient modelé.","n/a"],
-("modeler","elles"):["Elles modèlent.","Elles ont modelé.","Elles modelaient.","Elles avaient modelé.","Elles modèleront.","qu'elles modèlent.","qu'elles aient modelé.","elles modèleraeient.","elle auraient modelé.","n/a"],
+("modeler","elles"):["Elles modèlent.","Elles ont modelé.","Elles modelaient.","Elles avaient modelé.","Elles modèleront.","qu'elles modèlent.","qu'elles aient modelé.","elles modèleraeient.","elles auraient modelé.","n/a"],
 ("modeler","ça"):["Ça modèle.","Ça a modelé.","Ça modelait.","Ça avait modelé.","Ça modèlera.","que ça modèle.","que ça ait modelé.","ça modèlerait.","ça aurait modelé.","n/a"],
 
 ("intégrer","je"):["J'intègre.","J'ai integré.","J'intégrais.","J'avais integré.","J'intégrerai.","que j'intègre.","que j'aie integré.","j'intégrerais.","j'aurais integré.","n/a"],
@@ -479,7 +479,7 @@ table = {
 ("intégrer","nous"):["Nous intégrons.","Nous avons integré.","Nous intégrions.","Nous avions integré.","Nous intégrerons.","que nous intègrions.","que nous ayons integré.","nous intégrerions.","nous aurions integré.","Intégrons !"],
 ("intégrer","vous"):["Vous intégrez.","Vous avez integré.","Vous intégriez.","Vous aviez integré.","Vous intégrerez.","que vous intègriez.","que vous ayez integré.","vous intégreriez.","vous auriez integré.","Intégrez !"],
 ("intégrer","ils"):["Ils intègrent.","Ils ont integré.","Ils intégraient.","Ils avaient integré.","Ils intégreront.","qu'ils intègrent.","qu'ils aient integré.","ils intégreraient.","ils auraient integré.","n/a"],
-("intégrer","elles"):["Elles intègrent.","Elles ont integré.","Elles intégraient.","Elles avaient integré.","Elles intégreront.","qu'elles intègrent.","qu'elles aient integré.","elles intégreraient.","elle auraient integré.","n/a"],
+("intégrer","elles"):["Elles intègrent.","Elles ont integré.","Elles intégraient.","Elles avaient integré.","Elles intégreront.","qu'elles intègrent.","qu'elles aient integré.","elles intégreraient.","elles auraient integré.","n/a"],
 ("intégrer","ça"):["Ça intègre.","Ça a integré.","Ça intégrait.","Ça avait integré.","Ça intégrera.","que ça intègre.","que ça ait integré.","ça intégrerait.","ça aurait integré.","n/a"],
 
 ("réintégrer","je"):["Je réintègre.","J'ai réintegré.","Je réintégrais.","J'avais réintegré.","Je réintégrerai.","que je réintègre.","que j'aie réintegré.","je réintégrerais.","j'aurais réintegré.","n/a"],
@@ -489,7 +489,7 @@ table = {
 ("réintégrer","nous"):["Nous réintégrons.","Nous avons réintegré.","Nous réintégrions.","Nous avions réintegré.","Nous réintégrerons.","que nous réintègrions.","que nous ayons réintegré.","nous réintégrerions.","nous aurions réintegré.","Réintégrons !"],
 ("réintégrer","vous"):["Vous réintégrez.","Vous avez réintegré.","Vous réintégriez.","Vous aviez réintegré.","Vous réintégrerez.","que vous réintègriez.","que vous ayez réintegré.","vous réintégreriez.","vous auriez réintegré.","Réintégrez !"],
 ("réintégrer","ils"):["Ils réintègrent.","Ils ont réintegré.","Ils réintégraient.","Ils avaient réintegré.","Ils réintégreront.","qu'ils réintègrent.","qu'ils aient réintegré.","ils réintégreraient.","ils auraient réintegré.","n/a"],
-("réintégrer","elles"):["Elles réintègrent.","Elles ont réintegré.","Elles réintégraient.","Elles avaient réintegré.","Elles réintégreront.","qu'elles réintègrent.","qu'elles aient réintegré.","elles réintégreraient.","elle auraient réintegré.","n/a"],
+("réintégrer","elles"):["Elles réintègrent.","Elles ont réintegré.","Elles réintégraient.","Elles avaient réintegré.","Elles réintégreront.","qu'elles réintègrent.","qu'elles aient réintegré.","elles réintégreraient.","elles auraient réintegré.","n/a"],
 ("réintégrer","ça"):["Ça réintègre.","Ça a réintegré.","Ça réintégrait.","Ça avait réintegré.","Ça réintégrera.","que ça réintègre.","que ça ait réintegré.","ça réintégrerait.","ça aurait réintegré.","n/a"],
 
 ("régner","je"):["Je règne.","J'ai régné.","Je régnais.","J'avais régné.","Je régnerai.","que je règne.","que j'aie régné.","je régnerais.","j'aurais régné.","n/a"],
@@ -499,7 +499,7 @@ table = {
 ("régner","nous"):["Nous régnons.","Nous avons régné.","Nous régnions.","Nous avions régné.","Nous régnerons.","que nous règnions.","que nous ayons régné.","nous régnerions.","nous aurions régné.","Règnons !"],
 ("régner","vous"):["Vous régnez.","Vous avez régné.","Vous régniez.","Vous aviez régné.","Vous régnerez.","que vous règniez.","que vous ayez régné.","vous régneriez.","vous auriez régné.","Règnez !"],
 ("régner","ils"):["Ils règnent.","Ils ont régné.","Ils régnaient.","Ils avaient régné.","Ils régneront.","qu'ils règnent.","qu'ils aient régné.","ils régneraient.","ils auraient régné.","n/a"],
-("régner","elles"):["Elles règnent.","Elles ont régné.","Elles régnaient.","Elles avaient régné.","Elles régneront.","qu'elles règnent.","qu'elles aient régné.","elles régneraient.","elle auraient régné.","n/a"],
+("régner","elles"):["Elles règnent.","Elles ont régné.","Elles régnaient.","Elles avaient régné.","Elles régneront.","qu'elles règnent.","qu'elles aient régné.","elles régneraient.","elles auraient régné.","n/a"],
 ("régner","ça"):["Ça règne.","Ça a régné.","Ça régnait.","Ça avait régné.","Ça régnera.","que ça règne.","que ça ait régné.","ça régnerait.","ça aurait régné.","n/a"],
 
 ("imprégner","je"):["J'imprègne.","J'ai imprégné.","J'imprégnais.","J'avais imprégné.","J'imprégnerai.","que j'imprègne.","que j'aie imprégné.","j'imprégnerais.","j'aurais imprégné.","n/a"],
@@ -509,7 +509,7 @@ table = {
 ("imprégner","nous"):["Nous imprégnons.","Nous avons imprégné.","Nous imprégnions.","Nous avions imprégné.","Nous imprégnerons.","que nous imprègnions.","que nous ayons imprégné.","nous imprégnerions.","nous aurions imprégné.","Imprègnons !"],
 ("imprégner","vous"):["Vous imprégnez.","Vous avez imprégné.","Vous imprégniez.","Vous aviez imprégné.","Vous imprégnerez.","que vous imprègniez.","que vous ayez imprégné.","vous imprégneriez.","vous auriez imprégné.","Imprègnez !"],
 ("imprégner","ils"):["Ils imprègnent.","Ils ont imprégné.","Ils imprégnaient.","Ils avaient imprégné.","Ils imprégneront.","qu'ils imprègnent.","qu'ils aient imprégné.","ils imprégneraient.","ils auraient imprégné.","n/a"],
-("imprégner","elles"):["Elles imprègnent.","Elles ont imprégné.","Elles imprégnaient.","Elles avaient imprégné.","Elles imprégneront.","qu'elles imprègnent.","qu'elles aient imprégné.","elles imprégneraient.","elle auraient imprégné.","n/a"],
+("imprégner","elles"):["Elles imprègnent.","Elles ont imprégné.","Elles imprégnaient.","Elles avaient imprégné.","Elles imprégneront.","qu'elles imprègnent.","qu'elles aient imprégné.","elles imprégneraient.","elles auraient imprégné.","n/a"],
 ("imprégner","ça"):["Ça imprègne.","Ça a imprégné.","Ça imprégnait.","Ça avait imprégné.","Ça imprégnera.","que ça imprègne.","que ça ait imprégné.","ça imprégnerait.","ça aurait imprégné.","n/a"],
 
 ("sécher","je"):["Je sèche.","J'ai séché.","Je séchais.","J'avais séché.","Je sécherai.","que je sèche.","que j'aie séché.","je sécherais.","j'aurais séché.","n/a"],
@@ -519,7 +519,7 @@ table = {
 ("sécher","nous"):["Nous séchons.","Nous avons séché.","Nous séchions.","Nous avions séché.","Nous sécherons.","que nous séchions.","que nous ayons séché.","nous sécherions.","nous aurions séché.","Séchons !"],
 ("sécher","vous"):["Vous séchez.","Vous avez séché.","Vous séchiez.","Vous aviez séché.","Vous sécherez.","que vous séchiez.","que vous ayez séché.","vous sécheriez.","vous auriez séché.","Séchez !"],
 ("sécher","ils"):["Ils sèchent.","Ils ont séché.","Ils séchaient.","Ils avaient séché.","Ils sécheront.","qu'ils sèchent.","qu'ils aient séché.","ils sécheraient.","ils auraient séché.","n/a"],
-("sécher","elles"):["Elles sèchent.","Elles ont séché.","Elles séchaient.","Elles avaient séché.","Elles sécheront.","qu'elles sèchent.","qu'elles aient séché.","elles sécheraient.","elle auraient séché.","n/a"],
+("sécher","elles"):["Elles sèchent.","Elles ont séché.","Elles séchaient.","Elles avaient séché.","Elles sécheront.","qu'elles sèchent.","qu'elles aient séché.","elles sécheraient.","elles auraient séché.","n/a"],
 ("sécher","ça"):["Ça sèche.","Ça a séché.","Ça séchait.","Ça avait séché.","Ça séchera.","que ça sèche.","que ça ait séché.","ça sécherait.","ça aurait séché.","n/a"],
 
 ("lécher","je"):["Je lèche.","J'ai léché.","Je léchais.","J'avais léché.","Je lécherai.","que je lèche.","que j'aie léché.","je lécherais.","j'aurais léché.","n/a"],
@@ -529,7 +529,7 @@ table = {
 ("lécher","nous"):["Nous léchons.","Nous avons léché.","Nous léchions.","Nous avions léché.","Nous lécherons.","que nous léchions.","que nous ayons léché.","nous lécherions.","nous aurions léché.","léchons !"],
 ("lécher","vous"):["Vous léchez.","Vous avez léché.","Vous léchiez.","Vous aviez léché.","Vous lécherez.","que vous léchiez.","que vous ayez léché.","vous lécheriez.","vous auriez léché.","léchez !"],
 ("lécher","ils"):["Ils lèchent.","Ils ont léché.","Ils léchaient.","Ils avaient léché.","Ils lécheront.","qu'ils lèchent.","qu'ils aient léché.","ils lécheraient.","ils auraient léché.","n/a"],
-("lécher","elles"):["Elles lèchent.","Elles ont léché.","Elles léchaient.","Elles avaient léché.","Elles lécheront.","qu'elles lèchent.","qu'elles aient léché.","elles lécheraient.","elle auraient léché.","n/a"],
+("lécher","elles"):["Elles lèchent.","Elles ont léché.","Elles léchaient.","Elles avaient léché.","Elles lécheront.","qu'elles lèchent.","qu'elles aient léché.","elles lécheraient.","elles auraient léché.","n/a"],
 ("lécher","ça"):["Ça lèche.","Ça a léché.","Ça léchait.","Ça avait léché.","Ça léchera.","que ça lèche.","que ça ait léché.","ça lécherait.","ça aurait léché.","n/a"],
 
 ("célébrer","je"):["Je célèbre.","J'ai célébré.","Je célébrais.","J'avais célébré.","Je célébrerai.","que je célèbre.","que j'aie célébré.","je célébrerais.","j'aurais célébré.","n/a"],
@@ -539,7 +539,7 @@ table = {
 ("célébrer","nous"):["Nous célébrons.","Nous avons célébré.","Nous célébrions.","Nous avions célébré.","Nous célébrerons","que nous célébrions.","que nous ayons célébré.","nous célébrerions.","nous aurions célébré.","Célébrons !"],
 ("célébrer","vous"):["Vous célébrez.","Vous avez célébré.","Vous célébriez.","Vous aviez célébré.","Vous célébrerez","que vous célébriez.","que vous ayez célébré.","vous célébreriez.","vous auriez célébré.","Célébrons !"],
 ("célébrer","ils"):["Ils célèbrent.","Ils ont célébré.","Ils célébraient.","Ils avaient célébré.","Ils célébreront.","qu'ils célèbrent.","qu'ils aient célébré.","ils célébreraient.","ils auraient célébré.","n/a"],
-("célébrer","elles"):["Elles célèbrent.","Elles ont célébré.","Elles célébraient.","Elles avaient célébré.","Elles célébreront.","qu'elles célèbrent.","qu'elles aient célébré.","elles célébreraient.","elle auraient célébré.","n/a"],
+("célébrer","elles"):["Elles célèbrent.","Elles ont célébré.","Elles célébraient.","Elles avaient célébré.","Elles célébreront.","qu'elles célèbrent.","qu'elles aient célébré.","elles célébreraient.","elles auraient célébré.","n/a"],
 ("célébrer","ça"):["Ça célèbre.","Ça a célébré.","Ça célébrait.","Ça avait célébré.","Ça célébrera.","que ça célèbre.","que ça ait célébré.","ça célébrerait.","ça aurait célébré","n/a"],
 
 ("concélébrer","je"):["Je concélèbre.","J'ai concélébré.","Je concélébrais.","J'avais concélébré.","Je concélébrerai.","que je concélèbre.","que j'aie concélébré.","je concélébrerais.","j'aurais concélébré.","n/a"],
@@ -549,18 +549,18 @@ table = {
 ("concélébrer","nous"):["Nous concélébrons.","Nous avons concélébré.","Nous concélébrions.","Nous avions concélébré.","Nous concélébrerons","que nous concélébrions.","que nous ayons concélébré.","nous concélébrerions.","nous aurions concélébré.","Concélébrons !"],
 ("concélébrer","vous"):["Vous concélébrez.","Vous avez concélébré.","Vous concélébriez.","Vous aviez concélébré.","Vous concélébrerez","que vous concélébriez.","que vous ayez concélébré.","vous concélébreriez.","vous auriez concélébré.","Concélébrons !"],
 ("concélébrer","ils"):["Ils concélèbrent.","Ils ont concélébré.","Ils concélébraient.","Ils avaient concélébré.","Ils concélébreront.","qu'ils concélèbrent.","qu'ils aient concélébré.","ils concélébreraient.","ils auraient concélébré.","n/a"],
-("concélébrer","elles"):["Elles concélèbrent.","Elles ont concélébré.","Elles concélébraient.","Elles avaient concélébré.","Elles concélébreront.","qu'elles concélèbrent.","qu'elles aient concélébré.","elles concélébreraient.","elle auraient concélébré.","n/a"],
+("concélébrer","elles"):["Elles concélèbrent.","Elles ont concélébré.","Elles concélébraient.","Elles avaient concélébré.","Elles concélébreront.","qu'elles concélèbrent.","qu'elles aient concélébré.","elles concélébreraient.","elles auraient concélébré.","n/a"],
 ("concélébrer","ça"):["Ça concélèbre.","Ça a concélébré.","Ça concélébrait.","Ça avait concélébré.","Ça concélébrera.","que ça concélèbre.","que ça ait concélébré.","ça concélébrerait.","ça aurait concélébré","n/a"],
 
-("résulter","je"):["n/a","J'ai résulté.","n/a","J'avais résulté.","n/a","n/a","que j'aie résulté.","n/a","j'aurais résulté.","n/a"],
-("résulter","tu"):["n/a","Tu as résulté.","n/a","Tu avais résulté.","n/a","n/a","que tu aies résulté.","n/a","tu aurais résulté.","n/a"],
+("résulter","je"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
+("résulter","tu"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
 ("résulter","il"):["Il résulte.","Il a résulté.","Il résultait.","Il avait résulté.","Il résultera.","qu'il résulte.","qu'il ait résulté.","il résulterait.","il aurait résulté.","n/a"],
-("résulter","elle"):["Elle résulte.","Elle a résulté.","Elle résultait.","Elle avait résulté.","Elle résultera.","qu'elle irésulte.","qu'elle ait résulté.","elle résulterait.","elle aurait résulté.","n/a"],
-("résulter","nous"):["n/a","Nous avons résulté.","n/a","Nous avions résulté.","n/a","n/a","que nous ayons résulté.","n/a","nous aurions résulté.","n/a"],
-("résulter","vous"):["n/a","Vous avez résulté.","n/a","Vous aviez résulté.","n/a","n/a","que vous ayez résulté.","n/a","vous auriez résulté.","n/a"],
-("résulter","ils"):["Ils résultent.","Ils ont résulté.","Ils résultaient.","Ils avaient résulté.","Ils Il résulteront.","qu'ils résultent.","qu'ils aient résulté.","ils résulteraient.","ils auraient résulté.","n/a"],
-("résulter","elles"):["Elles résultent.","Elles ont résulté.","Elles résultaient.","Elles avaient résulté.","Elles résulteront.","qu'elles résultent.","qu'elles aient résulté.","elles résulteraient.","elle auraient résulté.","n/a"],
-("résulter","ça"):["Ça résulte.","Ça a résulté.","Il résultait.","Ça avait résulté.","Ça résultera.","que ça résulte.","que ça ait résulté.","ça résulterait.","ça aurait résulté.","n/a"],
+("résulter","elle"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
+("résulter","nous"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
+("résulter","vous"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
+("résulter","ils"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
+("résulter","elles"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
+("résulter","ça"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
 
 ("incomber","je"):["n/a","J'ai incombé.","n/a","J'avais incombé.","n/a","n/a","que j'aie incombé.","n/a","j'aurais incombé.","n/a"],
 ("incomber","tu"):["n/a","Tu as incombé.","n/a","Tu avais incombé.","n/a","n/a","que tu aies incombé.","n/a","tu aurais incombé.","n/a"],
@@ -569,7 +569,7 @@ table = {
 ("incomber","nous"):["n/a","Nous avons incombé.","n/a","Nous avions incombé.","n/a","n/a","que nous ayons incombé.","n/a","nous aurions incombé.","n/a"],
 ("incomber","vous"):["n/a","Vous avez incombé.","n/a","Vous aviez incombé.","n/a","n/a","que vous ayez incombé.","n/a","vous auriez incombé.","n/a"],
 ("incomber","ils"):["Ils incombent.","Ils ont incombé.","Ils incombaient.","Ils avaient incombé.","Ils Il incomberont.","qu'ils incombent.","qu'ils aient incombé.","ils incomberaient.","ils auraient incombé.","n/a"],
-("incomber","elles"):["Elles incombent.","Elles ont incombé.","Elles incombaient.","Elles avaient incombé.","Elles incomberont.","qu'elles incombent.","qu'elles aient incombé.","elles incomberaient.","elle auraient incombé.","n/a"],
+("incomber","elles"):["Elles incombent.","Elles ont incombé.","Elles incombaient.","Elles avaient incombé.","Elles incomberont.","qu'elles incombent.","qu'elles aient incombé.","elles incomberaient.","elles auraient incombé.","n/a"],
 ("incomber","ça"):["Ça incombe.","Ça a incombé.","Il incombait.","Ça avait incombé.","Ça incombera.","que ça incombe.","que ça ait incombé.","ça incomberait.","ça aurait incombé.","n/a"],
 
 ("semer","je"):["Je sème.","J'ai semé.","Je semais.","J'avais semé.","Je sèmerai.","que je sème.","que j'aie semé.","je sèmerais.","j'aurais semé.","n/a"],
@@ -579,7 +579,7 @@ table = {
 ("semer","nous"):["Nous semons.","Nous avons semé.","Nous semions.","Nous avions semé.","Nous sèmerons.","que nous semions.","que nous ayons semé.","nous sèmerions.","nous aurions semé.","Semons !"],
 ("semer","vous"):["Vous semez.","Vous avez semé.","Vous semiez.","Vous aviez semé.","Vous sèmerez.","que vous semiez.","que vous ayez semé.","vous sèmeriez.","vous auriez semé.","Semez !"],
 ("semer","ils"):["Ils sèment.","Ils ont semé.","Ils semaient.","Ils avaient semé.","Ils sèmeront.","qu'ils sèment.","qu'ils aient semé.","Ils sèmeraient.","ils auraient semé.","n/a"],
-("semer","elles"):["Elles sèment.","Elles ont semé.","Elles semaient.","Elles avaient semé.","Elles sèmeront.","qu'elles sèment.","qu'elles aient semé.","elles sèmeraient.","elle auraient semé.","n/a"],
+("semer","elles"):["Elles sèment.","Elles ont semé.","Elles semaient.","Elles avaient semé.","Elles sèmeront.","qu'elles sèment.","qu'elles aient semé.","elles sèmeraient.","elles auraient semé.","n/a"],
 ("semer","ça"):["Ça sème.","Ça a semé.","Ça semait.","Ça avait semé.","Ça sèmera.","que ça sème.","que ça ait semé.","ça sèmerait.","ça aurait semé.","n/a"],
 
 ("parsemer","je"):["Je parsème.","J'ai parsemé.","Je parsemais.","J'avais parsemé.","Je parsèmerai.","que je parsème.","que j'aie parsemé.","je parsèmerais.","j'aurais parsemé.","n/a"],
@@ -589,7 +589,7 @@ table = {
 ("parsemer","nous"):["Nous parsemons.","Nous avons parsemé.","Nous parsemions.","Nous avions parsemé.","Nous parsèmerons.","que nous parsemions.","que nous ayons parsemé.","nous parsèmerions.","nous aurions parsemé.","Parsemons !"],
 ("parsemer","vous"):["Vous parsemez.","Vous avez parsemé.","Vous parsemiez.","Vous aviez parsemé.","Vous parsèmerez.","que vous parsemiez.","que vous ayez parsemé.","vous parsèmeriez.","vous auriez parsemé.","Parsemez !"],
 ("parsemer","ils"):["Ils parsèment.","Ils ont parsemé.","Ils parsemaient.","Ils avaient parsemé.","Ils parsèmeront.","qu'ils parsèment.","qu'ils aient parsemé.","Ils parsèmeraient.","ils auraient parsemé.","n/a"],
-("parsemer","elles"):["Elles parsèment.","Elles ont parsemé.","Elles parsemaient.","Elles avaient parsemé.","Elles parsèmeront.","qu'elles parsèment.","qu'elles aient parsemé.","elles parsèmeraient.","elle auraient parsemé.","n/a"],
+("parsemer","elles"):["Elles parsèment.","Elles ont parsemé.","Elles parsemaient.","Elles avaient parsemé.","Elles parsèmeront.","qu'elles parsèment.","qu'elles aient parsemé.","elles parsèmeraient.","elles auraient parsemé.","n/a"],
 ("parsemer","ça"):["Ça parsème.","Ça a parsemé.","Ça parsemait.","Ça avait parsemé.","Ça parsèmera.","que ça parsème.","que ça ait parsemé.","ça parsèmerait.","ça aurait parsemé.","n/a"],
 
 
@@ -602,7 +602,7 @@ table = {
 ("voir","nous"):["Nous voyons.","Nous avons vu.","Nous voyions.","Nous avions vu.","Nous verrons.","que nous voyions.","que nous ayons vu.","nous verrions.","nous aurions vu.","Voyons !"],
 ("voir","vous"):["Vous voyez.","Vous avez vu.","Vous voyiez.","Vous aviez vu.","Vous verrez.","que vous voyiez.","que vous ayez vu.","vous verriez.","vous auriez vu.","Voyez !"],
 ("voir","ils"):["Ils voient.","Ils ont vu.","Ils voyaient.","Ils avaient vu.","Ils verront.","qu'ils voient.","qu'ils aient vu.","ils verraient.","ils auraient vu.","n/a"],
-("voir","elles"):["Elles voient.","Elles ont vu.","Elles voyaient.","Elles avaient vu.","Elles verront.","qu'elles voient.","qu'elles aient vu.","elles verraient.","elle auraient vu.","n/a"],
+("voir","elles"):["Elles voient.","Elles ont vu.","Elles voyaient.","Elles avaient vu.","Elles verront.","qu'elles voient.","qu'elles aient vu.","elles verraient.","elles auraient vu.","n/a"],
 ("voir","ça"):["Ça voit.","Ça a vu.","Ça voyait.","Ça avait vu.","Ça verra.","que ça voie.","que ça ait vu.","ça verrait.","ça aurait vu.","n/a"],
 
 ("revoir","je"):["Je revois.","J'ai revu.","Je revoyais.","J'avais revu.","Je reverrai.","que je revoie.","que j'aie revu.","je reverrais.","j'aurais revu.","n/a"],
@@ -612,7 +612,7 @@ table = {
 ("revoir","nous"):["Nous revoyons.","Nous avons revu.","Nous revoyions.","Nous avions revu.","Nous reverrons.","que nous revoyions.","que nous ayons revu.","nous reverrions.","nous aurions revu.","Revoyons !"],
 ("revoir","vous"):["revous revoyez.","Vous avez revu.","Vous revoyiez.","Vous aviez revu.","Vous reverrez.","que vous revoyiez.","que vous ayez revu.","vous reverriez.","vous auriez revu.","Revoyez !"],
 ("revoir","ils"):["Ils revoient.","Ils ont revu.","Ils revoyaient.","Ils avaient revu.","Ils reverront.","qu'ils revoient.","qu'ils aient revu.","ils reverraient.","ils auraient revu.","n/a"],
-("revoir","elles"):["Elles revoient.","Elles ont revu.","Elles revoyaient.","Elles avaient revu.","Elles reverront.","qu'elles revoient.","qu'elles aient revu.","elles reverraient.","elle auraient revu.","n/a"],
+("revoir","elles"):["Elles revoient.","Elles ont revu.","Elles revoyaient.","Elles avaient revu.","Elles reverront.","qu'elles revoient.","qu'elles aient revu.","elles reverraient.","elles auraient revu.","n/a"],
 ("revoir","ça"):["Ça revoit.","Ça a revu.","Ça revoyait.","Ça avait revu.","Ça reverra.","que ça revoie.","que ça ait revu.","ça reverrait.","ça aurait revu.","n/a"],
 
 ("partir","je"):["Je pars.","Je suis parti.","Je partais.","J'étais parti.","Je partirai.","que je parte.","que je sois parti.","je partirais.","je serais parti.","n/a"],
@@ -642,7 +642,7 @@ table = {
 ("sentir","nous"):["Nous sentons.","Nous avons senti.","Nous sentions.","Nous avions senti.","Nous sentirons.","que nous sentions.","que nous ayons senti.","nous sentirions.","nous aurions senti.","Sentons !"],
 ("sentir","vous"):["Vous sentez.","Vous avez senti.","Vous sentiez.","Vous aviez senti.","Vous sentirez.","que vous sentiez.","que vous ayez senti.","vous sentiriez.","vous auriez senti.","Sentez !"],
 ("sentir","ils"):["Ils sentent.","Ils ont senti.","Ils sentaient.","Ils avaient senti.","Ils sentiront.","qu'ils sentent.","qu'ils aient senti.","ils sentiraient.","ils auraient senti.","n/a"],
-("sentir","elles"):["Elles sentent.","Elles ont senti.","Elles sentaient.","Elles avaient senti.","Elles sentiront.","qu'elles sentent.","qu'elles aient senti.","elles sentiraient.","elle auraient senti.","n/a"],
+("sentir","elles"):["Elles sentent.","Elles ont senti.","Elles sentaient.","Elles avaient senti.","Elles sentiront.","qu'elles sentent.","qu'elles aient senti.","elles sentiraient.","elles auraient senti.","n/a"],
 ("sentir","ça"):["Ça sent.","Ça a senti.","Ça sentait.","Ça avait senti.","Ça sentira.","que ça sente.","que ça ait senti.","ça sentirait.","ça aurait senti.","n/a"],
 
 ("mentir","je"):["Je mens.","J'ai menti.","Je mentais.","J'avais menti.","Je mentirai.","que je mente.","que j'aie menti.","je mentirais.","j'aurais menti.","n/a"],
@@ -652,7 +652,7 @@ table = {
 ("mentir","nous"):["Nous mentons.","Nous avons menti.","Nous mentions.","Nous avions menti.","Nous mentirons.","que nous mentions.","que nous ayons menti.","nous mentirions.","nous aurions menti.","Mentons !"],
 ("mentir","vous"):["Vous mentez.","Vous avez menti.","Vous mentiez.","Vous aviez menti.","Vous mentirez.","que vous mentiez.","que vous ayez menti.","vous mentiriez.","vous auriez menti.","Mentez !"],
 ("mentir","ils"):["Ils mentent.","Ils ont menti.","Ils mentaient.","Ils avaient menti.","Ils mentiront.","qu'ils mentent.","qu'ils aient menti.","ils mentiraient.","ils auraient menti.","n/a"],
-("mentir","elles"):["Elles mentent.","Elles ont menti.","Elles mentaient.","Elles avaient menti.","Elles mentiront.","qu'elles mentent.","qu'elles aient menti.","elles mentiraient.","elle auraient menti.","n/a"],
+("mentir","elles"):["Elles mentent.","Elles ont menti.","Elles mentaient.","Elles avaient menti.","Elles mentiront.","qu'elles mentent.","qu'elles aient menti.","elles mentiraient.","elles auraient menti.","n/a"],
 ("mentir","ça"):["Ça ment.","Ça a menti.","Ça mentait.","Ça avait menti.","Ça mentira.","que ça mente.","que ça ait menti.","ça mentirait.","ça aurait menti.","n/a"],
 
 ("venir","je"):["Je viens.","Je suis venu.","Je venais.","J'étais venu.","Je viendrai.","que je vienne.","que je sois venu.","je viendrais.","je serais venu.","n/a"],
@@ -672,7 +672,7 @@ table = {
 ("tenir","nous"):["Nous tenons.","Nous avons tenu.","Nous tenions.","Nous avions tenu.","Nous tiendrons.","que nous tenions.","que nous ayons tenu.","nous tiendrions.","nous aurions tenu.","Tenons !"],
 ("tenir","vous"):["Vous tenez.","Vous avez tenu.","Voue teniez.","Vous aviez tenu.","Vous tiendrez.","que vous teniez.","que vous ayez tenu.","vous tiendriez.","vous auriez tenu.","Tenez!"],
 ("tenir","ils"):["Ils tiennent.","Ils ont tenu.","Ils tenaient.","Ils avaient tenu.","Ils tiendront.","qu'ils tiennent.","qu'ils aient tenu.","ils tiendraient.","ils auraient tenu.","n/a"],
-("tenir","elles"):["elles tiennent.","Elles ont tenu.","Elles tenaient.","Elles avaient tenu.","Elles tiendront.","qu'elles tiennent.","qu'elles aient tenu.","elles tiendraient.","elle auraient tenu.","n/a"],
+("tenir","elles"):["elles tiennent.","Elles ont tenu.","Elles tenaient.","Elles avaient tenu.","Elles tiendront.","qu'elles tiennent.","qu'elles aient tenu.","elles tiendraient.","elles auraient tenu.","n/a"],
 ("tenir","ça"):["Ça tient.","Ça a tenu.","Ça tenait.","Ça avait tenu.","Ça tiendra.","que ça tienne.","que ça ait tenu.","ça tiendrait.","ça aurait tenu.","n/a"],
 
 ("se souvenir","je"):["Je me souviens.","Je me suis souvenu.","Je me souvenais.","Je m'étais souvenu.","Je me souviendrai.","que je me souvienne.","que je me sois souvenu.","je me souviendrais.","je me serais souvenu.","n/a"],
@@ -702,7 +702,7 @@ table = {
 ("finir","nous"):["Nous finissons.","Nous avons fini.","Nous finissions.","Nous avions fini.","Nous finirons.","que nous finissions.","que nous ayons fini.","nour finirions.","nous aurions fini.","Finissons !"],
 ("finir","vous"):["Vous finissez.","Vous avez fini.","Vous finissiez.","Vous aviez fini.","Vous finirez.","que vous finissiez.","que vous ayez fini.","vous finiriez.","vous auriez fini.","Finissez !"],
 ("finir","ils"):["Ils finissent.","Ils ont fini.","Ils finissaient.","Ils avaient fini.","Ils finiront.","qu'ils finissent.","qu'ils aient fini.","ils finiraient.","ils auraient fini.","n/a"],
-("finir","elles"):["Elles finissent.","Elles ont fini.","Elles finissaient.","Elles avaient fini.","Elles finiront.","qu'elles finissent.","qu'elles aient fini.","elles finiraient.","elle auraient fini.","n/a"],
+("finir","elles"):["Elles finissent.","Elles ont fini.","Elles finissaient.","Elles avaient fini.","Elles finiront.","qu'elles finissent.","qu'elles aient fini.","elles finiraient.","elles auraient fini.","n/a"],
 ("finir","ça"):["Ça finit.","Ça a fini.","Ça finissait.","Ça avait fini.","Ça finira.","que ça finisse.","que ça ait fini.","ça finirait.","ça aurait fini.","n/a"],
 
 ("choisir","je"):["Je choisis.","J'ai choisi.","Je choisissais.","J'avais choisi.","Je choisirai.","que je choisisse.","que j'aie choisi.","je choisirais.","j'aurais choisi.","n/a"],
@@ -712,7 +712,7 @@ table = {
 ("choisir","nous"):["Nous choisissons.","Nous avons choisi.","Nous choisissions.","Nous avions choisi.","Nous choisirons.","que nous choisissions.","que nous ayons choisi.","nous choisirions.","nous aurions choisi.","Choisissons !"],
 ("choisir","vous"):["Vous choisissez.","Vous avez choisi.","Vous choisissiez.","Vous aviez choisi.","Vous choisirez.","que vous choisissiez.","que vous ayez choisi.","vous choisiriez.","vous auriez choisi.","Choisissez !"],
 ("choisir","ils"):["Ils choisissent.","Ils ont choisi.","Ils choisissaaient.","Ils avaient choisi.","Ils choisiront.","qu'ils choisissent.","qu'ils aient choisi.","ils choisiraient.","ils auraient choisi.","n/a"],
-("choisir","elles"):["Elles choisissent.","Elles ont choisi.","Elles choisissaient.","Elles avaient choisi.","Elles choisiront.","qu'elles choisissent.","qu'elles aient choisi.","elles choisiraient.","elle auraient choisi.","n/a"],
+("choisir","elles"):["Elles choisissent.","Elles ont choisi.","Elles choisissaient.","Elles avaient choisi.","Elles choisiront.","qu'elles choisissent.","qu'elles aient choisi.","elles choisiraient.","elles auraient choisi.","n/a"],
 ("choisir","ça"):["Ça choisit.","Ça a choisi.","Ça choisissait.","Ça avait choisi.","Ça choisira.","que ça choisisse.","que ça ait choisi.","ça choisirait.","ça aurait choisi.","n/a"],
 
 ("fournir","je"):["Je furnis.","J'ai furni.","Je furnissais.","J'avais furni.","Je furnirai.","que je furnisse.","que j'aie furni.","je furnirais.","j'aurais furni.","n/a"],
@@ -722,7 +722,7 @@ table = {
 ("fournir","nous"):["Nous furnissons.","Nous avons furni.","Nous furnissions.","Nous avions furni.","Nous furnirons.","que nous furnissions.","que nous ayons furni.","nour furnirions.","nous aurions furni.","Furnissons !"],
 ("fournir","vous"):["Vous furnissez.","Vous avez furni.","Vous furnissiez.","Vous aviez furni.","Vous furnirez.","que vous furnissiez.","que vous ayez furni.","vous furniriez.","vous auriez furni.","Furnissez !"],
 ("fournir","ils"):["Ils furnissent.","Ils ont furni.","Ils furnissaient.","Ils avaient furni.","Ils furniront.","qu'ils furnissent.","qu'ils aient furni.","ils furniraient.","ils auraient furni.","n/a"],
-("fournir","elles"):["Elles furnissent.","Elles ont furni.","Elles furnissaient.","Elles avaient furni.","Elles furniront.","qu'elles furnissent.","qu'elles aient furni.","elles furniraient.","elle auraient furni.","n/a"],
+("fournir","elles"):["Elles furnissent.","Elles ont furni.","Elles furnissaient.","Elles avaient furni.","Elles furniront.","qu'elles furnissent.","qu'elles aient furni.","elles furniraient.","elles auraient furni.","n/a"],
 ("fournir","ça"):["Ça furnit.","Ça a furni.","Ça furnissait.","Ça avait furni.","Ça furnira.","que ça furnisse.","que ça ait furni.","ça furnirait.","ça aurait furni.","n/a"],
 
 ("réfléchir","je"):["Je réfléchis.","J'ai réfléchi.","Je réfléchissais.","J'avais réfléchi.","Je réfléchirai.","que je réfléchisse.","que j'aie réfléchi.","je réfléchirais.","j'aurais réfléchi.","n/a"],
@@ -732,7 +732,7 @@ table = {
 ("réfléchir","nous"):["Nous réfléchissons.","Nous avons réfléchi.","Nous réfléchissions.","Nous avions réfléchi.","Nous réfléchirons.","que nous réfléchissions.","que nous ayons réfléchi.","nour réfléchirions.","nous aurions réfléchi.","Réfléchissons !"],
 ("réfléchir","vous"):["Vous réfléchissez.","Vous avez réfléchi.","Vous réfléchissiez.","Vous aviez réfléchi.","Vous réfléchirez.","que vous réfléchissiez.","que vous ayez réfléchi.","vous réfléchiriez.","vous auriez réfléchi.","Réfléchissez !"],
 ("réfléchir","ils"):["Ils réfléchissent.","Ils ont réfléchi.","Ils réfléchissaient.","Ils avaient réfléchi.","Ils réfléchiront.","qu'ils réfléchissent.","qu'ils aient réfléchi.","ils réfléchiraient.","ils auraient réfléchi.","n/a"],
-("réfléchir","elles"):["Elles réfléchissent.","Elles ont réfléchi.","Elles réfléchissaient.","Elles avaient réfléchi.","Elles réfléchiront.","qu'elles réfléchissent.","qu'elles aient réfléchi.","elles réfléchiraient.","elle auraient réfléchi.","n/a"],
+("réfléchir","elles"):["Elles réfléchissent.","Elles ont réfléchi.","Elles réfléchissaient.","Elles avaient réfléchi.","Elles réfléchiront.","qu'elles réfléchissent.","qu'elles aient réfléchi.","elles réfléchiraient.","elles auraient réfléchi.","n/a"],
 ("réfléchir","ça"):["Ça réfléchit.","Ça a réfléchi.","Ça réfléchissait.","Ça avait réfléchi.","Ça réfléchira.","que ça réfléchisse.","que ça ait réfléchi.","ça réfléchirait.","ça aurait réfléchi.","n/a"],
 
 ("servir","je"):["Je sers.","J'ai servi.","Je servais.","J'avais servi.","Je servirai.","que je serve.","que j'aie servi.","je servirais.","j'aurais servi.","n/a"],
@@ -742,17 +742,17 @@ table = {
 ("servir","nous"):["Nous servons.","Nous avons servi.","Nous servions.","Nous avions servi.","Nous servirons.","que nous servions.","que nous ayons servi.","Nous servirions.","nous aurions servi.","Servons !"],
 ("servir","vous"):["Vous servez.","Vous avez servi.","Vous serviez.","Vous aviez servi.","Vous servirez.","que vous serviez.","que vous ayez servi.","Vous serviriez.","vous auriez servi.","Servez !"],
 ("servir","ils"):["Ils servent.","Ils ont servi.","Ils servaient.","Ils avaient servi.","Ils serviront.","qu'ils servent.","qu'ils aient servi.","ils serviraient.","ils auraient servi.","n/a"],
-("servir","elles"):["Elles servent.","Elles ont servi.","Elles servaient.","Elles avaient servi.","Elles serviront.","qu'elles servent.","qu'elles aient servi.","elles serviraient.","elle auraient servi.","n/a"],
+("servir","elles"):["Elles servent.","Elles ont servi.","Elles servaient.","Elles avaient servi.","Elles serviront.","qu'elles servent.","qu'elles aient servi.","elles serviraient.","elles auraient servi.","n/a"],
 ("servir","ça"):["Ça sert.","Ça a servi.","Ça servait.","Ça avait servi.","Ça servira.","que ça serve.","que ça ait servi.","ça servirait.","ça aurait servi.","n/a"],
 
 ("resservir","je"):["Je ressers.","J'ai resservi.","Je resservais.","J'avais resservi.","Je resservirai.","que je resserve.","que j'aie resservi.","je resservirais.","j'aurais resservi.","n/a"],
 ("resservir","tu"):["Tu ressers.","Tu as resservi.","Tu resservais.","Tu avais resservi.","Tu resserviras.","que tu resserves.","que tu aies resservi.","tu resservirais.","tu aurais resservi.","Ressers !"],
 ("resservir","il"):["Il ressert.","Il a resservi.","Il resservait.","Il avait resservi.","Il resservira.","qu'il resserve.","qu'il ait resservi.","il resservirait.","il aurait resservi.","n/a"],
 ("resservir","elle"):["Elle ressert.","Elle a resservi.","Elle resservait.","Elle avait resservi.","Elle resservira.","qu'elle resserve.","qu'elle ait resservi.","elle resservirait.","elle aurait resservi.","n/a"],
-("resservir","nous"):["Nous resservons.","Nous avons resservi.","Nous resservions.","Nous avions resservi.","Nous resservirons.","que nous resservions.","que nous ayons resservi.","Nous resservirions.","nous aurions resservi.","Resservons !"],
-("resservir","vous"):["Vous resservez.","Vous avez resservi.","Vous resserviez.","Vous aviez resservi.","Vous resservirez.","que vous resserviez.","que vous ayez resservi.","Vous resserviriez.","vous auriez resservi.","Resservez !"],
+("resservir","nous"):["Nous resservons.","Nous avons resservi.","Nous resservions.","Nous avions resservi.","Nous resservirons.","que nous resservions.","que nous ayons resservi.","nous resservirions.","nous aurions resservi.","Resservons !"],
+("resservir","vous"):["Vous resservez.","Vous avez resservi.","Vous resserviez.","Vous aviez resservi.","Vous resservirez.","que vous resserviez.","que vous ayez resservi.","vous resserviriez.","vous auriez resservi.","Resservez !"],
 ("resservir","ils"):["Ils resservent.","Ils ont resservi.","Ils resservaient.","Ils avaient resservi.","Ils resserviront.","qu'ils resservent.","qu'ils aient resservi.","ils resserviraient.","ils auraient resservi.","n/a"],
-("resservir","elles"):["Elles resservent.","Elles ont resservi.","Elles resservaient.","Elles avaient resservi.","Elles resserviront.","qu'elles resservent.","qu'elles aient resservi.","elles resserviraient.","elle auraient resservi.","n/a"],
+("resservir","elles"):["Elles resservent.","Elles ont resservi.","Elles resservaient.","Elles avaient resservi.","Elles resserviront.","qu'elles resservent.","qu'elles aient resservi.","elles resserviraient.","elles auraient resservi.","n/a"],
 ("resservir","ça"):["Ça ressert.","Ça a resservi.","Ça resservait.","Ça avait resservi.","Ça resservira.","que ça resserve.","que ça ait resservi.","ça resservirait.","ça aurait resservi.","n/a"],
 
 ("dormir","je"):["Je dors.","J'ai dormi.","Je dormais.","J'avais dormi.","Je dormirai.","que je dorme.","que j'aie dormi.","je dormirais.","j'aurais dormi.","n/a"],
@@ -762,7 +762,7 @@ table = {
 ("dormir","nous"):["Nous dormons.","Nous avons dormi.","Nous dormions.","Nous avions dormi.","Nous dormirons.","que nous dormions.","que nous ayons dormi.","nous dormirions.","nous aurions dormi.","Dormons !"],
 ("dormir","vous"):["Vous dormez.","Vous avez dormi.","Vous dormiez.","Vous aviez dormi.","Vous dormirez.","que vous dormiez.","que vous ayez dormi.","vous dormiriez.","vous auriez dormi.","Dormez !"],
 ("dormir","ils"):["Ils dorment.","Ils ont dormi.","Ils dormaient.","Ils avaient dormi.","Ils dormiront.","qu'ils dorment.","qu'ils aient dormi.","ils dormiraient.","ils auraient dormi.","n/a"],
-("dormir","elles"):["Elles dorment.","Elles ont dormi.","Elles dormaient.","Elles avaient dormi.","Elles dormiront.","qu'elles dorment.","qu'elles aient dormi.","elles dormiraient.","elle auraient dormi.","n/a"],
+("dormir","elles"):["Elles dorment.","Elles ont dormi.","Elles dormaient.","Elles avaient dormi.","Elles dormiront.","qu'elles dorment.","qu'elles aient dormi.","elles dormiraient.","elles auraient dormi.","n/a"],
 ("dormir","ça"):["Ça dort.","Ça a dormi.","Ça dormait.","Ça avait dormi.","Ça dormira.","que ça dorme.","que ça ait dormi.","ça dormirait.","ça aurait dormi.","n/a"],
 
 ("endormir","je"):["J'endors.","J'ai endormi.","J'endormais.","J'avais endormi.","J'endormirai.","que j'endorme.","que j'aie endormi.","j'endormirais.","j'aurais endormi.","n/a"],
@@ -772,7 +772,7 @@ table = {
 ("endormir","nous"):["Nous endormons.","Nous avons endormi.","Nous endormions.","Nous avions endormi.","Nous endormirons.","que nous endormions.","que nous ayons endormi.","nous endormirions.","nous aurions endormi.","Endormons !"],
 ("endormir","vous"):["Vous endormez.","Vous avez endormi.","Vous endormiez.","Vous aviez endormi.","Vous endormirez.","que vous endormiez.","que vous ayez endormi.","vous endormiriez.","vous auriez endormi.","Endormez !"],
 ("endormir","ils"):["Ils endorment.","Ils ont endormi.","Ils endormaient.","Ils avaient endormi.","Ils endormiront.","qu'ils endorment.","qu'ils aient endormi.","ils endormiraient.","ils auraient endormi.","n/a"],
-("endormir","elles"):["Elles endorment.","Elles ont endormi.","Elles endormaient.","Elles avaient endormi.","Elles endormiront.","qu'elles endorment.","qu'elles aient endormi.","elles endormiraient.","elle auraient endormi.","n/a"],
+("endormir","elles"):["Elles endorment.","Elles ont endormi.","Elles endormaient.","Elles avaient endormi.","Elles endormiront.","qu'elles endorment.","qu'elles aient endormi.","elles endormiraient.","elles auraient endormi.","n/a"],
 ("endormir","ça"):["Ça endort.","Ça a endormi.","Ça endormait.","Ça avait endormi.","Ça endormira.","que ça endorme.","que ça ait endormi.","ça endormirait.","ça aurait endormi.","n/a"],
 
 ("recevoir","je"):["Je reçois.","J'ai reçu.","Je recevais.","J'avais reçu.","Je recevrai.","que je reçoive.","que j'aie reçu.","je recevrais.","j'aurais reçu.","n/a"],
@@ -782,7 +782,7 @@ table = {
 ("recevoir","nous"):["Nous recevons.","Nous avons reçu.","Nous recevions.","Nous avions reçu.","Nous recevrons.","que nous recevions.","que nous ayons reçu.","nous recevrions.","nous aurions reçu.","Recevons !"],
 ("recevoir","vous"):["Vous recevez.","Vous avez reçu.","Vous receviez.","Vous aviez reçu.","Vous recevrez.","que vous receviez.","que vous ayez reçu.","vous recevriez.","vous auriez reçu.","Rexevez !"],
 ("recevoir","ils"):["Ils reçoivent.","Ils ont reçu.","Ils recevaient.","Ils avaient reçu.","Ils recevront.","qu'ils reçoivent.","qu'ils aient reçu.","ils recevraient.","ils auraient reçu.","n/a"],
-("recevoir","elles"):["Elles reçoivent.","Elles ont reçu.","Elles recevaient.","Elles avaient reçu.","Elles recevront.","qu'elles reçoivent.","qu'elles aient reçu.","elles recevraient.","elle auraient reçu.","n/a"],
+("recevoir","elles"):["Elles reçoivent.","Elles ont reçu.","Elles recevaient.","Elles avaient reçu.","Elles recevront.","qu'elles reçoivent.","qu'elles aient reçu.","elles recevraient.","elles auraient reçu.","n/a"],
 ("recevoir","ça"):["Ça reçoit.","Ça a reçu.","Ça recevait.","Ça avait reçu.","Ça recevra.","que ça reçoive.","que ça ait reçu.","ça recevrait.","ça aurait reçu.","n/a"],
 
 ("s'apercevoir","je"):["Je m'aperçois.","Je me suis aperçu.","Je m'apercevais.","Je m'étais aperçu.","Je m'apercevrai.","que je m'aperçoive.","que je me sois aperçu.","je m'apercevrais.","je me serais aperçu.","n/a"],
@@ -802,7 +802,7 @@ table = {
 ("courir","nous"):["Nous courons.","Nous avons couru.","Nous courions.","Nous avions couru.","Nous courrons.","que nous courions.","que nous ayons couru.","nous courrions.","nous aurions couru.","Courons !"],
 ("courir","vous"):["Vous courez.","Vous avez couru.","Vous couriez.","Vous aviez couru.","Vous courrez.","que vous couriez.","que vous ayez couru.","vous courriez.","vous auriez couru.","Coourez !"],
 ("courir","ils"):["Ils courent.","Ils ont couru.","Ils couraient.","Ils avaient couru.","Ils courront.","qu'ils courent.","qu'ils aient couru.","ils courraient.","ils auraient couru.","n/a"],
-("courir","elles"):["Elles courent.","Elles ont couru.","Elles couraient.","Elles avaient couru.","Elles courront.","qu'elles courent.","qu'elles aient couru.","elles courraient.","elle auraient couru.","n/a"],
+("courir","elles"):["Elles courent.","Elles ont couru.","Elles couraient.","Elles avaient couru.","Elles courront.","qu'elles courent.","qu'elles aient couru.","elles courraient.","elles auraient couru.","n/a"],
 ("courir","ça"):["Ça court.","Ça a couru.","Ça courait.","Ça avait couru.","Ça courra.","que ça coure.","que ça ait couru.","ça courrait.","ça aurait couru.","n/a"],
 
 ("parcourir","je"):["Je parcours.","J'ai parcouru.","Je parcourais.","J'avais parcouru.","Je parcourrai.","que je parcoure.","que j'aie parcouru.","je parcourrais.","j'aurais parcouru.","n/a"],
@@ -812,7 +812,7 @@ table = {
 ("parcourir","nous"):["Nous parcourons.","Nous avons parcouru.","Nous parcourions.","Nous avions parcouru.","Nous parcourrons.","que nous parcourions.","que nous ayons parcouru.","nous parcourrions.","nous aurions parcouru.","Parcourons !"],
 ("parcourir","vous"):["Vous parcourez.","Vous avez parcouru.","Vous parcouriez.","Vous aviez parcouru.","Vous parcourrez.","que vous parcouriez.","que vous ayez parcouru.","vous parcourriez.","vous auriez parcouru.","Parcourez !"],
 ("parcourir","ils"):["Ils parcourent.","Ils ont parcouru.","Ils parcouraient.","Ils avaient parcouru.","Ils parcourront.","qu'ils parcourent.","qu'ils aient parcouru.","ils parcourraient.","ils auraient parcouru.","n/a"],
-("parcourir","elles"):["Elles parcourent.","Elles ont parcouru.","Elles parcouraient.","Elles avaient parcouru.","Elles parcourront.","qu'elles parcourent.","qu'elles aient parcouru.","elles parcourraient.","elle auraient parcouru.","n/a"],
+("parcourir","elles"):["Elles parcourent.","Elles ont parcouru.","Elles parcouraient.","Elles avaient parcouru.","Elles parcourront.","qu'elles parcourent.","qu'elles aient parcouru.","elles parcourraient.","elles auraient parcouru.","n/a"],
 ("parcourir","ça"):["Ça parcourt.","Ça a parcouru.","Ça parcourait.","Ça avait parcouru.","Ça parcourra.","que ça parcoure.","que ça ait parcouru.","ça parcourrait.","ça aurait parcouru.","n/a"],
 
 ("offrir","je"):["J'offre.","J'ai offert.","J'offrais,","J'avais offert.","J'offrirai.","que j'offre.","que j'aie offert.","j'offrirais.","j'aurais offert.","n/a"],
@@ -820,20 +820,20 @@ table = {
 ("offrir","il"):["Il offre.","Il a offert.","Il offrait.","Il avait offert.","Il offrira.","qu'il offre.","qu'il ait offert.","il offrirait.","il aurait offert.","n/a"],
 ("offrir","elle"):["Elle offre.","Elle a offert.","Elle offrait.","Elle avait offert.","Elle offrira.","qu'elle offre.","qu'elle ait offert.","elle offrirait.","elle aurait offert.","n/a"],
 ("offrir","nous"):["Nous offrons.","Nous avons offert.","Nous offrions.","Nous avions offert.","Nous offrirons.","que nous offrions.","que nous ayons offert.","nous offrirons.","nous aurions offert.","Offrons !"],
-("offrir","vous"):["Vous offrez.","Vous avez offert.","Vous offriez.","Vous aviez offert.","Vous offrirez.","que vous offriez.","que vous ayez offert.","Vous offririez.","vous auriez offert.","Offrez !"],
-("offrir","ils"):["Ils offrent.","Ils ont offert.","Ils offraient.","Ils avaient offert.","Ils offriront.","qu'ils offrent.","qu'ils aient offert.","Ils offriraient.","ils auraient offert.","n/a"],
-("offrir","elles"):["Elles offrent.","Elles ont offert.","Elles offraient.","Elles avaient offert.","Elles offriront.","qu'elles offrent.","qu'elles aient offert.","Elles offriraient.","elle auraient offert.","n/a"],
-("offrir","ça"):["Ça offre.","Ça a offert.","Ça offrait.","Ça avait offert.","Ça offrira.","que ça offre.","que ça ait offert.","Ça offrirait.","ça aurait offert.","n/a"],
+("offrir","vous"):["Vous offrez.","Vous avez offert.","Vous offriez.","Vous aviez offert.","Vous offrirez.","que vous offriez.","que vous ayez offert.","vous offririez.","vous auriez offert.","Offrez !"],
+("offrir","ils"):["Ils offrent.","Ils ont offert.","Ils offraient.","Ils avaient offert.","Ils offriront.","qu'ils offrent.","qu'ils aient offert.","ils offriraient.","ils auraient offert.","n/a"],
+("offrir","elles"):["Elles offrent.","Elles ont offert.","Elles offraient.","Elles avaient offert.","Elles offriront.","qu'elles offrent.","qu'elles aient offert.","elles offriraient.","elles auraient offert.","n/a"],
+("offrir","ça"):["Ça offre.","Ça a offert.","Ça offrait.","Ça avait offert.","Ça offrira.","que ça offre.","que ça ait offert.","ça offrirait.","ça aurait offert.","n/a"],
 
 ("s'ouvrir","je"):["Je m'ouvre.","Je me suis ouvert.","J m'ouvrais,","Je m'étais ouvert.","J m'ouvrirai.","que j'ouvre.","que je me sois ouvert.","je m'ouvrirais.","je me serais ouvert.","n/a"],
 ("s'ouvrir","tu"):["Tu t'ouvres.","Tu t'es ouvert.","Tu t'ouvrais.","Tu t'était ouvert.","Tu t'ouvriras.","que tu ouvres.","que tu te sois ouvert.","tu t'ouvrirais.","tu te serais ouvert.","Ouvre-toi !"],
 ("s'ouvrir","il"):["Il s'ouvre.","Il s'est ouvert.","Il s'ouvrait.","Il s'était ouvert.","Il s'ouvrira.","qu'il ouvre.","qu'il se soit ouvert.","il s'ouvrirait.","il se serait ouvert.","n/a"],
 ("s'ouvrir","elle"):["Elle s'ouvre.","Elle s'est ouverte.","Elle s'ouvrait.","Elle s'était ouverte.","Elle s'ouvrira.","qu'elle ouvre.","qu'elle se soit ouverte.","elle s'ouvrirait.","elle se serait ouverte.","n/a"],
 ("s'ouvrir","nous"):["Nous nous ouvrons.","Nous nous sommes ouverts.","Nous nous ouvrions.","Nous nous étions ouverts.","Nous nous ouvrirons.","que nous ouvrions.","que nous soyons ouverts.","nous nous ouvrirons.","nous nous serions ouverts.","Ouvrons-nous !"],
-("s'ouvrir","vous"):["Vous vous ouvrez.","Vous vous êtes ouverts.","Vous vous ouvriez.","Vous vous étiez ouverts.","Vous vous ouvrirez.","que vous ouvriez.","que vous vous soyez ouverts.","Vous vous ouvririez.","vous vous seriezouverts.","Ouvrez-vous !"],
-("s'ouvrir","ils"):["Ils se ouvrent.","Ils se sont ouverts","Ils s'ouvraient.","Ils s'étaient ouverts.","Ils s'ouvriront.","qu'ils ouvrent.","qu'ils se soient ouverts.","Ils s'ouvriraient.","ils se seraient ouverts","n/a"],
-("s'ouvrir","elles"):["Elles s'ouvrent.","Elles se sont ouvertes.","Elles s'ouvraient.","Elles s'etaient ouvertes.","Elles s'ouvriront.","qu'elles ouvrent.","qu'elles se soient ouvertes.","Elles s'ouvriraient.","elles se seraient ouvertes.","n/a"],
-("s'ouvrir","ça"):["Ça s'ouvre.","Ça s'est ouvert.","Ça s'ouvrait.","Ça s'était ouvert.","Ça s'ouvrira.","que ça ouvre.","que ça se soit ouvert.","Ça s'ouvrirait.","ça se serait ouvert.","n/a"],
+("s'ouvrir","vous"):["Vous vous ouvrez.","Vous vous êtes ouverts.","Vous vous ouvriez.","Vous vous étiez ouverts.","Vous vous ouvrirez.","que vous ouvriez.","que vous vous soyez ouverts.","vous vous ouvririez.","vous vous seriezouverts.","Ouvrez-vous !"],
+("s'ouvrir","ils"):["Ils se ouvrent.","Ils se sont ouverts","Ils s'ouvraient.","Ils s'étaient ouverts.","Ils s'ouvriront.","qu'ils ouvrent.","qu'ils se soient ouverts.","ils s'ouvriraient.","ils se seraient ouverts","n/a"],
+("s'ouvrir","elles"):["Elles s'ouvrent.","Elles se sont ouvertes.","Elles s'ouvraient.","Elles s'etaient ouvertes.","Elles s'ouvriront.","qu'elles ouvrent.","qu'elles se soient ouvertes.","elles s'ouvriraient.","elles se seraient ouvertes.","n/a"],
+("s'ouvrir","ça"):["Ça s'ouvre.","Ça s'est ouvert.","Ça s'ouvrait.","Ça s'était ouvert.","Ça s'ouvrira.","que ça ouvre.","que ça se soit ouvert.","ça s'ouvrirait.","ça se serait ouvert.","n/a"],
 
 ("acquérir","je"):["J'acquiers.","J'ai acquis.","J'acquérais.","J'avais acquis.","J'acquerrai.","que j'acquière.","que j'aie acquis.","j'acquerrais.","j'aurais acquis.","n/a"],
 ("acquérir","tu"):["Tu acquiers.","Tu as acquis.","Tu acquérais.","Tu avais acquis.","Tu acquerras.","que tu acquières.","que tu aies acquis.","tu acquerrais.","tu aurais acquis.","Acquiers !"],
@@ -842,7 +842,7 @@ table = {
 ("acquérir","nous"):["Nous acquérons.","Nous avons acquis.","Nous acquérions.","Nous avions acquis.","Nous acquerrons.","que nous acquérions.","que nous ayons acquis.","nous acquerrions.","nous aurions acquis.","Acquérons!"],
 ("acquérir","vous"):["Vous acquérez.","Vous avez acquis.","Vous acquériez.","Vous aviez acquis.","Vous acquerrez.","que vous acquériez.","que vous ayez acquis.","vous acquerriez.","vous auriez acquis.","Acquérez !"],
 ("acquérir","ils"):["Ils acquièrent.","Ils ont acquis.","Ils acquéraient.","Ils avaient acquis.","Ils acquerront.","qu'ils acquièrent.","qu'ils aient acquis.","ils acquerraient.","ils auraient acquis.","n/a"],
-("acquérir","elles"):["Elles acquièrent.","Elles ont acquis.","Elles acquéraient.","Elles avaient acquis.","Elles acquerront.","qu'elles acquièrent.","qu'elles aient acquis.","elles acquerraient.","elle auraient acquis.","n/a"],
+("acquérir","elles"):["Elles acquièrent.","Elles ont acquis.","Elles acquéraient.","Elles avaient acquis.","Elles acquerront.","qu'elles acquièrent.","qu'elles aient acquis.","elles acquerraient.","elles auraient acquis.","n/a"],
 ("acquérir","ça"):["Ça acquiert.","Ça a acquis.","Ça acquérait.","Ça avait acquis.","Ça acquerra.","que ça acquière.","que ça ait acquis.","ça acquerrait.","ça aurait acquis.","n/a"],
 
 ("conquérir","je"):["Je conquiers.","J'ai conquis.","Je conquérais.","J'avais conquis.","Je conquerrai.","que je conquière.","que j'aie conquis.","je conquerrais.","j'aurais conquis.","n/a"],
@@ -852,7 +852,7 @@ table = {
 ("conquérir","nous"):["Nous conquérons.","Nous avons conquis.","Nous conquérions.","Nous avions conquis.","Nous conquerrons.","que nous conquièrions.","que nous ayons conquis.","nous conquerrions.","nous aurions conquis.","Conquérons!"],
 ("conquérir","vous"):["Vous conquérez.","Vous avez conquis.","Vous conquériez.","Vous aviez conquis.","Vous conquerrez.","que vous conquériez.","que vous ayez conquis.","vous conquerriez.","vous auriez conquis.","Conquérez !"],
 ("conquérir","ils"):["Ils conquièrent.","Ils ont conquis.","Ils conquéraient.","Ils avaient conquis.","Ils conquerront.","qu'ils conquièrent.","qu'ils aient conquis.","ils conquerraient.","ils auraient conquis.","n/a"],
-("conquérir","elles"):["Elles conquièrent.","Elles ont conquis.","Elles conquéraient.","Elles avaient conquis.","Elles conquerront.","qu'elles conquièrent.","qu'elles aient conquis.","elles conquerraient.","elle auraient conquis.","n/a"],
+("conquérir","elles"):["Elles conquièrent.","Elles ont conquis.","Elles conquéraient.","Elles avaient conquis.","Elles conquerront.","qu'elles conquièrent.","qu'elles aient conquis.","elles conquerraient.","elles auraient conquis.","n/a"],
 ("conquérir","ça"):["Ça conquiert.","Ça a conquis.","Ça conquérait.","Ça avait conquis.","Ça conquerra.","que ça conquière.","que ça ait conquis.","ça conquerrait.","ça aurait conquis.","n/a"],
 
 ("accueillir","je"):["J'accueille.","J'ai accueilli.","J'accueillais.","J'avais accueilli.","J'accueillerai.","que j'accueille.","que j'aie accueilli.","j'accueillerais.","j'aurais accueilli.","n/a"],
@@ -862,7 +862,7 @@ table = {
 ("accueillir","nous"):["Nous accueillons.","Nous avons accueilli.","Nous accueillions.","Nous avions accueilli.","Nous accueillerons.","que nous accueillions.","que nous ayons accueilli.","nous accueillions.","nous aurions accueilli.","Accueillons. !"],
 ("accueillir","vous"):["Vous accueillez.","Vous avez accueilli.","Vous accueilliez.","Vous aviez accueilli.","Vous accueillerez.","que vous accueilliez.","que vous ayez accueilli.","vous accueilleriez.","vous auriez accueilli.","Accueillez !"],
 ("accueillir","ils"):["Ils accueillent.","Ils ont accueilli.","Ils accueillaient.","Ils avaient accueilli.","Ils accueilleront.","qu'ils accueillent.","qu'ils aient accueilli.","ils accueilleraient.","ils auraient accueilli.","n/a"],
-("accueillir","elles"):["Elles accueillent.","Elles ont accueilli.","Elles accueillaient.","Elles avaient accueilli.","Elles accueilleront.","qu'elles accueillent.","qu'elles aient accueilli.","elles accueilleraient.","elle auraient accueilli.","n/a"],
+("accueillir","elles"):["Elles accueillent.","Elles ont accueilli.","Elles accueillaient.","Elles avaient accueilli.","Elles accueilleront.","qu'elles accueillent.","qu'elles aient accueilli.","elles accueilleraient.","elles auraient accueilli.","n/a"],
 ("accueillir","ça"):["Ça accueille.","Ça a accueilli.","Ça accueillait.","Ça avait accueilli.","Ça accueillera.","que ça accueille.","que ça ait accueilli.","ça accueillerait.","ça aurait accueilli.","n/a"],
 
 ("recueillir","je"):["Je recueille.","J'ai recueilli.","Je recueillais.","J'avais recueilli.","Je recueillerai.","que je recueille.","que j'aie recueilli.","je recueillerais.","j'aurais recueilli.","n/a"],
@@ -872,7 +872,7 @@ table = {
 ("recueillir","nous"):["Nous recueillons.","Nous avons recueilli.","Nous recueillions.","Nous avions recueilli.","Nous recueillerons.","que nous recueillions.","que nous ayons recueilli.","nous recueillions.","nous aurions recueilli.","Recueillons !"],
 ("recueillir","vous"):["Vous recueillez.","Vous avez recueilli.","Vous recueilliez.","Vous aviez recueilli.","Vous recueillerez.","que vous recueilliez.","que vous ayez recueilli.","vous recueilleriez.","vous auriez recueilli.","Recueillez !"],
 ("recueillir","ils"):["Ils recueillent.","Ils ont recueilli.","Ils recueillaient.","Ils avaient recueilli.","Ils recueilleront.","qu'ils recueillent.","qu'ils aient recueilli.","ils recueilleraient.","ils auraient recueilli.","n/a"],
-("recueillir","elles"):["Elles recueillent.","Elles ont recueilli.","Elles recueillaient.","Elles avaient recueilli.","Elles recueilleront.","qu'elles recueillent.","qu'elles aient recueilli.","elles recueilleraient.","elle auraient recueilli.","n/a"],
+("recueillir","elles"):["Elles recueillent.","Elles ont recueilli.","Elles recueillaient.","Elles avaient recueilli.","Elles recueilleront.","qu'elles recueillent.","qu'elles aient recueilli.","elles recueilleraient.","elles auraient recueilli.","n/a"],
 ("recueillir","ça"):["Ça recueille.","Ça a recueilli.","Ça recueillait.","Ça avait recueilli.","Ça recueillera.","que ça recueille.","que ça ait recueilli.","ça recueillerait.","ça aurait recueilli.","n/a"],
 
 ("valoir","je"):["Je vaux.","J'ai valu.","Je valais.","J'avais valu.","Je vaudrai.","que je vaille.","que j'aie valu.","je vaudrais.","j'aurais valu.","n/a"],
@@ -880,9 +880,9 @@ table = {
 ("valoir","il"):["Il vaut.","Il a valu.","Il valait.","Il avait valu.","Il vaudra.","qu'il vaille.","qu'il ait valu.","il vaudrait.","il aurait valu.","n/a"],
 ("valoir","elle"):["Elle vaut.","Elle a valu.","Elle valait.","Elle avait valu.","Elle vaudra.","qu'elle vaille.","qu'elle ait valu.","elle vaudrait.","elle aurait valu.","n/a"],
 ("valoir","nous"):["Nous valons.","Nous avons valu.","Nous valions.","Nous avions valu.","Nous vaudrons.","que nous valions.","que nous ayons valu.","nous vaudrions.","nous aurions valu.","Valons !"],
-("valoir","vous"):["Vous valez.","Vous avez valu.","Vous valiez.","Vous aviez valu.","Vous vaudrez.","que vous valiez.","que vous ayez valu.","vVous vaudriez.","vous auriez valu.","Valez !"],
+("valoir","vous"):["Vous valez.","Vous avez valu.","Vous valiez.","Vous aviez valu.","Vous vaudrez.","que vous valiez.","que vous ayez valu.","vous vaudriez.","vous auriez valu.","Valez !"],
 ("valoir","ils"):["Ils valent.","Ils ont valu.","Ils valaient.","Ils avaient valu.","Ils vaudront.","qu'ils vaillent.","qu'ils aient valu.","ils vaudraient.","ils auraient valu.","n/a"],
-("valoir","elles"):["Elles valent.","Elles ont valu.","Elles valaient.","Elles avaient valu.","Elles vaudront.","qu'elles valillent.","qu'elles aient valu.","elles vaudraient.","elle auraient valu.","n/a"],
+("valoir","elles"):["Elles valent.","Elles ont valu.","Elles valaient.","Elles avaient valu.","Elles vaudront.","qu'elles valillent.","qu'elles aient valu.","elles vaudraient.","elles auraient valu.","n/a"],
 ("valoir","ça"):["Ça vaut.","Ça a valu.","Ça valait.","Ça avait valu.","Ça vaudra.","que ça vaille.","que ça ait valu.","ça vaudrait.","ça aurait valu.","n/a"],
 
 ("équivaloir","je"):["J'équivaux.","J'ai équivalu.","J'équivalais.","J'avais équivalu.","J'équivaudrai.","que j'équivaille.","que j'aie équivalu.","j'équivaudrais.","j'aurais équivalu.","n/a"],
@@ -890,9 +890,9 @@ table = {
 ("équivaloir","il"):["Il équivaut.","Il a équivalu.","Il équivalait.","Il avait équivalu.","Il équivaudra.","qu'il équivaille.","qu'il ait équivalu.","il équivaudrait.","il aurait équivalu.","n/a"],
 ("équivaloir","elle"):["Elle équivaut.","Elle a équivalu.","Elle équivalait.","Elle avait équivalu.","Elle équivaudra.","qu'elle équivaille.","qu'elle ait équivalu.","elle équivaudrait.","elle aurait équivalu.","n/a"],
 ("équivaloir","nous"):["Nous équivalons.","Nous avons équivalu.","Nous équivalions.","Nous avions équivalu.","Nous équivaudrons.","que nous équivalions.","que nous ayons équivalu.","nous équivaudrions.","nous aurions équivalu.","Équivalons !"],
-("équivaloir","vous"):["Vous équivalez.","Vous avez équivalu.","Vous équivaliez.","Vous aviez équivalu.","Vous équivaudrez.","que vous équivaliez.","que vous ayez équivalu.","vVous équivaudriez.","vous auriez équivalu.","Équivalez !"],
+("équivaloir","vous"):["Vous équivalez.","Vous avez équivalu.","Vous équivaliez.","Vous aviez équivalu.","Vous équivaudrez.","que vous équivaliez.","que vous ayez équivalu.","vous équivaudriez.","vous auriez équivalu.","Équivalez !"],
 ("équivaloir","ils"):["Ils équivalent.","Ils ont équivalu.","Ils équivalaient.","Ils avaient équivalu.","Ils équivaudront.","qu'ils équivaillent.","qu'ils aient équivalu.","iIs équivaudraient.","ils auraient équivalu.","n/a"],
-("équivaloir","elles"):["Elles équivalent.","Elles ont équivalu.","Elles équivalaient.","Elles avaient équivalu.","Elles équivaudront.","qu'elles équiéquivalillent.","qu'elles aient équivalu.","elles équivaudraient.","elle auraient équivalu.","n/a"],
+("équivaloir","elles"):["Elles équivalent.","Elles ont équivalu.","Elles équivalaient.","Elles avaient équivalu.","Elles équivaudront.","qu'elles équiéquivalillent.","qu'elles aient équivalu.","elles équivaudraient.","elles auraient équivalu.","n/a"],
 ("équivaloir","ça"):["Ça équivaut.","Ça a équivalu.","Ça équivalait.","Ça avait équivalu.","Ça équivaudra.","que ça vaille.","que ça ait équivalu.","ça équivaudrait.","ça aurait équivalu.","n/a"],
 
 ("pourvoir","je"):["Je pourvois.","J'ai pourvu.","Je pourvoyais.","J'avais pourvu.","Je pourvoirai.","que je pourvoie.","que j'aie pourvu.","je pourvoirais.","j'aurais pourvu.","n/a"],
@@ -902,7 +902,7 @@ table = {
 ("pourvoir","nous"):["Nous pourvoyons.","Nous avons pourvu.","Nous pourvoyions.","Nous avions pourvu.","Nous pourvoirons.","que nous pourvoyions.","que nous ayons pourvu.","nous pourvoirions.","nous aurions pourvu.","Pourvoyons !"],
 ("pourvoir","vous"):["Vous pourvoyez.","Vous avez pourvu.","Vous pourvoyiez.","Vous aviez pourvu.","Vous pourvoirez.","que vous pourvoyiez.","que vous ayez pourvu.","vous pourvoiriez.","vous auriez pourvu.","Pourvoyez !"],
 ("pourvoir","ils"):["Ils pourvoient.","Ils ont pourvu.","Ils pourvoyaient.","Ils avaient pourvu.","Ils pourvoiront.","qu'ils pourvoient.","qu'ils aient pourvu.","ils pourvoiraient.","ils auraient pourvu.","n/a"],
-("pourvoir","elles"):["Elles pourvoient.","Elles ont pourvu.","Elles pourvoyaient.","Elles avaient pourvu.","Elles pourvoiront.","qu'elles pourvoient.","qu'elles aient pourvu.","elles pourvoiraient.","elle auraient pourvu.","n/a"],
+("pourvoir","elles"):["Elles pourvoient.","Elles ont pourvu.","Elles pourvoyaient.","Elles avaient pourvu.","Elles pourvoiront.","qu'elles pourvoient.","qu'elles aient pourvu.","elles pourvoiraient.","elles auraient pourvu.","n/a"],
 ("pourvoir","ça"):["Ça pourvoit.","Ça a pourvu.","Ça pourvoyait.","Ça avait pourvu.","Ça pourvoira.","que ça pourvoie.","que ça ait pourvu.","ça pourvoirait.","ça aurait pourvu.","n/a"],
 
 ("dépourvoir","je"):["Je dépourvois.","J'ai dépourvu.","Je dépourvoyais.","J'avais dépourvu.","Je dépourvoirai.","que je dépourvoie.","que j'aie dépourvu.","je dépourvoirais.","j'aurais dépourvu.","n/a"],
@@ -912,7 +912,7 @@ table = {
 ("dépourvoir","nous"):["Nous dépourvoyons.","Nous avons dépourvu.","Nous dépourvoyions.","Nous avions dépourvu.","Nous dépourvoirons.","que nous dépourvoyions.","que nous ayons dépourvu.","nous dépourvoirions.","nous aurions dépourvu.","Dépourvoyons !"],
 ("dépourvoir","vous"):["Vous dépourvoyez.","Vous avez dépourvu.","Vous dépourvoyiez.","Vous aviez dépourvu.","Vous dépourvoirez.","que vous dépourvoyiez.","que vous ayez dépourvu.","vous dépourvoiriez.","vous auriez dépourvu.","Dépourvoyez !"],
 ("dépourvoir","ils"):["Ils dépourvoient.","Ils ont dépourvu.","Ils dépourvoyaient.","Ils avaient dépourvu.","Ils dépourvoiront.","qu'ils dépourvoient.","qu'ils aient dépourvu.","ils dépourvoiraient.","ils auraient dépourvu.","n/a"],
-("dépourvoir","elles"):["Elles dépourvoient.","Elles ont dépourvu.","Elles dépourvoyaient.","Elles avaient dépourvu.","Elles dépourvoiront.","qu'elles dépourvoient.","qu'elles aient dépourvu.","elles dépourvoiraient.","elle auraient dépourvu.","n/a"],
+("dépourvoir","elles"):["Elles dépourvoient.","Elles ont dépourvu.","Elles dépourvoyaient.","Elles avaient dépourvu.","Elles dépourvoiront.","qu'elles dépourvoient.","qu'elles aient dépourvu.","elles dépourvoiraient.","elles auraient dépourvu.","n/a"],
 ("dépourvoir","ça"):["Ça dépourvoit.","Ça a dépourvu.","Ça dépourvoyait.","Ça avait dépourvu.","Ça dépourvoira.","que ça dépourvoie.","que ça ait dépourvu.","ça dépourvoirait.","ça aurait dépourvu.","n/a"],
 
 ("émouvoir","je"):["J'émeus.","J'ai ému.","J'émouvais.","J'avais ému.","J'émouvrai.","que j'émeuve.","que j'aie ému.","j'émouvrais.","j'aurais ému.","n/a"],
@@ -922,7 +922,7 @@ table = {
 ("émouvoir","nous"):["Nous émouvons.","Nous avons ému.","Nous émouvions.","Nous avions ému.","Nous émouvrons.","que nous émouvions.","que nous ayons ému.","nous émouvrions.","nous aurions ému.","Émouvons !"],
 ("émouvoir","vous"):["Vous émouvez.","Vous avez ému.","Vous émouviez.","Vous aviez ému.","Vous émouvrez.","que vous émouviez.","que vous ayez ému.","vous émouvriez.","vous auriez ému.","Émouvez !"],
 ("émouvoir","ils"):["Ils émouvent.","Ils ont ému.","Ils émouvaient.","Ils avaient ému.","Ils émouvront.","qu'ils émeuvent.","qu'ils aient ému.","ils émouvraient.","ils auraient ému.","n/a"],
-("émouvoir","elles"):["Elles émouvent.","Elles ont ému.","Elles émouvaient.","Elles avaient ému.","Elles émouvront.","qu'elles émeuvent.","qu'elles aient ému.","elles émouvraient.","elle auraient ému.","n/a"],
+("émouvoir","elles"):["Elles émouvent.","Elles ont ému.","Elles émouvaient.","Elles avaient ému.","Elles émouvront.","qu'elles émeuvent.","qu'elles aient ému.","elles émouvraient.","elles auraient ému.","n/a"],
 ("émouvoir","ça"):["Ça émeus.","Ça a ému.","Ça émouvait.","Ça avait ému.","Ça émouvra.","que ça émeuve.","que ça ait ému.","ça émouvrait.","ça aurait ému.","n/a"],
 
 ("promouvoir","je"):["Je promeus.","J'ai promu.","Je promouvais.","J'avais promu.","Je promouvrai.","que je promeuve.","que j'aie promu.","je promouvrais.","j'aurais promu.","n/a"],
@@ -932,7 +932,7 @@ table = {
 ("promouvoir","nous"):["Nous promouvons.","Nous avons promu.","Nous promouvions.","Nous avions promu.","Nous promouvrons.","que nous promouvions.","que nous ayons promu.","nous promouvrions.","nous aurions promu.","Promouvons !"],
 ("promouvoir","vous"):["Vous promouvez.","Vous avez promu.","Vous promouviez.","Vous aviez promu.","Vous promouvrez.","que vous promouviez.","que vous ayez promu.","vous promouvriez.","vous auriez promu.","Promouvez !"],
 ("promouvoir","ils"):["Ils promouvent.","Ils ont promu.","Ils promouvaient.","Ils avaient promu.","Ils promouvront.","qu'ils promeuvent.","qu'ils aient promu.","ils promouvraient.","ils auraient promu.","n/a"],
-("promouvoir","elles"):["Elles promouvent.","Elles ont promu.","Elles promouvaient.","Elles avaient promu.","Elles promouvront.","qu'elles promeuvent.","qu'elles aient promu.","elles promouvraient.","elle auraient promu.","n/a"],
+("promouvoir","elles"):["Elles promouvent.","Elles ont promu.","Elles promouvaient.","Elles avaient promu.","Elles promouvront.","qu'elles promeuvent.","qu'elles aient promu.","elles promouvraient.","elles auraient promu.","n/a"],
 ("promouvoir","ça"):["Ça promeus.","Ça a promu.","Ça promouvait.","Ça avait promu.","Ça promouvra.","que ça promeuve.","que ça ait promu.","ça promouvrait.","ça aurait promu.","n/a"],
 
 ("vêtir","je"):["Je vêts.","J'ai vêtu.","Je vêtais.","J'avais vêtu.","Je vêtirai.","que je vête.","que j'aie vêtu.","je vêtirais.","j'aurais vêtu.","n/a"],
@@ -942,7 +942,7 @@ table = {
 ("vêtir","nous"):["Nous vêtons.","Nous avons vêtu.","Nous vêtions.","Nous avions vêtu.","Nous vêtirons.","que nous vêtions.","que nous ayons vêtu.","nous vêtirions.","nous aurions vêtu.","Vêtons !"],
 ("vêtir","vous"):["Vous vêtez.","Vous avez vêtu.","Vous vêtiez.","Vous aviez vêtu.","Vous vêtirez.","que vous vêtiez.","que vous ayez vêtu.","vous vêtiriez.","vous auriez vêtu.","Vêtez !"],
 ("vêtir","ils"):["Ils vêtent.","Ils ont vêtu.","Ils vêtaient.","Ils avaient vêtu.","Ils vêtiront.","qu'ils vêtent.","qu'ils aient vêtu.","ils vêtiraient.","ils auraient vêtu.","n/a"],
-("vêtir","elles"):["Elles vêtent.","Elles ont vêtu.","Elles vêtaient.","Elles avaient vêtu.","Elle vêtiront.","qu'elles vêtent.","qu'elles aient vêtu.","ells vêtiraient.","elle auraient vêtu.","n/a"],
+("vêtir","elles"):["Elles vêtent.","Elles ont vêtu.","Elles vêtaient.","Elles avaient vêtu.","Elle vêtiront.","qu'elles vêtent.","qu'elles aient vêtu.","elles vêtiraient.","elles auraient vêtu.","n/a"],
 ("vêtir","ça"):["Ça vêt.","Ça a vêtu.","Ça vêtait.","Ça avait vêtu.","Ça vêtira.","que ça vête.","que ça ait vêtu.","ça vêtirait.","ça aurait vêtu.","n/a"],
 
 ("revêtir","je"):["Je revêts.","J'ai revêtu.","Je revêtais.","J'avais revêtu.","Je revêtirai.","que je revête.","que j'aie revêtu.","je revêtirais.","j'aurais revêtu.","n/a"],
@@ -952,7 +952,7 @@ table = {
 ("revêtir","nous"):["Nous revêtons.","Nous avons revêtu.","Nous revêtions.","Nous avions revêtu.","Nous revêtirons.","que nous revêtions.","que nous ayons revêtu.","nous revêtirions.","nous aurions revêtu.","Revêtons !"],
 ("revêtir","vous"):["Vous revêtez.","Vous avez revêtu.","Vous revêtiez.","Vous aviez revêtu.","Vous revêtirez.","que vous revêtiez.","que vous ayez revêtu.","vous revêtiriez.","vous auriez revêtu.","Revêtez !"],
 ("revêtir","ils"):["Ils revêtent.","Ils ont revêtu.","Ils revêtaient.","Ils avaient revêtu.","Ils revêtiront.","qu'ils revêtent.","qu'ils aient revêtu.","ils revêtiraient.","ils auraient revêtu.","n/a"],
-("revêtir","elles"):["Elles revêtent.","Elles ont revêtu.","Elles revêtaient.","Elles avaient revêtu.","Elle revêtiront.","qu'elles revêtent.","qu'elles aient revêtu.","ells revêtiraient.","elle auraient revêtu.","n/a"],
+("revêtir","elles"):["Elles revêtent.","Elles ont revêtu.","Elles revêtaient.","Elles avaient revêtu.","Elle revêtiront.","qu'elles revêtent.","qu'elles aient revêtu.","elles revêtiraient.","elles auraient revêtu.","n/a"],
 ("revêtir","ça"):["Ça revêt.","Ça a revêtu.","Ça revêtait.","Ça avait revêtu.","Ça revêtira.","que ça revête.","que ça ait revêtu.","ça revêtirait.","ça aurait revêtu.","n/a"],
 
 ("faire","je"):["Je fais.","J'ai fait.","Je faisais.","J'avais fait.","Je ferai.","que je fasse.","que j'aie fait.","je ferais.","j'aurais fait.","n/a"],
@@ -962,7 +962,7 @@ table = {
 ("faire","nous"):["Nous faisons.","Nous avons fait.","Nous faisions.","Nous avions fait.","Nous ferons.","que nous fassions.","que nous ayons fait.","nous ferions.","nous aurions fait.","Faison !"],
 ("faire","vous"):["Vous faites.","Vous avez fait.","Vous faisiez.","Vous aviez fait.","Vous ferez.","que vous fassiez.","que vous ayez fait.","vous feriez.","vous auriez fait.","Faites !"],
 ("faire","ils"):["Ils font.","Ils ont fait.","Ils faisaient.","Ils avaient fait.","Ils feront.","qu'ils fassent.","qu'ils aient fait.","ils feraient.","ils auraient fait.","n/a"],
-("faire","elles"):["Elles font.","Elles ont fait.","Elles faisaient.","Elles avaient fait.","Elles feront.","qu'elles fassent.","qu'elles aient fait.","elles feraient.","elle auraient fait.","n/a"],
+("faire","elles"):["Elles font.","Elles ont fait.","Elles faisaient.","Elles avaient fait.","Elles feront.","qu'elles fassent.","qu'elles aient fait.","elles feraient.","elles auraient fait.","n/a"],
 ("faire","ça"):["Ça fait.","Ça a fait.","Ça faisait.","Ça avait fait.","Ça fera.","que ça fasse.","que ça ait fait.","ça ferait.","ça aurait fait.","n/a"],
 
 ("satisfaire","je"):["Je satisfais.","J'ai satisfait.","Je satisfaisais.","J'avais satisfait.","Je satisferai.","que je satisfasse.","que j'aie satisfait.","je satisferais.","j'aurais satisfait.","n/a"],
@@ -972,7 +972,7 @@ table = {
 ("satisfaire","nous"):["Nous satisfaisons.","Nous avons satisfait.","Nous satisfaisions.","Nous avions satisfait.","Nous satisferons.","que nous satisfassions.","que nous ayons satisfait.","nous satisferions.","nous aurions satisfait.","Satisfaison !"],
 ("satisfaire","vous"):["Vous satisfaites.","Vous avez satisfait.","Vous satisfaisiez.","Vous aviez satisfait.","Vous satisferez.","que vous satisfassiez.","que vous ayez satisfait.","vous satisferiez.","vous auriez satisfait.","Satisfaites !"],
 ("satisfaire","ils"):["Ils satisfont.","Ils ont satisfait.","Ils satisfaisaient.","Ils avaient satisfait.","Ils satisferont.","qu'ils satisfassent.","qu'ils aient satisfait.","ils satisferaient.","ils auraient satisfait.","n/a"],
-("satisfaire","elles"):["Elles satisfont.","Elles ont satisfait.","Elles satisfaisaient.","Elles avaient satisfait.","Elles satisferont.","qu'elles satisfassent.","qu'elles aient satisfait.","elles satisferaient.","elle auraient satisfait.","n/a"],
+("satisfaire","elles"):["Elles satisfont.","Elles ont satisfait.","Elles satisfaisaient.","Elles avaient satisfait.","Elles satisferont.","qu'elles satisfassent.","qu'elles aient satisfait.","elles satisferaient.","elles auraient satisfait.","n/a"],
 ("satisfaire","ça"):["Ça satisfait.","Ça a satisfait.","Ça satisfaisait.","Ça avait satisfait.","Ça satisfera.","que ça satisfasse.","que ça ait satisfait.","ça satisferait.","ça aurait satisfait.","n/a"],
 
 ("dire","je"):["Je dis.","J'ai dit","Je disais.","J'avais dit.","Je dirai.","que je dise.","que j'aie dit.","je dirais.","j'aurais dit.","n/a"],
@@ -982,7 +982,7 @@ table = {
 ("dire","nous"):["Nous disons.","Nous avons dit.","Nous disions.","Nous avions dit.","Nous dirons.","que nous disions.","que nous ayons dit.","nous dirions.","nous aurions dit.","Disons !"],
 ("dire","vous"):["Vous dites.","Vous avez dit.","Vous disiez.","Vous aviez dit.","Vous direz.","que vous disiez.","que vous ayez dit.","vous diriez.","vous auriez dit.","Dites !"],
 ("dire","ils"):["Ils disent.","Ils ont dit.","Ils disaient.","Ils avaient dit.","Ils diront.","qu'ils disent.","qu'ils aient dit.","ils diraient.","ils auraient dit.","n/a"],
-("dire","elles"):["Elles disent.","Elles ont dit.","Elles disaient.","Elles avaient dit.","Elles diront.","qu'elles disent.","qu'elles aient dit.","elles diraient.","elle auraient dit.","n/a"],
+("dire","elles"):["Elles disent.","Elles ont dit.","Elles disaient.","Elles avaient dit.","Elles diront.","qu'elles disent.","qu'elles aient dit.","elles diraient.","elles auraient dit.","n/a"],
 ("dire","ça"):["Ça dit.","Ça a dit.","Ça disait.","Ça avait dit.","Ça dira.","que ça dise.","que ça ait dit.","ça dirait.","ça aurait dit.","n/a"],
 
 ("redire","je"):["Je redis.","J'ai redit","Je redisais.","J'avais redit.","Je redirai.","que je redise.","que j'aie redit.","je redirais.","j'aurais redit.","n/a"],
@@ -992,27 +992,27 @@ table = {
 ("redire","nous"):["Nous redisons.","Nous avons redit.","Nous redisions.","Nous avions redit.","Nous redirons.","que nous redisions.","que nous ayons redit.","nous redirions.","nous aurions redit.","Redisons !"],
 ("redire","vous"):["Vous redites.","Vous avez redit.","Vous redisiez.","Vous aviez redit.","Vous redirez.","que vous redisiez.","que vous ayez redit.","vous rediriez.","vous auriez redit.","Redites !"],
 ("redire","ils"):["Ils redisent.","Ils ont redit.","Ils redisaient.","Ils avaient redit.","Ils rediront.","qu'ils redisent.","qu'ils aient redit.","ils rediraient.","ils auraient redit.","n/a"],
-("redire","elles"):["Elles redisent.","Elles ont redit.","Elles redisaient.","Elles avaient redit.","Elles rediront.","qu'elles redisent.","qu'elles aient redit.","elles rediraient.","elle auraient redit.","n/a"],
+("redire","elles"):["Elles redisent.","Elles ont redit.","Elles redisaient.","Elles avaient redit.","Elles rediront.","qu'elles redisent.","qu'elles aient redit.","elles rediraient.","elles auraient redit.","n/a"],
 ("redire","ça"):["Ça redit.","Ça a redit.","Ça redisait.","Ça avait redit.","Ça redira.","que ça redise.","que ça ait redit.","ça redirait.","ça aurait redit.","n/a"],
 
 ("prendre","je"):["Je prends.","J'ai pris.","Je prenais.","J'avais pris.","Je prendrai.","que je prenne.","que j'aie pris.","je prendrais.","j'aurais pris.","n/a"],
-("prendre","tu"):["Tu prends.","Tu as pris.","Tu prenais.","Tu avais pris.","Tu prendras.","que tu prennes.","que tu aies pris.","Tu prendrais.","tu aurais pris.","Prends !"],
-("prendre","il"):["Il prend.","Il a pris.","Il prenait.","Il avait pris.","Il prendra.","qu'il prenne.","qu'il ait pris.","Il prendtait.","il aurait pris.","n/a"],
-("prendre","elle"):["Elle prend.","Elle a pris.","Elle prenait.","Elle avait pris.","Elle prendra.","qu'elle prenne.","qu'elle ait pris.","Elle prendrait.","elle aurait pris.","n/a"],
-("prendre","nous"):["Nous prenons.","Nous avons pris.","Nous prenions.","Nous avions pris.","Nous prendrons.","que nous prenions.","que nous ayons pris.","Nous prendrions.","nous aurions pris.","Prenons !"],
-("prendre","vous"):["Vous prenez.","Vous avez pris.","Vous preniez.","Vous aviez pris.","Vous prendrez.","que vous preniez.","que vous ayez pris.","Vous prendriez.","vous auriez pris.","Prendez !"],
-("prendre","ils"):["Ils prennent.","Ils ont pris.","Ils prenaient.","Ils avaient pris.","Ils prendront.","qu'ils prennent.","qu'ils aient pris.","Ils prendraient.","ils auraient pris.","n/a"],
-("prendre","elles"):["Elles prennent.","Elles ont pris.","Elles prenaient.","Elles avaient pris.","Elles prendront.","qu'elles prennent.","qu'elles aient pris.","Elles prendraient.","elle auraient pris.","n/a"],
+("prendre","tu"):["Tu prends.","Tu as pris.","Tu prenais.","Tu avais pris.","Tu prendras.","que tu prennes.","que tu aies pris.","tu prendrais.","tu aurais pris.","Prends !"],
+("prendre","il"):["Il prend.","Il a pris.","Il prenait.","Il avait pris.","Il prendra.","qu'il prenne.","qu'il ait pris.","il prendtait.","il aurait pris.","n/a"],
+("prendre","elle"):["Elle prend.","Elle a pris.","Elle prenait.","Elle avait pris.","Elle prendra.","qu'elle prenne.","qu'elle ait pris.","elle prendrait.","elle aurait pris.","n/a"],
+("prendre","nous"):["Nous prenons.","Nous avons pris.","Nous prenions.","Nous avions pris.","Nous prendrons.","que nous prenions.","que nous ayons pris.","nous prendrions.","nous aurions pris.","Prenons !"],
+("prendre","vous"):["Vous prenez.","Vous avez pris.","Vous preniez.","Vous aviez pris.","Vous prendrez.","que vous preniez.","que vous ayez pris.","vous prendriez.","vous auriez pris.","Prendez !"],
+("prendre","ils"):["Ils prennent.","Ils ont pris.","Ils prenaient.","Ils avaient pris.","Ils prendront.","qu'ils prennent.","qu'ils aient pris.","ils prendraient.","ils auraient pris.","n/a"],
+("prendre","elles"):["Elles prennent.","Elles ont pris.","Elles prenaient.","Elles avaient pris.","Elles prendront.","qu'elles prennent.","qu'elles aient pris.","elles prendraient.","elles auraient pris.","n/a"],
 ("prendre","ça"):["Ça prend.","Ça a pris.","Ça prenait.","Ça avait pris.","Ça prendra.","que ça prenne.","que ça ait pris.","ça prendtait.","ça aurait pris.","n/a"],
 
 ("comprendre","je"):["Je comprends.","J'ai compris.","Je comprenais.","J'avais compris.","Je comprendrai.","que je comprenne.","que j'aie compris.","je comprendrais.","j'aurais compris.","n/a"],
-("comprendre","tu"):["Tu comprends.","Tu as compris.","Tu comprenais.","Tu avais compris.","Tu comprendras.","que tu comprennes.","que tu aies compris.","Tu comprendrais.","tu aurais compris.","comprends !"],
-("comprendre","il"):["Il comprend.","Il a compris.","Il comprenait.","Il avait compris.","Il comprendra.","qu'il comprenne.","qu'il ait compris.","Il comprendtait.","il aurait compris.","n/a"],
-("comprendre","elle"):["Elle comprend.","Elle a compris.","Elle comprenait.","Elle avait compris.","Elle comprendra.","qu'elle comprenne.","qu'elle ait compris.","Elle comprendrait.","elle aurait compris.","n/a"],
-("comprendre","nous"):["Nous comprenons.","Nous avons compris.","Nous comprenions.","Nous avions compris.","Nous comprendrons.","que nous comprenions.","que nous ayons compris.","Nous comprendrions.","nous aurions compris.","comprenons !"],
-("comprendre","vous"):["Vous comprenez.","Vous avez compris.","Vous compreniez.","Vous aviez compris.","Vous comprendrez.","que vous compreniez.","que vous ayez compris.","Vous comprendriez.","vous auriez compris.","comprendez !"],
-("comprendre","ils"):["Ils comprennent.","Ils ont compris.","Ils comprenaient.","Ils avaient compris.","Ils comprendront.","qu'ils comprennent.","qu'ils aient compris.","Ils comprendraient.","ils auraient compris.","n/a"],
-("comprendre","elles"):["Elles comprennent.","Elles ont compris.","Elles comprenaient.","elles avaient compris.","Elles comprendront.","qu'elles comprennent.","qu'elles aient compris.","Elles comprendraient.","elle auraient compris.","n/a"],
+("comprendre","tu"):["Tu comprends.","Tu as compris.","Tu comprenais.","Tu avais compris.","Tu comprendras.","que tu comprennes.","que tu aies compris.","tu comprendrais.","tu aurais compris.","comprends !"],
+("comprendre","il"):["Il comprend.","Il a compris.","Il comprenait.","Il avait compris.","Il comprendra.","qu'il comprenne.","qu'il ait compris.","il comprendtait.","il aurait compris.","n/a"],
+("comprendre","elle"):["Elle comprend.","Elle a compris.","Elle comprenait.","Elle avait compris.","Elle comprendra.","qu'elle comprenne.","qu'elle ait compris.","elle comprendrait.","elle aurait compris.","n/a"],
+("comprendre","nous"):["Nous comprenons.","Nous avons compris.","Nous comprenions.","Nous avions compris.","Nous comprendrons.","que nous comprenions.","que nous ayons compris.","nous comprendrions.","nous aurions compris.","comprenons !"],
+("comprendre","vous"):["Vous comprenez.","Vous avez compris.","Vous compreniez.","Vous aviez compris.","Vous comprendrez.","que vous compreniez.","que vous ayez compris.","vous comprendriez.","vous auriez compris.","comprendez !"],
+("comprendre","ils"):["Ils comprennent.","Ils ont compris.","Ils comprenaient.","Ils avaient compris.","Ils comprendront.","qu'ils comprennent.","qu'ils aient compris.","ils comprendraient.","ils auraient compris.","n/a"],
+("comprendre","elles"):["Elles comprennent.","Elles ont compris.","Elles comprenaient.","elles avaient compris.","Elles comprendront.","qu'elles comprennent.","qu'elles aient compris.","elles comprendraient.","elles auraient compris.","n/a"],
 ("comprendre","ça"):["Ça comprend.","Ça a compris.","Ça comprenait.","Ça avait compris.","Ça comprendra.","que ça comprenne.","que ça ait compris.","ça comprendtait.","ça aurait compris.","n/a"],
 
 ("mettre","je"):["Je mets.","J'ai mis.","Je mettais.","J'avais mis.","Je mettrai.","que je mette.","que j'aie mis.","je mettrais.","j'aurais mis.","n/a"],
@@ -1022,7 +1022,7 @@ table = {
 ("mettre","nous"):["Nous mettons.","Nous avons mis.","Nous mettions.","Nous avions mis.","Nous mettrons.","que nous mettions.","que nous ayons mis.","nous mettrions.","nous aurions mis.","Mettons !"],
 ("mettre","vous"):["Vous mettez.","Vous avez mis.","Vous mettiez.","Vous aviez mis.","Vous mettrez.","que vous mettiez.","que vous ayez mis.","vous mettriez.","vous auriez mis.","Mettez !"],
 ("mettre","ils"):["Ils mettent.","Ils ont mis.","Ils mettaient.","Ils avaient mis.","Ils mettront.","qu'ils mettent.","qu'ils aient mis.","ils mettraient.","ils auraient mis.","n/a"],
-("mettre","elles"):["Elles mettent.","Elles ont mis.","Elles mettaient.","Elles avaient mis.","Elles mettront.","qu'elles mettent.","qu'elles aient mis.","elles mettraient.","elle auraient mis.","n/a"],
+("mettre","elles"):["Elles mettent.","Elles ont mis.","Elles mettaient.","Elles avaient mis.","Elles mettront.","qu'elles mettent.","qu'elles aient mis.","elles mettraient.","elles auraient mis.","n/a"],
 ("mettre","ça"):["Ça met.","Ça a mis.","Ça mettait.","Ça avait mis.","Ça mettra.","que ça mette.","que ça ait mis.","ça mettraitt.","ça aurait mis.","n/a"],
 
 ("se permettre","je"):["Je me permets.","Je me suis permis.","Je me permettais.","Je m'etais permis.","Je me permettrai.","que je me permette.","que je me sois permis.","jeme  permettrais.","je me serais permis.","n/a"],
@@ -1042,7 +1042,7 @@ table = {
 ("attendre","nous"):["Nous attendons.","Nous avons attendu.","Nous attendions.","Nous avions attendu.","Nous attendrons.","que nous attendions.","que nous ayons attendu.","nous attendrions.","nous aurions attendu.","Attendons !"],
 ("attendre","vous"):["Vous attendez.","Vous avez attendu.","Vous attendiez.","Vous aviez attendu.","Vous attendrez.","que vous attendiez.","que vous ayez attendu.","vous attendriez.","vous auriez attendu.","Attendez !"],
 ("attendre","ils"):["Ils attendent.","Ils ont attendu.","Ils attendaient.","Ils avaient attendu.","Ils attendront.","qu'ils attendent.","qu'ils aient attendu.","ils attendraient.","ils auraient attendu.","n/a"],
-("attendre","elles"):["Elles attendent.","Elles ont attendu.","Elles attendaient.","Elles avaient attendu.","Elles attendront.","qu'elles attendent.","qu'elles aient attendu.","elles attendraient,","elle auraient attendu.","n/a"],
+("attendre","elles"):["Elles attendent.","Elles ont attendu.","Elles attendaient.","Elles avaient attendu.","Elles attendront.","qu'elles attendent.","qu'elles aient attendu.","elles attendraient,","elles auraient attendu.","n/a"],
 ("attendre","ça"):["Ça attend.","Ça a attendu.","Ça attendait.","Ça avait attendu.","Ça attendra.","que ça attende.","que ça ait attendu.","ça attendrait.","ça aurait attendu.","n/a"],
 
 ("rendre","je"):["Je rends.","J'ai rendu.","Je rendais.","J'avais rendu.","Je rendrai.","que je rende.","que j'aie rendu.","je rendrais.","j'aurais rendu.","n/a"],
@@ -1052,7 +1052,7 @@ table = {
 ("rendre","nous"):["Nous rendons.","Nous avons rendu.","Nous rendions.","Nous avions rendu.","Nous rendrons.","que nous rendions.","que nous ayons rendu.","nous rendrions.","nous aurions rendu.","Rendons !"],
 ("rendre","vous"):["Vous rendez.","Vous avez rendu.","Vous rendiez.","Vous aviez rendu.","Vous rendrez.","que vous rendiez.","que vous ayez rendu.","vous rendriez.","vous auriez rendu.","Rendez !"],
 ("rendre","ils"):["Ils rendent.","Ils ont rendu.","Ils rendaient.","Ils avaient rendu.","Ils rendront.","qu'ils rendent.","qu'ils aient rendu.","ils rendraient.","ils auraient rendu.","n/a"],
-("rendre","elles"):["Elles rendent.","Elles ont rendu.","Elles rendaient.","Elles avaient rendu.","Elles rendront.","qu'elles rendent.","qu'elles aient rendu.","elles rendraient,","elle auraient rendu.","n/a"],
+("rendre","elles"):["Elles rendent.","Elles ont rendu.","Elles rendaient.","Elles avaient rendu.","Elles rendront.","qu'elles rendent.","qu'elles aient rendu.","elles rendraient,","elles auraient rendu.","n/a"],
 ("rendre","ça"):["Ça rend.","Ça a rendu.","Ça rendait.","Ça avait rendu.","Ça rendra.","que ça rende.","que ça ait rendu.","ça rendrait.","ça aurait rendu.","n/a"],
 
 ("vivre","je"):["Je vis.","J'ai vécu.","Je vivais.","J'avais vécu.","Je vivrai.","que je vive.","que j'aie vécu.","je vivrais.","j'aurais vécu.","n/a"],
@@ -1062,7 +1062,7 @@ table = {
 ("vivre","nous"):["Nous vivons.","Nous avons vécu.","Nous vivions.","Nous avions vécu.","Nous vivrons.","que nous vivions.","que nous ayons vécu.","nous vivrions.","nous aurions vécu.","Vivons !"],
 ("vivre","vous"):["Vous vivez.","Vous avez vécu.","Vous viviez.","Vous aviez vécu.","Vous vivrez.","que vous viviez.","que vous ayez vécu.","vous vivriez.","vous auriez vécu.","Vivez!"],
 ("vivre","ils"):["Ils vivent.","Ils ont vécu.","Ils vivaient.","Ils avaient vécu.","Ils vivront.","qu'ils vivent.","qu'ils aient vécu.","ils vivraient.","ils auraient vécu.","n/a"],
-("vivre","elles"):["Elles vivent.","Elles ont vécu.","Elles vivaient.","Elles avaient vécu.","Elles vivront.","qu'elles vivent.","qu'elles aient vécu.","elles vivraient.","elle auraient vécu.","n/a"],
+("vivre","elles"):["Elles vivent.","Elles ont vécu.","Elles vivaient.","Elles avaient vécu.","Elles vivront.","qu'elles vivent.","qu'elles aient vécu.","elles vivraient.","elles auraient vécu.","n/a"],
 ("vivre","ça"):["Ça vit.","Ça a vécu.","Ça vivait.","Ça avait vécu.","Ça vivra.","que ça vivent.","que ça ait vécu.","ça vivrait.","ça aurait vécu.","n/a"],
 
 ("survivre","je"):["Je survis.","J'ai survécu.","Je survivais.","J'avais survécu.","Je survivrai.","que je survive.","que j'aie survécu.","je survivrais.","j'aurais survécu.","n/a"],
@@ -1072,7 +1072,7 @@ table = {
 ("survivre","nous"):["Nous survivons.","Nous avons survécu.","Nous survisurvions.","Nous asurvions survécu.","Nous survivrons.","que nous survisurvions.","que nous ayons survécu.","nous survivrions.","nous aurions survécu.","Survivons !"],
 ("survivre","vous"):["Vous survivez.","Vous avez survécu.","Vous survisurviez.","Vous asurviez survécu.","Vous survivrez.","que vous survisurviez.","que vous ayez survécu.","vous survivriez.","vous auriez survécu.","Survivez!"],
 ("survivre","ils"):["Ils survivent.","Ils ont survécu.","Ils survivaient.","Ils avaient survécu.","Ils survivront.","qu'ils survivent.","qu'ils aient survécu.","ils survivraient.","ils auraient survécu.","n/a"],
-("survivre","elles"):["Elles survivent.","Elles ont survécu.","Elles survivaient.","Elles avaient survécu.","Elles survivront.","qu'elles survivent.","qu'elles aient survécu.","elles survivraient.","elle auraient survécu.","n/a"],
+("survivre","elles"):["Elles survivent.","Elles ont survécu.","Elles survivaient.","Elles avaient survécu.","Elles survivront.","qu'elles survivent.","qu'elles aient survécu.","elles survivraient.","elles auraient survécu.","n/a"],
 ("survivre","ça"):["Ça survit.","Ça a survécu.","Ça survivait.","Ça avait survécu.","Ça survivra.","que ça survivent.","que ça ait survécu.","ça survivrait.","ça aurait survécu.","n/a"],
 
 ("écrire","je"):["J'écris.","J'ai écrit.","J'écrivais.","J'avais écrit.","J'écrirai.","que j'écrive.","que j'aie écrit.","j'écrirais.","j'aurais écrit.","n/a"],
@@ -1082,7 +1082,7 @@ table = {
 ("écrire","nous"):["Nous écrivons.","Nous avons écrit.","Nous écrivions.","Nous avions écrit.","Nous écrirons.","que nous écrivions.","que nous ayons écrit.","nous écririons.","nous aurions écrit.","Écrivons !"],
 ("écrire","vous"):["Vous écrivez.","Vous avez écrit.","Vous écriviez.","Vous aviez écrit.","Vous écrirez.","que vous écriviez.","que vous ayez écrit.","vous écririez.","vous auriez écrit.","Écrivez !"],
 ("écrire","ils"):["Ils écrivent.","Ils ont écrit.","Ils écrivaient.","Ils avaient écrit.","Ils écriront.","qu'ils écrivent.","qu'ils aient écrit.","ils écriraient.","ils auraient écrit.","n/a"],
-("écrire","elles"):["Elles écrivent.","Elles ont écrit.","Elles écrivaient.","Elles avaient écrit.","Elles écriront.","qu'elles écrivent.","qu'elles aient écrit.","elles écriraient.","elle auraient écrit.","n/a"],
+("écrire","elles"):["Elles écrivent.","Elles ont écrit.","Elles écrivaient.","Elles avaient écrit.","Elles écriront.","qu'elles écrivent.","qu'elles aient écrit.","elles écriraient.","elles auraient écrit.","n/a"],
 ("écrire","ça"):["Ça écrit.","Ça a écrit.","Ça écrivait.","Ça avait écrit.","Ça écrira.","que ça écrive.","que ça ait écrit.","ça écrirait.","ça aurait écrit.","n/a"],
 
 ("s'inscrire","je"):["Je m'inscris.","Je me suis inscrit.","Je m'inscrivais.","Je m'etais inscrit.","Je m'inscrirai.","que je m'inscrive.","que je me sois inscrit.","je m'inscrirais.","je me serais inscrit.","n/a"],
@@ -1102,7 +1102,7 @@ table = {
 ("connaître","nous"):["Nous connaissons.","Nous avons connu.","Nous connaissions.","Nous avions connu.","Nous connaîtrons.","que nous conaissions.","que nous ayons connu.","nous connaîtrions.","nous aurions connu.","Connaissons !"],
 ("connaître","vous"):["Vous connaissez.","Vous avez connu.","Vous connaissiez.","Vous aviez connu.","Vous connaîtrez.","que vous connaissiez.","que vous ayez connu.","vous connaîtriez.","vous auriez connu.","Connaissez !"],
 ("connaître","ils"):["Ils connaissent.","Ils ont connu.","Ils connaissaient.","Ils avaient connu.","Ils connaîtront.","qu'ils connaissent.","qu'ils aient connu.","ils connaîtraient.","ils auraient connu.","n/a"],
-("connaître","elles"):["Elles connaissent.","Elles ont connu.","Elles connaissaient.","Elles avaient connu.","Elles connaîtront.","qu'elles connaissent.","qu'elles aient connu.","elles connaîtraient.","elle auraient connu.","n/a"],
+("connaître","elles"):["Elles connaissent.","Elles ont connu.","Elles connaissaient.","Elles avaient connu.","Elles connaîtront.","qu'elles connaissent.","qu'elles aient connu.","elles connaîtraient.","elles auraient connu.","n/a"],
 ("connaître","ça"):["Ça connaît.","Ça a connu.","Ça connaisait.","Ça avait connu.","Ça connaîtra.","que ça connaisse.","que ça ait connu.","ça connaîtrait.","ça aurait connu.","n/a"],
 
 ("paraître","je"):["Je parais.","J'ai paru.","Je paraissais.","J'avais paru.","Je paraîtrai.","que je paraisse.","que j'aie paru.","je paraîtrais.","j'aurais paru.","n/a"],
@@ -1112,7 +1112,7 @@ table = {
 ("paraître","nous"):["Nous paraissons.","Nous avons paru.","Nousparaissions.","Nous avions paru.","Nous paraîtrons.","que nous paraissions.","que nous ayons paru.","nous paraîtrions.","nous aurions paru.","Paraissons !"],
 ("paraître","vous"):["Vous paraissez.","Vous avez paru.","Vous paraissiez.","Vous aviez paru.","Vous paraîtrez.","que vous paraissiez.","que vous ayez paru.","vous paraîtriez.","vous auriez paru.","Paraissez !"],
 ("paraître","ils"):["Ils paraissent.","Ils ont paru.","Ils paraissaient.","Ils avaient paru.","Ils paraîtront.","qu'ils paraisseent.","qu'ils aient paru.","ils paraîtraient.","ils auraient paru.","n/a"],
-("paraître","elles"):["Elles paraissent.","Elles ont paru.","Elles paraissaient.","Elles avaient paru.","Elles paraîtront.","qu'elles paraissent.","qu'elles aient paru.","elles paraîtraient.","elle auraient paru.","n/a"],
+("paraître","elles"):["Elles paraissent.","Elles ont paru.","Elles paraissaient.","Elles avaient paru.","Elles paraîtront.","qu'elles paraissent.","qu'elles aient paru.","elles paraîtraient.","elles auraient paru.","n/a"],
 ("paraître","ça"):["Ça paraît.","Ça a paru.","Ça paraisait.","Ça avait paru.","Ça paraîtra.","que ça paraisse.","que ça ait paru.","ça paraîtrait.","ça aurait paru.","n/a"],
 
 ("atteindre","je"):["J'atteins.","J'ai atteint.","J'atteignais.","J'avais atteint.","J'atteindrai.","que j'atteigne.","que j'aie atteint.","J'atteindrais.","j'aurais atteint.","n/a"],
@@ -1122,7 +1122,7 @@ table = {
 ("atteindre","nous"):["Nous atteignons.","Nous avons atteint.","Nous atteignions.","Nous avions atteint.","Nous atteindrons.","que nous atteignions.","que nous ayons atteint.","nous atteindrions.","nous aurions atteint.","Atteignos !"],
 ("atteindre","vous"):["Vous atteignez.","Vous avez atteint.","Vous atteigniez.","Vous aviez atteint.","Vous atteindez.","que vous atteigniez.","que vous ayez atteint.","vous atteindriez.","vous auriez atteint.","Atteignez !"],
 ("atteindre","ils"):["Ils atteignaient.","Ils ont atteint.","Ils atteignaient.","Ils avaient atteint.","Ils atteindront.","qu'ils atteignent.","qu'ils aient atteint.","ils atteindraient.","ils auraient atteint.","n/a"],
-("atteindre","elles"):["Elles atteignaient.","Elles ont atteint.","Elles attegnaient.","Elles avaient atteint.","Elles atteindront.","qu'elles atteignent.","qu'elles aient atteint.","elles atteindraient.","elle auraient atteint.","n/a"],
+("atteindre","elles"):["Elles atteignaient.","Elles ont atteint.","Elles attegnaient.","Elles avaient atteint.","Elles atteindront.","qu'elles atteignent.","qu'elles aient atteint.","elles atteindraient.","elles auraient atteint.","n/a"],
 ("atteindre","ça"):["Ça atteint.","Ça a atteint.","Ça atteignait.","Ça avait atteint.","Ça atteindra.","que ça atteigne.","que ça ait atteint.","ça atteindrait.","ça aurait atteint.","n/a"],
 
 ("craindre","je"):["Je crains.","J'ai craint.","Je craignais.","J'avais craint.","Je craindrai.","que je craigne.","que j'aie craint.","je craindrais.","j'aurais craint.","n/a"],
@@ -1132,7 +1132,7 @@ table = {
 ("craindre","nous"):["Nous craignons.","Nous avons craint.","Nous craignions.","Nous avions craint.","Nous craindrons.","que nous craignions.","que nous ayons craint.","nous craindrions.","nous aurions craint.","Craignos !"],
 ("craindre","vous"):["Vous craignez.","Vous avez craint.","Vous craigniez.","Vous aviez craint.","Vous craindez.","que vous craigniez.","que vous ayez craint.","vous craindriez.","vous auriez craint.","Craignez !"],
 ("craindre","ils"):["Ils craignaient.","Ils ont craint.","Ils craignaient.","Ils avaient craint.","Ils craindront.","qu'ils craignent.","qu'ils aient craint.","ils craindraient.","ils auraient craint.","n/a"],
-("craindre","elles"):["Elles craignaient.","Elles ont craint.","Elles cragnaient.","Elles avaient craint.","Elles craindront.","qu'elles craignent.","qu'elles aient craint.","elles craindraient.","elle auraient craint.","n/a"],
+("craindre","elles"):["Elles craignaient.","Elles ont craint.","Elles cragnaient.","Elles avaient craint.","Elles craindront.","qu'elles craignent.","qu'elles aient craint.","elles craindraient.","elles auraient craint.","n/a"],
 ("craindre","ça"):["Ça craint.","Ça a craint.","Ça craignait.","Ça avait craint.","Ça criendra.","que ça craigne.","que ça ait craint.","ça craindrait.","ça aurait craint.","n/a"],
 
 ("rire","je"):["Je ris","J'ai ri","Je riais.","J'avais ri.","Je rirai.","que je rie.","que j'aie ri.","je rirais.","j'aurais ri.","n/a"],
@@ -1142,7 +1142,7 @@ table = {
 ("rire","nous"):["Nous rions.","Nous avons ri.","Nous riions.","Nous avions ri.","Nors rirons.","que nous riions.","que nous ayons ri.","nous ririons.","nous aurions ri.","Rions !"],
 ("rire","vous"):["Vous riez.","Vous avez ri.","Vous riiez.","Vous aviez ri.","Vous rirez.","que vous riiez.","que vous ayez ri.","vous ririez.","vous auriez ri.","Riez !"],
 ("rire","ils"):["Ils rient.","Ils ont ri.","Ils riaient.","Ils avaient ri.","Ils riront.","qu'ils rient.","qu'ils aient ri.","ils riraient.","ils auraient ri.","n/a"],
-("rire","elles"):["Elles rient.","Elles ont ri.","Elles riaient.","Elles avaient ri.","Elles riront.","qu'elles rient.","qu'elles aient ri.","elles riraient.","elle auraient ri.","n/a"],
+("rire","elles"):["Elles rient.","Elles ont ri.","Elles riaient.","Elles avaient ri.","Elles riront.","qu'elles rient.","qu'elles aient ri.","elles riraient.","elles auraient ri.","n/a"],
 ("rire","ça"):["Ça rit.","Ça a ri.","Ça riait.","Ça avait ri.","Ça rira.","que ça rie.","que ça ait ri.","ça rirait.","ça aurait ri.","n/a"],
 
 ("sourire","je"):["Je souris","J'ai souri","Je souriais.","J'avais souri.","Je sourirai.","que je sourie.","que j'aie souri.","je sourirais.","j'aurais souri.","n/a"],
@@ -1152,7 +1152,7 @@ table = {
 ("sourire","nous"):["Nous sourions.","Nous avons souri.","Nous souriions.","Nous avions souri.","Nors sourirons.","que nous souriions.","que nous ayons souri.","nous sourions.","nous aurions souri.","Sourions !"],
 ("sourire","vous"):["Vous souriez.","Vous avez souri.","Vous souriiez.","Vous aviez souri.","Vous sourirez.","que vous souriiez.","que vous ayez souri.","vous souriez.","vous auriez souri.","Souriez !"],
 ("sourire","ils"):["Ils sourient.","Ils ont souri.","Ils souriaient.","Ils avaient souri.","Ils souriront.","qu'ils sourient.","qu'ils aient souri.","ils souriraient.","ils auraient souri.","n/a"],
-("sourire","elles"):["Elles sourient.","Elles ont souri.","Elles souriaient.","Elles avaient souri.","Elles souriront.","qu'elles sourient.","qu'elles aient souri.","elles souriraient.","elle auraient souri.","n/a"],
+("sourire","elles"):["Elles sourient.","Elles ont souri.","Elles souriaient.","Elles avaient souri.","Elles souriront.","qu'elles sourient.","qu'elles aient souri.","elles souriraient.","elles auraient souri.","n/a"],
 ("sourire","ça"):["Ça sourit.","Ça a souri.","Ça souriait.","Ça avait souri.","Ça sourira.","que ça sourie.","que ça ait souri.","ça sourirait.","ça aurait souri.","n/a"],
 
 ("lire","je"):["Je lis.","J'ai lu","Je lisais.","J'avais lu.","Je lirai.","que je lise.","que j'aie lu.","je lirais.","j'aurais lu.","n/a"],
@@ -1162,7 +1162,7 @@ table = {
 ("lire","nous"):["Nous lisons.","Nous avons lu.","Nous lisions.","Nous avions lu.","Nous lirons.","que nous lisions.","que nous ayons lu.","nous lirions.","nous aurions lu.","Lisons !"],
 ("lire","vous"):["Vous lisez.","Vous avez lu.","Vous lisiez.","Vous aviez lu.","Vous lirez.","que vous lisiez.","que vous ayez lu.","vous liriez.","vous auriez lu.","Liez !"],
 ("lire","ils"):["Ils lisent.","Ils ont lu.","Ils lisaient.","Ils avaient lu.","Ils liront.","qu'ils lisent.","qu'ils aient lu.","ils liraient.","ils auraient lu.","n/a"],
-("lire","elles"):["Elles lisent.","Elles ont lu.","Elles lisaient.","Elles avaient lu.","Elles liront.","qu'elles lisent.","qu'elles aient lu.","elles liraient.","elle auraient lu.","n/a"],
+("lire","elles"):["Elles lisent.","Elles ont lu.","Elles lisaient.","Elles avaient lu.","Elles liront.","qu'elles lisent.","qu'elles aient lu.","elles liraient.","elles auraient lu.","n/a"],
 ("lire","ça"):["Ça lit.","Ça a lu.","Ça lisait.","Ça avait lu.","Ça lira.","que ça lise.","que ça ait lu.","ça lirait.","ça aurait lu.","n/a"],
 
 ("élire","je"):["J'élis.","J'ai élu","J'élisais.","J'avais élu.","J'élirai.","que j'élise.","que j'aie élu.","j'élirais.","j'aurais élu.","n/a"],
@@ -1172,7 +1172,7 @@ table = {
 ("élire","nous"):["Nous élisons.","Nous avons élu.","Nous élisions.","Nous avions élu.","Nous élirons.","que nous élisions.","que nous ayons élu.","nous élirions.","nous aurions élu.","Élisons !"],
 ("élire","vous"):["Vous élisez.","Vous avez élu.","Vous élisiez.","Vous aviez élu.","Vous élirez.","que vous élisiez.","que vous ayez élu.","vous éliriez.","vous auriez élu.","Éliez !"],
 ("élire","ils"):["Ils élisent.","Ils ont élu.","Ils élisaient.","Ils avaient élu.","Ils éliront.","qu'ils élisent.","qu'ils aient élu.","ils éliraient.","ils auraient élu.","n/a"],
-("élire","elles"):["Elles élisent.","Elles ont élu.","Elles élisaient.","Elles avaient élu.","Elles éliront.","qu'elles élisent.","qu'elles aient élu.","elles éliraient.","elle auraient élu.","n/a"],
+("élire","elles"):["Elles élisent.","Elles ont élu.","Elles élisaient.","Elles avaient élu.","Elles éliront.","qu'elles élisent.","qu'elles aient élu.","elles éliraient.","elles auraient élu.","n/a"],
 ("élire","ça"):["Ça élit.","Ça a élu.","Ça élisait.","Ça avait élu.","Ça élira.","que ça élise.","que ça ait élu.","ça élirait.","ça aurait élu.","n/a"],
 
 ("suivre","je"):["Je suis.","J'ai suivi.","Je suivais.","J'avais suivi.","Je suivrai.","que je suive.","que j'aie suivi.","je suivrais.","j'aurais suivi.","n/a"],
@@ -1182,7 +1182,7 @@ table = {
 ("suivre","nous"):["Nous suivons.","Nous avons suivi.","Nous suivions.","Nous avions suivi.","Nous suivrons.","que nous suivions.","que nous ayons suivi.","nous suivirons.","nous aurions suivi.","Suivons !"],
 ("suivre","vous"):["Vous suivez.","Vous avez suivi.","Vous suiviez.","Vous aviez suivi.","Vous suivrez.","que vous suiviez.","que vous ayez suivi.","vous suivriez.","vous auriez suivi.","Suivez !"],
 ("suivre","ils"):["Ils suivent.","Ils ont suivi.","Ils suivaient.","Ils avaient suivi.","Ils suivront.","qu'ils suivent.","qu'ils aient suivi.","Ils suivraient.","ils auraient suivi.","n/a"],
-("suivre","elles"):["Elles suivent.","Elles ont suivi.","Elles suivaient.","Elles avaient suivi.","Elles suivront.","qu'elles suivent.","qu'elles aient suivi.","Elles suivraient.","elle auraient suivi.","n/a"],
+("suivre","elles"):["Elles suivent.","Elles ont suivi.","Elles suivaient.","Elles avaient suivi.","Elles suivront.","qu'elles suivent.","qu'elles aient suivi.","elles suivraient.","elles auraient suivi.","n/a"],
 ("suivre","ça"):["Ça suit.","Ça a suivi.","Ça suivait.","Ça avait suivi.","Ça suivra.","que ça suive.","que ça ait suivi.","ça suivrait.","ça aurait suivi.","n/a"],
 
 ("poursuivre","je"):["Je poursuis.","J'ai poursuivi.","Je poursuivais.","J'avais poursuivi.","Je poursuivrai.","que je poursuive.","que j'aie poursuivi.","je poursuivrais.","j'aurais poursuivi.","n/a"],
@@ -1192,7 +1192,7 @@ table = {
 ("poursuivre","nous"):["Nous poursuivons.","Nous avons poursuivi.","Nous poursuivions.","Nous avions poursuivi.","Nous poursuivrons.","que nous poursuivions.","que nous ayons poursuivi.","nous poursuivirons.","nous aurions poursuivi.","Poursuivons !"],
 ("poursuivre","vous"):["Vous poursuivez.","Vous avez poursuivi.","Vous poursuiviez.","Vous aviez poursuivi.","Vous poursuivrez.","que vous poursuiviez.","que vous ayez poursuivi.","vous poursuivriez.","vous auriez poursuivi.","Poursuivez !"],
 ("poursuivre","ils"):["Ils poursuivent.","Ils ont poursuivi.","Ils poursuivaient.","Ils avaient poursuivi.","Ils poursuivront.","qu'ils poursuivent.","qu'ils aient poursuivi.","Ils poursuivraient.","ils auraient poursuivi.","n/a"],
-("poursuivre","elles"):["Elles poursuivent.","Elles ont poursuivi.","Elles poursuivaient.","Elles avaient poursuivi.","Elles poursuivront.","qu'elles poursuivent.","qu'elles aient poursuivi.","Elles poursuivraient.","elle auraient poursuivi.","n/a"],
+("poursuivre","elles"):["Elles poursuivent.","Elles ont poursuivi.","Elles poursuivaient.","Elles avaient poursuivi.","Elles poursuivront.","qu'elles poursuivent.","qu'elles aient poursuivi.","elles poursuivraient.","elles auraient poursuivi.","n/a"],
 ("poursuivre","ça"):["Ça poursuit.","Ça a poursuivi.","Ça poursuivait.","Ça avait poursuivi.","Ça poursuivra.","que ça poursuive.","que ça ait poursuivi.","ça poursuivrait.","ça aurait poursuivi.","n/a"],
 
 ("se battre","je"):["Je me bats.","Je me suis battu.","Je me battais.","Je m'etais battu.","Je me battrai.","que je me batte.","que je me sois battu.","je me battrais.","je me serais battu.","n/a"],
@@ -1212,7 +1212,7 @@ table = {
 ("combattre","nous"):["Nous combattons.","Nous avons combattu.","Nous combattions.","Nous avions combattu.","Nous combattrons.","que nous combattions.","que nous ayons combattu.","nous combattrions.","nous aurions combattu.","Combattons !"],
 ("combattre","vous"):["Vous combattez.","Vous avez combattu.","Vous combattiez.","Vous aviez combattu.","Vous combattrez.","que vous combattiez.","que vous ayez combattu.","vous combattriez.","vous auriez combattu.","Combattez !"],
 ("combattre","ils"):["Ils combattent.","Ils ont combattu.","Ils combattaient.","Ils avaient combattu.","Ils combattront.","qu'ils combattent.","qu'ils aient combattu.","Ils combattraient.","ils auraient combattu.","n/a"],
-("combattre","elles"):["Elles combattent.","Elles ont combattu.","Elles combattaient.","Elles avaient combattu.","Elles combattront.","qu'elles combattent.","qu'elles aient combattu.","elles combattraient.","elle auraient combattu.","n/a"],
+("combattre","elles"):["Elles combattent.","Elles ont combattu.","Elles combattaient.","Elles avaient combattu.","Elles combattront.","qu'elles combattent.","qu'elles aient combattu.","elles combattraient.","elles auraient combattu.","n/a"],
 ("combattre","ça"):["Ça combat.","Ça a combattu.","Ça combattait.","Ça avait combattu.","Ça combattra.","que ça combatte.","que ça ait combattu.","ça combattra.","ça aurait combattu.","n/a"],
 
 ("conduire","je"):["Je conduis.","J'ai conduit.","Je conduisais.","J'avais conduit.","Je conduirai.","que je conduise.","que j'aie conduit.","je conduirais.","j'aurais conduit.","n/a"],
@@ -1222,7 +1222,7 @@ table = {
 ("conduire","nous"):["Nous conduisons.","Nous avons conduit.","Nous conduisions.","Nous avions conduit.","Nous conduirons.","que nous conduisions.","que nous ayons conduit.","nous conduirions.","nous aurions conduit.","Conduisons !"],
 ("conduire","vous"):["Vous conduisez.","Vous avez conduit.","Vous conduisiez.","Vous aviez conduit.","Vous conduirez.","que vous conduisiez.","que vous ayez conduit.","vous conduiriez.","vous auriez conduit.","Conduisez !"],
 ("conduire","ils"):["Ils conduisent.","Ils ont conduit.","Ils conduisaient.","Ils avaient conduit.","Ils conduiront.","qu'ils conduisent.","qu'ils aient conduit.","ils conduiraient.","ils auraient conduit.","n/a"],
-("conduire","elles"):["Elles conduisent.","Elles ont conduit.","Elles conduisaient.","Elles avaient conduit.","Elles conduiront.","qu'elles conduisent.","qu'elles aient conduit.","elles conduiraient.","elle auraient conduit.","n/a"],
+("conduire","elles"):["Elles conduisent.","Elles ont conduit.","Elles conduisaient.","Elles avaient conduit.","Elles conduiront.","qu'elles conduisent.","qu'elles aient conduit.","elles conduiraient.","elles auraient conduit.","n/a"],
 ("conduire","ça"):["Ça conduit.","Ça a conduit.","Ça conduisait.","Ça avait conduit.","Ça conduira.","que ça conduise.","que ça ait conduit.","ça conduirait.","ça aurait conduit.","n/a"],
 
 ("construire","je"):["Je construis.","J'ai construit.","Je construisais.","J'avais construit.","Je construirai.","que je construise.","que j'aie construit.","je construirais.","j'aurais construit.","n/a"],
@@ -1232,7 +1232,7 @@ table = {
 ("construire","nous"):["Nous construisons.","Nous avons construit.","Nous construisions.","Nous avions construit.","Nous construirons.","que nous construisions.","que nous ayons construit.","nous construirions.","nous aurions construit.","Construisons !"],
 ("construire","vous"):["Vous construisez.","Vous avez construit.","Vous construisiez.","Vous aviez construit.","Vous construirez.","que vous construisiez.","que vous ayez construit.","vous construiriez.","vous auriez construit.","Construisez !"],
 ("construire","ils"):["Ils construisent.","Ils ont construit.","Ils construisaient.","Ils avaient construit.","Ils construiront.","qu'ils construisent.","qu'ils aient construit.","ils construiraient.","ils auraient construit.","n/a"],
-("construire","elles"):["Elles construisent.","Elles ont construit.","Elles construisaient.","Elles avaient construit.","Elles construiront.","qu'elles construisent.","qu'elles aient construit.","elles construiraient.","elle auraient construit.","n/a"],
+("construire","elles"):["Elles construisent.","Elles ont construit.","Elles construisaient.","Elles avaient construit.","Elles construiront.","qu'elles construisent.","qu'elles aient construit.","elles construiraient.","elles auraient construit.","n/a"],
 ("construire","ça"):["Ça construit.","Ça a construit.","Ça construisait.","Ça avait construit.","Ça construira.","que ça construise.","que ça ait construit.","ça construirait.","ça aurait construit.","n/a"],
 
 ("résoudre","je"):["Je résous.","J'ai résolu.","Je résolvais.","J'avais résolu.","Je résoudrai.","que je résolve.","que j'aie résolu.","je résoudrais.","j'aurais résolu.","n/a"],
@@ -1242,7 +1242,7 @@ table = {
 ("résoudre","nous"):["Nous résolvons.","Nous avons résolu.","Nous résolvions.","Nous avions résolu.","Nous résoudrons.","que nous résolvions.","que nous ayons résolu.","nous résoudrions.","nous aurions résolu.","Résolvonss !"],
 ("résoudre","vous"):["Vous résolvez.","Vous avez résolu.","Vous résolviez.","Vous aviez résolu.","Vous résoudrez.","que vous résolviez.","que vous ayez résolu.","vous résoudriez.","vous auriez résolu.","Résolvez !"],
 ("résoudre","ils"):["Ils résolvent.","Ils ont résolu.","Ils résolvaient.","Ils avaient résolu.","Ils résoudront.","qu'ils résolvent.","qu'ils aient résolu.","ils résoudraient.","ils auraient résolu.","n/a"],
-("résoudre","elles"):["Elles résolvent.","Elles ont résolu.","Elles résolvaient.","Elles avaient résolu.","Elles résoudront.","qu'elles résolvent.","qu'elles aient résolu.","elles résoudraient.","elle auraient résolu.","n/a"],
+("résoudre","elles"):["Elles résolvent.","Elles ont résolu.","Elles résolvaient.","Elles avaient résolu.","Elles résoudront.","qu'elles résolvent.","qu'elles aient résolu.","elles résoudraient.","elles auraient résolu.","n/a"],
 ("résoudre","ça"):["Ça résout.","Ça a résolu.","Ça résolvait.","Ça avait résolu.","Ça résoudra.","que ça résolve.","que ça ait résolu.","ça résoudrait.","ça aurait résolu.","n/a"],
 
 ("soudre","je"):["Je sous.","J'ai solu.","Je solvais.","J'avais solu.","Je soudrai.","que je solve.","que j'aie solu.","je soudrais.","j'aurais solu.","n/a"],
@@ -1252,7 +1252,7 @@ table = {
 ("soudre","nous"):["Nous solvons.","Nous avons solu.","Nous solvions.","Nous avions solu.","Nous soudrons.","que nous solvions.","que nous ayons solu.","nous soudrions.","nous aurions solu.","Solvonss !"],
 ("soudre","vous"):["Vous solvez.","Vous avez solu.","Vous solviez.","Vous aviez solu.","Vous soudrez.","que vous solviez.","que vous ayez solu.","vous soudriez.","vous auriez solu.","Solvez !"],
 ("soudre","ils"):["Ils solvent.","Ils ont solu.","Ils solvaient.","Ils avaient solu.","Ils soudront.","qu'ils solvent.","qu'ils aient solu.","ils soudraient.","ils auraient solu.","n/a"],
-("soudre","elles"):["Elles solvent.","Elles ont solu.","Elles solvaient.","Elles avaient solu.","Elles soudront.","qu'elles solvent.","qu'elles aient solu.","elles soudraient.","elle auraient solu.","n/a"],
+("soudre","elles"):["Elles solvent.","Elles ont solu.","Elles solvaient.","Elles avaient solu.","Elles soudront.","qu'elles solvent.","qu'elles aient solu.","elles soudraient.","elles auraient solu.","n/a"],
 ("soudre","ça"):["Ça sout.","Ça a solu.","Ça solvait.","Ça avait solu.","Ça soudra.","que ça solve.","que ça ait solu.","ça soudrait.","ça aurait solu.","n/a"],
 
 ("naître","je"):["Je nais.","Je suis né.","Je naissais.","J'étais né.","Je naîtrai.","que je naisse.","que je sois né.","je naîtrais.","je serais né.","n/a"],
@@ -1279,21 +1279,21 @@ table = {
 ("conclure","tu"):["Tu conclus.","Tu as conclu.","Tu concluais.","Tu avais conclu.","Tu concluras.","que tu conclues.","que tu aies conclu.","tu conclurais.","tu aurais conclu.","Conclus !"],
 ("conclure","il"):["Il conclut.","Il a conclu.","Il concluait.","Il avait conclu.","Il conclura.","qu'il conclue.","qu'il ait conclu.","il conclurait.","il aurait conclu.","n/a"],
 ("conclure","elle"):["Elle conclut.","Elle a conclu.","Elle concluait.","Elle avait conclu.","Elle conclura.","qu'elle conclue.","qu'elle ait conclu.","elle conclurait.","elle aurait conclu.","n/a"],
-("conclure","nous"):["Nous concluons.","Nous avons conclu.","Nous concluions.","Nous avions conclu.","Nous conclurons.","que nous concluions.","que nous ayons conclu.","Nous conclurions.","nous aurions conclu.","Concluons !"],
-("conclure","vous"):["Vous concluez.","Vous avez conclu.","Vous concluiez.","Vous aviez conclu.","Vous conclurez.","que vous concluiez.","que vous ayez conclu.","Vous concluriez.","vous auriez conclu.","Concluez !"],
-("conclure","ils"):["Ils concluent.","Ils ont conclu.","Ils concluaient.","Ils avaient conclu.","Ils concluront.","qu'ils concluent.","qu'ils aient conclu.","Ils concluraient.","ils auraient conclu.","n/a"],
-("conclure","elles"):["Elles concluent.","Elles ont conclu.","Elles concluaient.","Elles avaient conclu.","Elles concluront.","qu'elles concluent.","qu'elles aient conclu.","Elles concluraient.","elle auraient conclu.","n/a"],
-("conclure","ça"):["Ça conclut.","Ça a conclu.","Ça concluait.","Ça avait conclu.","Ça conclura.","que ça conclue.","que ça ait conclu.","Ça conclurait.","ça aurait conclu.","n/a"],
+("conclure","nous"):["Nous concluons.","Nous avons conclu.","Nous concluions.","Nous avions conclu.","Nous conclurons.","que nous concluions.","que nous ayons conclu.","nous conclurions.","nous aurions conclu.","Concluons !"],
+("conclure","vous"):["Vous concluez.","Vous avez conclu.","Vous concluiez.","Vous aviez conclu.","Vous conclurez.","que vous concluiez.","que vous ayez conclu.","vous concluriez.","vous auriez conclu.","Concluez !"],
+("conclure","ils"):["Ils concluent.","Ils ont conclu.","Ils concluaient.","Ils avaient conclu.","Ils concluront.","qu'ils concluent.","qu'ils aient conclu.","ils concluraient.","ils auraient conclu.","n/a"],
+("conclure","elles"):["Elles concluent.","Elles ont conclu.","Elles concluaient.","Elles avaient conclu.","Elles concluront.","qu'elles concluent.","qu'elles aient conclu.","elles concluraient.","elles auraient conclu.","n/a"],
+("conclure","ça"):["Ça conclut.","Ça a conclu.","Ça concluait.","Ça avait conclu.","Ça conclura.","que ça conclue.","que ça ait conclu.","ça conclurait.","ça aurait conclu.","n/a"],
 
 ("exclure","je"):["J'exclus.","J'ai exclu.","J'excluais.","J'avais exclu.","J'exclurai.","que j'exclue.","que j'aie exclu.","j'exclurais.","j'aurais exclu.","n/a"],
 ("exclure","tu"):["Tu exclus.","Tu as exclu.","Tu excluais.","Tu avais exclu.","Tu excluras.","que tu exclues.","que tu aies exclu.","tu exclurais.","tu aurais exclu.","Exclus !"],
 ("exclure","il"):["Il exclut.","Il a exclu.","Il excluait.","Il avait exclu.","Il exclura.","qu'il exclue.","qu'il ait exclu.","il exclurait.","il aurait exclu.","n/a"],
 ("exclure","elle"):["Elle exclut.","Elle a exclu.","Elle excluait.","Elle avait exclu.","Elle exclura.","qu'elle exclue.","qu'elle ait exclu.","elle exclurait.","elle aurait exclu.","n/a"],
-("exclure","nous"):["Nous excluons.","Nous avons exclu.","Nous excluions.","Nous avions exclu.","Nous exclurons.","que nous excluions.","que nous ayons exclu.","Nous exclurions.","nous aurions exclu.","Excluons !"],
-("exclure","vous"):["Vous excluez.","Vous avez exclu.","Vous excluiez.","Vous aviez exclu.","Vous exclurez.","que vous excluiez.","que vous ayez exclu.","Vous excluriez.","vous auriez exclu.","Excluez !"],
-("exclure","ils"):["Ils excluent.","Ils ont exclu.","Ils excluaient.","Ils avaient exclu.","Ils excluront.","qu'ils excluent.","qu'ils aient exclu.","Ils excluraient.","ils auraient exclu.","n/a"],
-("exclure","elles"):["Elles excluent.","Elles ont exclu.","Elles excluaient.","Elles avaient exclu.","Elles excluront.","qu'elles excluent.","qu'elles aient exclu.","Elles excluraient.","elle auraient exclu.","n/a"],
-("exclure","ça"):["Ça exclut.","Ça a exclu.","Ça excluait.","Ça avait exclu.","Ça exclura.","que ça exclue.","que ça ait exclu.","Ça exclurait.","ça aurait exclu.","n/a"],
+("exclure","nous"):["Nous excluons.","Nous avons exclu.","Nous excluions.","Nous avions exclu.","Nous exclurons.","que nous excluions.","que nous ayons exclu.","nous exclurions.","nous aurions exclu.","Excluons !"],
+("exclure","vous"):["Vous excluez.","Vous avez exclu.","Vous excluiez.","Vous aviez exclu.","Vous exclurez.","que vous excluiez.","que vous ayez exclu.","vous excluriez.","vous auriez exclu.","Excluez !"],
+("exclure","ils"):["Ils excluent.","Ils ont exclu.","Ils excluaient.","Ils avaient exclu.","Ils excluront.","qu'ils excluent.","qu'ils aient exclu.","ils excluraient.","ils auraient exclu.","n/a"],
+("exclure","elles"):["Elles excluent.","Elles ont exclu.","Elles excluaient.","Elles avaient exclu.","Elles excluront.","qu'elles excluent.","qu'elles aient exclu.","elles excluraient.","elles auraient exclu.","n/a"],
+("exclure","ça"):["Ça exclut.","Ça a exclu.","Ça excluait.","Ça avait exclu.","Ça exclura.","que ça exclue.","que ça ait exclu.","ça exclurait.","ça aurait exclu.","n/a"],
 
 ("rompre","je"):["Je romps.","J'ai rompu.","Je rompais.","J'avais rompu.","Je romprai.","que je rompe.","que j'aie rompu.","je romprais.","j'aurais rompu.","n/a"],
 ("rompre","tu"):["Tu romps.","Tu as rompu.","Tu rompais.","Tu avais rompu.","Tu rompras.","que tu rompes.","que tu aies rompu.","tu romprais.","tu aurais rompu.","Romps !"],
@@ -1302,7 +1302,7 @@ table = {
 ("rompre","nous"):["Nous rompons.","Nous avons rompu.","Nous rompions.","Nous avions rompu.","Nous romprons.","que nous rompions.","que nous ayons rompu.","nous romprions.","nous aurions rompu.","Rompons !"],
 ("rompre","vous"):["Vous rompez.","Vous avez rompu.","Vous rompiez.","Vous aviez rompu.","Vous romprez.","que vous rompiez.","que vous ayez rompu.","vous rompriez.","vous auriez rompu.","Rompez !"],
 ("rompre","ils"):["Ils rompent.","Ils ont rompu.","Ils rompaient.","Ils avaient rompu.","Ils rompront.","qu'ils rompent.","qu'ils aient rompu.","ils rompraient.","ils auraient rompu.","n/a"],
-("rompre","elles"):["Elles rompent.","Elles ont rompu.","Elles rompaient.","Elles avaient rompu.","Elles rompront.","qu'elles rompent.","qu'elles aient rompu.","elles rompraient.","elle auraient rompu.","n/a"],
+("rompre","elles"):["Elles rompent.","Elles ont rompu.","Elles rompaient.","Elles avaient rompu.","Elles rompront.","qu'elles rompent.","qu'elles aient rompu.","elles rompraient.","elles auraient rompu.","n/a"],
 ("rompre","ça"):["Ça rompt.","Ça a rompu.","Ça rompait.","Ça avait rompu.","Ça rompra.","que ça rompe.","que ça ait rompu.","ça romprait.","ça aurait rompu.","n/a"],
 
 ("interrompre","je"):["J'interromps.","J'ai interrompu.","J'interrompais.","J'avais interrompu.","J' interromprai.","que j'interrompe.","que j'aie interrompu.","j'interromprais.","j'aurais interrompu.","n/a"],
@@ -1312,7 +1312,7 @@ table = {
 ("interrompre","nous"):["Nous interrompons.","Nous avons interrompu.","Nous interrompions.","Nous avions interrompu.","Nous interromprons.","que nous interrompions.","que nous ayons interrompu.","nous interromprions.","nous aurions interrompu.","Interrompons !"],
 ("interrompre","vous"):["Vous interrompez.","Vous avez interrompu.","Vous interrompiez.","Vous aviez interrompu.","Vous interromprez.","que vous interrompiez.","que vous ayez interrompu.","vous interrompriez.","vous auriez interrompu.","Interrompez !"],
 ("interrompre","ils"):["Ils interrompent.","Ils ont interrompu.","Ils interrompaient.","Ils avaient interrompu.","Ils interrompront.","qu'ils interrompent.","qu'ils aient interrompu.","ils interrompraient.","ils auraient interrompu.","n/a"],
-("interrompre","elles"):["Elles interrompent.","Elles ont interrompu.","Elles interrompaient.","Elles avaient interrompu.","Elles interrompront.","qu'elles interrompent.","qu'elles aient interrompu.","elles interrompraient.","elle auraient interrompu.","n/a"],
+("interrompre","elles"):["Elles interrompent.","Elles ont interrompu.","Elles interrompaient.","Elles avaient interrompu.","Elles interrompront.","qu'elles interrompent.","qu'elles aient interrompu.","elles interrompraient.","elles auraient interrompu.","n/a"],
 ("interrompre","ça"):["Ça interrompt.","Ça a interrompu.","Ça interrompait.","Ça avait interrompu.","Ça interrompra.","que ça interrompe.","que ça ait interrompu.","ça interromprait.","ça aurait interrompu.","n/a"],
 
 ("plaire","je"):["Je plais.","J'ai plu.","Je plaisais.","J'avais plu.","Je plairai.","que je plaise.","que j'aie plu.","je plairais.","j'aurais plu.","n/a"],
@@ -1322,7 +1322,7 @@ table = {
 ("plaire","nous"):["Nous plaisons.","Nous avons plu.","Nous plaisions.","Nous avions plu.","Nous plairons.","que nous plaisions.","que nous ayons plu.","nous plairions.","nous aurions plu.","Plaisons !"],
 ("plaire","vous"):["Vous plaisez.","Vous avez plu.","Vous plaisiez.","Vous aviez plu.","Vous plairez.","que vous plaisiez.","que vous ayez plu.","vous plairiez.","vous auriez plu.","Plaisez !"],
 ("plaire","ils"):["Ils plaisent.","Ils ont plu.","Ils plaisaient.","Ils avaient plu.","Ils plairont.","qu'ils plaisent.","qu'ils aient plu.","ils plairaient.","ils auraient plu.","n/a"],
-("plaire","elles"):["Elles plaisent.","Elles ont plu.","Elles plaisaient.","Elles avaient plu.","Elles plairont.","qu'elles plaisent.","qu'elles aient plu.","elles plairaient.","elle auraient plu.","n/a"],
+("plaire","elles"):["Elles plaisent.","Elles ont plu.","Elles plaisaient.","Elles avaient plu.","Elles plairont.","qu'elles plaisent.","qu'elles aient plu.","elles plairaient.","elles auraient plu.","n/a"],
 ("plaire","ça"):["Ça plaît.","Ça a plu.","Ça plaisait.","Ça avait plu.","Ça plaira.","que ça plaise.","que ça ait plu.","ça plairait.","ça aurait plu.","n/a"],
 
 ("déplaire","je"):["Je déplais.","J'ai déplu.","Je déplaisais.","J'avais déplu.","Je déplairai.","que je déplaise.","que j'aie déplu.","je déplairais.","j'aurais déplu.","n/a"],
@@ -1332,7 +1332,7 @@ table = {
 ("déplaire","nous"):["Nous déplaisons.","Nous avons déplu.","Nous déplaisions.","Nous avions déplu.","Nous déplairons.","que nous déplaisions.","que nous ayons déplu.","nous déplairions.","nous aurions déplu.","Déplaisons !"],
 ("déplaire","vous"):["Vous déplaisez.","Vous avez déplu.","Vous déplaisiez.","Vous aviez déplu.","Vous déplairez.","que vous déplaisiez.","que vous ayez déplu.","vous déplairiez.","vous auriez déplu.","Déplaisez !"],
 ("déplaire","ils"):["Ils déplaisent.","Ils ont déplu.","Ils déplaisaient.","Ils avaient déplu.","Ils déplairont.","qu'ils déplaisent.","qu'ils aient déplu.","ils déplairaient.","ils auraient déplu.","n/a"],
-("déplaire","elles"):["Elles déplaisent.","Elles ont déplu.","Elles déplaisaient.","Elles avaient déplu.","Elles déplairont.","qu'elles déplaisent.","qu'elles aient déplu.","elles déplairaient.","elle auraient déplu.","n/a"],
+("déplaire","elles"):["Elles déplaisent.","Elles ont déplu.","Elles déplaisaient.","Elles avaient déplu.","Elles déplairont.","qu'elles déplaisent.","qu'elles aient déplu.","elles déplairaient.","elles auraient déplu.","n/a"],
 ("déplaire","ça"):["Ça déplaît.","Ça a déplu.","Ça déplaisait.","Ça avait déplu.","Ça déplaira.","que ça déplaise.","que ça ait déplu.","ça déplairait.","ça aurait déplu.","n/a"],
 
 ("vaincre","je"):["Je vaincs.","J'ai vaincu.","Je vainquais.","J'avais vaincu.","Je vaincrai.","que je vainque.","que j'aie vaincu.","je vaincrais.","j'aurais vaincu.","n/a"],
@@ -1342,7 +1342,7 @@ table = {
 ("vaincre","nous"):["Nous vainquons.","Nous avons vaincu.","Nous vainquions.","Nous avions vaincu.","Nous vaincrons.","que nous vainquions.","que nous ayons vaincu.","nous vaincrions.","nous aurions vaincu.","Vainquons !"],
 ("vaincre","vous"):["Vous vainquez.","Vous avez vaincu.","Vous vainquiez.","Vous aviez vaincu.","Vous vaincrez.","que vous vainquiez.","que vous ayez vaincu.","vous vaincriez.","vous auriez vaincu.","Vainquez !"],
 ("vaincre","ils"):["Ils vainquent.","Ils ont vaincu.","Ils vainquaient.","Ils avaient vaincu.","Ils vaincront.","qu'ils vainquent.","qu'ils aient vaincu.","ils vaincraient.","ils auraient vaincu.","n/a"],
-("vaincre","elles"):["Elles vainquent.","Elles ont vaincu.","Elles vainquaient.","Elles avaient vaincu.","Elles vaincront.","qu'elles vainquent.","qu'elles aient vaincu.","elles vaincraient.","elle auraient vaincu.","n/a"],
+("vaincre","elles"):["Elles vainquent.","Elles ont vaincu.","Elles vainquaient.","Elles avaient vaincu.","Elles vaincront.","qu'elles vainquent.","qu'elles aient vaincu.","elles vaincraient.","elles auraient vaincu.","n/a"],
 ("vaincre","ça"):["Ça vainc.","Ça a vaincu.","Ça vainquait.","Ça avait vaincu.","Ça vaincra.","que ça vainque.","que ça ait vaincu.","ça vaincrait.","ça aurait vaincu.","n/a"],
 
 ("convaincre","je"):["Je convaincs.","J'ai convaincu.","Je convainquais.","J'avais convaincu.","Je convaincrai.","que je convainque.","que j'aie convaincu.","je convaincrais.","j'aurais convaincu.","n/a"],
@@ -1352,7 +1352,7 @@ table = {
 ("convaincre","nous"):["Nous convainquons.","Nous avons convaincu.","Nous convainquions.","Nous avions convaincu.","Nous convaincrons.","que nous convainquions.","que nous ayons convaincu.","nous convaincrions.","nous aurions convaincu.","Convainquons !"],
 ("convaincre","vous"):["Vous convainquez.","Vous avez convaincu.","Vous convainquiez.","Vous aviez convaincu.","Vous convaincrez.","que vous convainquiez.","que vous ayez convaincu.","vous convaincriez.","vous auriez convaincu.","Convainquez !"],
 ("convaincre","ils"):["Ils convainquent.","Ils ont convaincu.","Ils convainquaient.","Ils avaient convaincu.","Ils convaincront.","qu'ils convainquent.","qu'ils aient convaincu.","ils convaincraient.","ils auraient convaincu.","n/a"],
-("convaincre","elles"):["Elles convainquent.","Elles ont convaincu.","Elles convainquaient.","Elles avaient convaincu.","Elles convaincront.","qu'elles convainquent.","qu'elles aient convaincu.","elles convaincraient.","elle auraient convaincu.","n/a"],
+("convaincre","elles"):["Elles convainquent.","Elles ont convaincu.","Elles convainquaient.","Elles avaient convaincu.","Elles convaincront.","qu'elles convainquent.","qu'elles aient convaincu.","elles convaincraient.","elles auraient convaincu.","n/a"],
 ("convaincre","ça"):["Ça convainc.","Ça a convaincu.","Ça convainquait.","Ça avait convaincu.","Ça convaincra.","que ça convainque.","que ça ait convaincu.","ça convaincrait.","ça aurait convaincu.","n/a"],
 
 ("distraire","je"):["Je distrais.","J'ai distrait.","Je distrayais.","J'avais distrait.","Je distrairai,","que je distraie.","que j'aie distrait.","je distrairais.","j'aurais distrait.","n/a"],
@@ -1362,7 +1362,7 @@ table = {
 ("distraire","nous"):["Nous distrayons.","Nous avons distrait.","Nous distrayions.","Nous avions distrait.","Nous distrairons.","que nous distrayions.","que nous ayons distrait.","nous distrairions.","nous aurions distrait.","distrayons !"],
 ("distraire","vous"):["Vous distrayez.","Vous avez distrait.","Vous distrayiez.","Vous aviez distrait.","Vous distrairez.","que vous distrayiez.","que vous ayez distrait.","vous distrairiez.","vous auriez distrait.","distrayez !"],
 ("distraire","ils"):["Ils distraient.","Ils ont distrait.","Ils distrayient.","Ils avaient distrait.","Ils distrairont.","qu'ils distraient.","qu'ils aient distrait.","ils distrairaient.","ils auraient distrait.","n/a"],
-("distraire","elles"):["Elles distraient.","Elles ont distrait.","Elles distrayient.","Elles avaient distrait.","Elles distrairont.","qu'elles distraient.","qu'elles aient distrait.","elles distrairaient.","elle auraient distrait.","n/a"],
+("distraire","elles"):["Elles distraient.","Elles ont distrait.","Elles distrayient.","Elles avaient distrait.","Elles distrairont.","qu'elles distraient.","qu'elles aient distrait.","elles distrairaient.","elles auraient distrait.","n/a"],
 ("distraire","ça"):["Ça distrait.","Ça a distrait.","Ça distrayait.","Ça avait distrait.","Ça distraira.","que ça distraie.","que ça ait distrait.","ça distrairait.","ça aurait distrait.","n/a"],
 
 ("extraire","je"):["J'extrais.","J'ai extrait.","J'extrayais.","J'avais extrait.","J'extrairai,","que j'extraie.","que j'aie extrait.","j'extrairais.","j'aurais extrait.","n/a"],
@@ -1372,7 +1372,7 @@ table = {
 ("extraire","nous"):["Nous extrayons.","Nous avons extrait.","Nous extrayions.","Nous avions extrait.","Nous extrairons.","que nous extrayions.","que nous ayons extrait.","nous extrairions.","nous aurions extrait.","Extrayons !"],
 ("extraire","vous"):["Vous extrayez.","Vous avez extrait.","Vous extrayiez.","Vous aviez extrait.","Vous extrairez.","que vous extrayiez.","que vous ayez extrait.","vous extrairiez.","vous auriez extrait.","Extrayez !"],
 ("extraire","ils"):["Ils extraient.","Ils ont extrait.","Ils extrayient.","Ils avaient extrait.","Ils extrairont.","qu'ils extraient.","qu'ils aient extrait.","ils extrairaient.","ils auraient extrait.","n/a"],
-("extraire","elles"):["Elles extraient.","Elles ont extrait.","Elles extrayient.","Elles avaient extrait.","Elles extrairont.","qu'elles extraient.","qu'elles aient extrait.","elles extrairaient.","elle auraient extrait.","n/a"],
+("extraire","elles"):["Elles extraient.","Elles ont extrait.","Elles extrayient.","Elles avaient extrait.","Elles extrairont.","qu'elles extraient.","qu'elles aient extrait.","elles extrairaient.","elles auraient extrait.","n/a"],
 ("extraire","ça"):["Ça extrait.","Ça a extrait.","Ça extrait.","Ça avait extrait.","Ça extraira.","que ça extraie.","que ça ait extrait.","ça extrairait.","ça aurait extrait.","n/a"],
 
 ("interdire","je"):["J'interdis.","J'ai interdit.","J'interdisais.","J'avais interdit.","J'interdirai.","que j'interdise.","que j'aie interdit.","j'interdirais.","j'aurais interdit.","n/a"],
@@ -1380,20 +1380,20 @@ table = {
 ("interdire","il"):["Il interdit.","Il a interdit.","Il interdisait.","Il avait interdit.","Il interdira.","qu'il interdise.","qu'il ait interdit.","il interdirait.","il aurait interdit.","n/a"],
 ("interdire","elle"):["Elle interdit.","Elle a interdit.","Elle interdisait.","Elle avait interdit.","Elle interdira.","qu'elle interdise.","qu'elle ait interdit.","elle interdirait.","elle aurait interdit.","n/a"],
 ("interdire","nous"):["Nous interdisons.","Nous avons interdit.","Nous interdisions.","Nous avions interdit.","Nous interdirons.","que nous interdisions.","que nous ayons interdit.","nous interdirions.","nous aurions interdit.","Interdisons !"],
-("interdire","vous"):["Vous interdisez.","Vous avez interdit.","Vous interdisiez.","Vous aviez interdit.","Vous interdirez.","que vous interdisiez.","que vous ayez interdit.","Vous interdiriez.","vous auriez interdit.","Interdisez !"],
-("interdire","ils"):["Ils interdisent.","Ils ont interdit.","Ils interdisaient.","Ils avaient interdit.","Ils interdiront.","qu'ils interdisent.","qu'ils aient interdit.","Ils interdiraient.","ils auraient interdit.","n/a"],
-("interdire","elles"):["Elles interdisent.","Elles ont interdit.","Elles interdisaient.","Elles avaient interdit.","Elles interdiront.","qu'elles interdisent.","qu'elles aient interdit.","Elles interdiraient.","elle auraient interdit.","n/a"],
-("interdire","ça"):["Ça interdit.","Ça a interdit.","Ça interdisait.","Ça avait interdit.","Ça interdira.","que ça interdise.","que ça ait interdit.","Ça interdirait.","ça aurait interdit.","n/a"],
+("interdire","vous"):["Vous interdisez.","Vous avez interdit.","Vous interdisiez.","Vous aviez interdit.","Vous interdirez.","que vous interdisiez.","que vous ayez interdit.","vous interdiriez.","vous auriez interdit.","Interdisez !"],
+("interdire","ils"):["Ils interdisent.","Ils ont interdit.","Ils interdisaient.","Ils avaient interdit.","Ils interdiront.","qu'ils interdisent.","qu'ils aient interdit.","ils interdiraient.","ils auraient interdit.","n/a"],
+("interdire","elles"):["Elles interdisent.","Elles ont interdit.","Elles interdisaient.","Elles avaient interdit.","Elles interdiront.","qu'elles interdisent.","qu'elles aient interdit.","elles interdiraient.","elles auraient interdit.","n/a"],
+("interdire","ça"):["Ça interdit.","Ça a interdit.","Ça interdisait.","Ça avait interdit.","Ça interdira.","que ça interdise.","que ça ait interdit.","ça interdirait.","ça aurait interdit.","n/a"],
 
 ("contredire","je"):["Je contredis.","J'ai contredit.","Je contredisais.","J'avais contredit.","Je contredirai.","que je contredise.","que j'aie contredit.","je contredirais.","j'aurais contredit.","n/a"],
 ("contredire","tu"):["Tu contredis.","Tu as contredit.","Tu contredisais.","Tu avais contredit.","Tu contrediras.","que tu contredises.","que tu aies contredit.","tu contredirais.","tu aurais contredit.","Contredis !"],
 ("contredire","il"):["Il contredit.","Il a contredit.","Il contredisait.","Il avait contredit.","Il contredira.","qu'il contredise.","qu'il ait contredit.","il contredirait.","il aurait contredit.","n/a"],
 ("contredire","elle"):["Elle contredit.","Elle a contredit.","Elle contredisait.","Elle avait contredit.","Elle contredira.","qu'elle contredise.","qu'elle ait contredit.","elle contredirait.","elle aurait contredit.","n/a"],
 ("contredire","nous"):["Nous contredisons.","Nous avons contredit.","Nous contredisions.","Nous avions contredit.","Nous contredirons.","que nous contredisions.","que nous ayons contredit.","nous contredirions.","nous aurions contredit.","Contredisons !"],
-("contredire","vous"):["Vous contredisez.","Vous avez contredit.","Vous contredisiez.","Vous aviez contredit.","Vous contredirez.","que vous contredisiez.","que vous ayez contredit.","Vous contrediriez.","vous auriez contredit.","Contredisez !"],
-("contredire","ils"):["Ils contredisent.","Ils ont contredit.","Ils contredisaient.","Ils avaient contredit.","Ils contrediront.","qu'ils contredisent.","qu'ils aient contredit.","Ils contrediraient.","ils auraient contredit.","n/a"],
-("contredire","elles"):["Elles contredisent.","Elles ont contredit.","Elles contredisaient.","Elles avaient contredit.","Elles contrediront.","qu'elles contredisent.","qu'elles aient contredit.","Elles contrediraient.","elle auraient contredit.","n/a"],
-("contredire","ça"):["Ça contredit.","Ça a contredit.","Ça contredisait.","Ça avait contredit.","Ça contredira.","que ça contredise.","que ça ait contredit.","Ça contredirait.","ça aurait contredit.","n/a"],
+("contredire","vous"):["Vous contredisez.","Vous avez contredit.","Vous contredisiez.","Vous aviez contredit.","Vous contredirez.","que vous contredisiez.","que vous ayez contredit.","vous contrediriez.","vous auriez contredit.","Contredisez !"],
+("contredire","ils"):["Ils contredisent.","Ils ont contredit.","Ils contredisaient.","Ils avaient contredit.","Ils contrediront.","qu'ils contredisent.","qu'ils aient contredit.","ils contrediraient.","ils auraient contredit.","n/a"],
+("contredire","elles"):["Elles contredisent.","Elles ont contredit.","Elles contredisaient.","Elles avaient contredit.","Elles contrediront.","qu'elles contredisent.","qu'elles aient contredit.","elles contrediraient.","elles auraient contredit.","n/a"],
+("contredire","ça"):["Ça contredit.","Ça a contredit.","Ça contredisait.","Ça avait contredit.","Ça contredira.","que ça contredise.","que ça ait contredit.","ça contredirait.","ça aurait contredit.","n/a"],
 
 ("croître","je"):["Je croîs.","J'ai crû.","Je croissais.","J'avais crû.","Je croîtrai.","que je croisse.","que j'aie crû.","je croîtrais.","j'aurais crû.","n/a"],
 ("croître","tu"):["Tu croîs.","Tu as crû.","Tu croissais.","Tu avais crû.","Tu croîtras.","que tu croisses.","que tu aies crû.","tu croîtrais.","tu aurais crû.","Croîs !"],
@@ -1402,7 +1402,7 @@ table = {
 ("croître","nous"):["Nous croissons.","Nous avons crû.","Nous croissions.","Nous avions crû.","Nous croîtrons.","que nous croissions.","que nous ayons crû.","nous croîtrions.","nous aurions crû.","Croîs !"],
 ("croître","vous"):["Vous croissez.","Vous avez crû.","Vous croissiez.","Vous aviez crû.","Vous croîtrez.","que vous croissiez.","que vous ayez crû.","vous croîtriez.","vous auriez crû.","Croissez !"],
 ("croître","ils"):["Ils croissent.","Ils ont crû.","Ils croissaient.","Ils avaient crû.","Ils croîtront.","qu'ils croissent.","qu'ils aient crû.","ils croîtraient.","ils auraient crû.","n/a"],
-("croître","elles"):["Elles croissent.","Elles ont crû.","Elles croissaient.","elles avaient crû.","Elles croîtront.","qu'elles croissent.","qu'elles aient crû.","elles croîtraient.","elle auraient crû.","n/a"],
+("croître","elles"):["Elles croissent.","Elles ont crû.","Elles croissaient.","elles avaient crû.","Elles croîtront.","qu'elles croissent.","qu'elles aient crû.","elles croîtraient.","elles auraient crû.","n/a"],
 ("croître","ça"):["Ça croîit.","Ça a crû.","Ça croissait.","Ça avait crû.","Ça croîtra.","que ça croisse.","que ça ait crû.","ça croîtrait.","ça aurait crû.","n/a"],
 
 ("accroître","je"):["J'accrois.","J'ai accru.","J'accroissais.","J'avais accru.","J'accroîtrai.","que j'accroisse.","que j'aie accru.","j'acroîtrais.","j'aurais accru.","n/a"],
@@ -1412,7 +1412,7 @@ table = {
 ("accroître","nous"):["Nous accroissons.","Nous avons accru.","Nous accroissions.","Nous avions accru.","Nous accroîtrons.","que nous accroissions.","que nous ayons accru.","nous accroîtrions.","nous aurions accru.","Accrois !"],
 ("accroître","vous"):["Vous accroissez.","Vous avez accru.","Vous accroissiez.","Vous aviez accru.","Vous accroîtrez.","que vous accroissiez.","que vous ayez accru.","vous accroîtriez.","vous auriez accru.","Accroissez !"],
 ("accroître","ils"):["Ils accroissent.","Ils ont accru.","Ils accroissaient.","Ils avaient accru.","Ils accroîtront.","qu'ils accroissent.","qu'ils aient accru.","ils accroîtraient.","ils auraient accru.","n/a"],
-("accroître","elles"):["Elles accroissent.","Elles ont accru.","Elles accroissaient.","elles avaient accru.","Elles accroîtront.","qu'elles accroissent.","qu'elles aient accru.","elles accroîtraient.","elle auraient accru.","n/a"],
+("accroître","elles"):["Elles accroissent.","Elles ont accru.","Elles accroissaient.","elles avaient accru.","Elles accroîtront.","qu'elles accroissent.","qu'elles aient accru.","elles accroîtraient.","elles auraient accru.","n/a"],
 ("accroître","ça"):["Ça accroit.","Ça a accru.","Ça accroissait.","Ça avait accru.","Ça accroîtra.","que ça accroisse.","que ça ait accru.","ça accroîtrait.","ça aurait accru.","n/a"],
 
 ("absoudre","je"):["J'absous.","J'ai absous.","J'absolvais.","J'avais absous.","J'absoudrai.","que j'absolve.","que j'aie absous.","j'absoudrais.","j'aurais absous.","n/a"],
@@ -1422,7 +1422,7 @@ table = {
 ("absoudre","nous"):["Nous absolvons.","Nous avons absous.","Nous absolvions.","Nous avions absous.","Nous absoudrons.","que nous absolvions.","que nous ayons absous.","nous absoudrions.","nous aurions absous.","Absolvons !"],
 ("absoudre","vous"):["Voous absolvez.","Vous avez absous.","Vous absolviez.","Vous aviez absous.","Vous absoudrez.","que vous absolviez.","que vous ayez absous.","vous absoudriez.","vous auriez absous.","Absolvez !"],
 ("absoudre","ils"):["Ils absolvent.","Ils ont absous.","Ils absovaient.","Ils avaient absous.","Ils absoudront.","qu'ils absolvent.","qu'ils aient absous.","Ils absoudraient.","ils auraient absous.","n/a"],
-("absoudre","elles"):["Elles absolvent.","Elles ont absous.","Elles absolvaient.","Elles avaient absous.","Elles aboudront.","qu'elles absolvent.","qu'elles aient absous.","elles aboudraient.","elle auraient absous.","n/a"],
+("absoudre","elles"):["Elles absolvent.","Elles ont absous.","Elles absolvaient.","Elles avaient absous.","Elles aboudront.","qu'elles absolvent.","qu'elles aient absous.","elles aboudraient.","elles auraient absous.","n/a"],
 ("absoudre","ça"):["Ça absous.","Ça a absous.","Ça absolvait.","Ça avait absous.","Ça absoudra.","que ça absolve.","que ça ait absous.","ça absoudrait.","ça aurait absous.","n/a"],
 
 ("dissoudre","je"):["Je dissous.","J'ai dissous.","Je dissolvais.","J'avais dissous.","Je dissoudrai.","que je dissolve.","que j'aie dissous.","je dissoudrais.","j'aurais dissous.","n/a"],
@@ -1432,7 +1432,7 @@ table = {
 ("dissoudre","nous"):["Nous dissolvons.","Nous avons dissous.","Nous dissolvions.","Nous avions dissous.","Nous dissoudrons.","que nous dissolvions.","que nous ayons dissous.","nous dissoudrions.","nous aurions dissous.","Dissolvons !"],
 ("dissoudre","vous"):["Voous dissolvez.","Vous avez dissous.","Vous dissolviez.","Vous aviez dissous.","Vous dissoudrez.","que vous dissolviez.","que vous ayez dissous.","vous dissoudriez.","vous auriez dissous.","Dissolvez !"],
 ("dissoudre","ils"):["Ils dissolvent.","Ils ont dissous.","Ils dissovaient.","Ils avaient dissous.","Ils dissoudront.","qu'ils dissolvent.","qu'ils aient dissous.","Ils dissoudraient.","ils auraient dissous.","n/a"],
-("dissoudre","elles"):["Elles dissolvent.","Elles ont dissous.","Elles dissolvaient.","Elles avaient dissous.","Elles disoudront.","qu'elles dissolvent.","qu'elles aient dissous.","elles disoudraient.","elle auraient dissous.","n/a"],
+("dissoudre","elles"):["Elles dissolvent.","Elles ont dissous.","Elles dissolvaient.","Elles avaient dissous.","Elles disoudront.","qu'elles dissolvent.","qu'elles aient dissous.","elles disoudraient.","elles auraient dissous.","n/a"],
 ("dissoudre","ça"):["Ça dissous.","Ça a dissous.","Ça dissolvait.","Ça avait dissous.","Ça dissoudra.","que ça dissolve.","que ça ait dissous.","ça dissoudrait.","ça aurait dissous.","n/a"],
 
 
@@ -1443,7 +1443,7 @@ table = {
 ("être","nous"):["Nous sommes.","Nous avons été.","Nous étions.","Nous avions été.","Nous serons.","que nous soyons.","que nous ayons été.","nous serions.","nous aurions été.","Soyons !"],
 ("être","vous"):["Vous êtes.","Vous avez été.","Vous étiez.","Vous aviez été.","Vous serez.","que vous soyez.","que vous ayez été.","vous seriez.","vous auriez été.","Soyez !"],
 ("être","ils"):["Ils sont.","Ils ont été.","Ils étaient.","Ils avaient été.","Ils seront.","qu'ils soient.","qu'ils aient été.","ils seraient.","ils auraient été.","n/a"],
-("être","elles"):["Elles sont.","Elles ont été.","Elles étaient.","Elles avaient été.","Elles seront.","qu'elles soient.","qu'elles aient été.","elles seraient.","elle auraient été.","n/a"],
+("être","elles"):["Elles sont.","Elles ont été.","Elles étaient.","Elles avaient été.","Elles seront.","qu'elles soient.","qu'elles aient été.","elles seraient.","elles auraient été.","n/a"],
 ("être","ça"):["C'est.","Ça a été.","C'était.","Ça avait été.","Ça sera.","que ça soit.","que ça ait été.","ça serait.","ça aurait été.","n/a"],
 
 ("avoir","je"):["J'ai.","J'ai eu.","J'avais.","J'avais eu.","J'aurai.","que j'aie.","que j'aie eu.","j'aurais.","j'aurais eu.","n/a"],
@@ -1453,7 +1453,7 @@ table = {
 ("avoir","nous"):["Nous avons.","Nous avons eu.","Nous avions.","Nous avions eu.","Nous aurons.","que nous ayons.","que nous ayons eu.","nous aurions.","nous aurions eu.","Ayons !"],
 ("avoir","vous"):["Vous avez.","Vous avez eu.","Vous aviez.","Vous aviez eu.","Vous aurez.","que vous ayez.","que vous ayez eu.","vous auriez.","vous auriez eu.","Ayez !"],
 ("avoir","ils"):["Ils ont.","Ils ont eu.","Ils avaient.","Ils avaient eu.","Ils auront.","qu'ils aient.","qu'ils aient eu.","ils auraient.","ils auraient eu.","n/a"],
-("avoir","elles"):["Elles ont.","Elles ont eu.","Elles avaient.","Elles avaient eu.","Elles auront.","qu'elles aient.","qu'elles aient eu.","elles auraient.","elle auraient eu.","n/a"],
+("avoir","elles"):["Elles ont.","Elles ont eu.","Elles avaient.","Elles avaient eu.","Elles auront.","qu'elles aient.","qu'elles aient eu.","elles auraient.","elles auraient eu.","n/a"],
 ("avoir","ça"):["Ça a.","Ça a eu.","Ça avait.","Ça avait eu.","Ça aura.","que ça ait.","que ça ait eu.","ça aurait.","ça aurait eu.","n/a"],
 
 ("aller","je"):["Je vais.","Je suis allé.","J'allais.","J'étais allé.","J'irai.","que j'aille.","que je sois allé.","j'irais.","je serais allé.","n/a"],
@@ -1473,7 +1473,7 @@ table = {
 ("pouvoir","nous"):["Nous pouvons.","Nous avons pu.","Nous pouvions.","Nous avions pu.","Nous pourrons.","que nous puissions.","que nous ayons pu.","nous pourrions.","nous aurions pu.","n/a"],
 ("pouvoir","vous"):["Vous pouvez.","Vous avez pu.","Vous pouviez.","Vous aviez pu.","Vous pourrez.","que vous puissiez.","que vous ayez pu.","vous pourriez.","vous auriez pu.","n/a"],
 ("pouvoir","ils"):["Ils peuvent.","Ils ont pu.","Ils pouvaient.","Ils avaient pu.","Ils pourront.","qu'ils puissent.","qu'ils aient pu.","ils pourraient.","ils auraient pu.","n/a"],
-("pouvoir","elles"):["Elles peuvent.","Elles ont pu.","Elles pouvaient.","Elles avaient pu.","Elles pourront.","qu'elles puissent.","qu'elles aient pu.","elles pourraient.","elle auraient pu.","n/a"],
+("pouvoir","elles"):["Elles peuvent.","Elles ont pu.","Elles pouvaient.","Elles avaient pu.","Elles pourront.","qu'elles puissent.","qu'elles aient pu.","elles pourraient.","elles auraient pu.","n/a"],
 ("pouvoir","ça"):["Ça peut.","Ça a pu.","Ça pouvait.","Ça avait pu.","Ça pourra.","que ça puisse","que ça ait pu.","ça pourrait.","ça aurait pu.","n/a"],
 
 ("vouloir","je"):["Je veux.","J'ai voulu.","Je voulais.","J'avais voulu.","Je voudrai.","que je veuille.","que j'aie voulu.","je voudrais.","j'aurais voulu.","n/a"],
@@ -1483,7 +1483,7 @@ table = {
 ("vouloir","nous"):["Nous voulons.","Nous avons voulu.","Nous voulions.","Nous avions voulu.","Nous voudrons.","que nous voulions.","que nous ayons voulu.","nous voudrions.","nous aurions voulu.","Voulons !"],
 ("vouloir","vous"):["Vous voulez.","Vous avez voulu.","Vous vouliez.","Vous aviez voulu.","Vous voudrez.","que vous vouliez.","que vous ayez voulu.","vous voudriez.","vous auriez voulu.","Voulez !"],
 ("vouloir","ils"):["Ils veulent.","Ils ont voulu.","Ils voulaient.","Ils avaient voulu.","Ils voudront.","qu'ils veuillent.","qu'ils aient voulu.","ils voudraient.","ils auraient voulu.","n/a"],
-("vouloir","elles"):["Elles veulent.","Elles ont voulu.","Elles voulaient.","Elles avaient voulu.","Elles voudront.","qu'elles veuillent.","qu'elles aient voulu.","elles voudraient.","elle auraient voulu.","n/a"],
+("vouloir","elles"):["Elles veulent.","Elles ont voulu.","Elles voulaient.","Elles avaient voulu.","Elles voudront.","qu'elles veuillent.","qu'elles aient voulu.","elles voudraient.","elles auraient voulu.","n/a"],
 ("vouloir","ça"):["Ça veut.","Ça a voulu.","Ça veulait.","Ça avait voulu.","Ça voudra.","que ça veuille.","que ça ait voulu.","ça voudrait.","ça aurait voulu.","n/a"],
 
 ("devoir","je"):["Je dois.","J'ai dû.","Je devais.","J'avais dû.","Je devrai.","que je doive.","que j'aie dû.","je devrais.","j'aurais dû.","n/a"],
@@ -1493,7 +1493,7 @@ table = {
 ("devoir","nous"):["Nous devons.","Nous avons dû.","Nous devions.","Nous avions dû.","Nous devrons.","que nous devions.","que nous ayons dû.","nous devrions.","nous aurions dû.","Devons !"],
 ("devoir","vous"):["Vous devez.","Vous avez dû.","Vous deviez.","Vous aviez dû.","Vous devrez.","que vous deviez.","que vous ayez dû.","vous devriez.","vous auriez dû.","Devez !"],
 ("devoir","ils"):["Ils doivent.","Ils ont dû.","Ils devaient.","Ils avaient dû.","Ils devront.","qu'ils doivent.","qu'ils aient dû.","ils devraient.","ils auraient dû.","n/a"],
-("devoir","elles"):["Elle doivent.","Elles ont dû.","Elles devaient.","Elles avaient dû.","Elles devront.","qu'elles doivent.","qu'elles aient dû.","elles devraient.","elle auraient dû.","n/a"],
+("devoir","elles"):["Elle doivent.","Elles ont dû.","Elles devaient.","Elles avaient dû.","Elles devront.","qu'elles doivent.","qu'elles aient dû.","elles devraient.","elles auraient dû.","n/a"],
 ("devoir","ça"):["Ça doit.","Ça a dû.","Ça devait.","Ça avait dû.","Ça devra.","que ça doive","que ça ait dû.","ça devrait.","ça aurait dû.","n/a"],
 
 ("falloir","je"):["n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"],
@@ -1513,7 +1513,7 @@ table = {
 ("savoir","nous"):["Nous savons.","Nous avons su.","Nous savions.","Nous avions su.","Nous saurons.","que nous sachions.","que nous ayons su.","nous saurions.","nous aurions su.","Sachons !"],
 ("savoir","vous"):["Vous savez.","Vous avez su.","Vous saviez.","Vous aviez su.","Vous saurez.","que vous sachiez.","que vous ayez su.","vous sauriez.","vous auriez su.","Sachez !"],
 ("savoir","ils"):["Ils savent.","Ils ont su.","Ils savaient.","Ils avaient su.","Ils sauront.","qu'ils sachent.","qu'ils aient su.","ils sauraient.","ils auraient su.","n/a"],
-("savoir","elles"):["Elles savent.","Elles ont su.","Elles savaient.","Elles avaient su.","Elles sauront.","qu'elles sachent.","qu'elles aient su.","elles sauraient.","elle auraient su.","n/a"],
+("savoir","elles"):["Elles savent.","Elles ont su.","Elles savaient.","Elles avaient su.","Elles sauront.","qu'elles sachent.","qu'elles aient su.","elles sauraient.","elles auraient su.","n/a"],
 ("savoir","ça"):["Ça sait.","Ça a su.","Ça savait.","Ça avait su.","Ça saura.","que ça sache.","que ça ait su.","ça sautait.","ça aurait su.","n/a"],
 
 ("croire","je"):["Je crois.","J'ai cru.","Je croyais.","J'avais cru.","Je croirai.","que je croie.","que j'aie cru.","je croirais.","j'aurais cru.","n/a"],
@@ -1523,7 +1523,7 @@ table = {
 ("croire","nous"):["Nous croyons.","Nous avons cru.","Nous croyions.","Nous avions cru.","Nous croirons.","que nous croyions.","que nous ayons cru.","nous croirions.","nous aurions cru.","Croyons !"],
 ("croire","vous"):["Vous croyez.","Vous avez cru.","Vous croyiez.","Vous aviez cru.","Vous croirez.","que vous croyiez.","que vous ayez cru.","vous croiriez.","vous auriez cru.","Croyez !"],
 ("croire","ils"):["Ils croient.","Ils ont cru.","Ils croyaient.","Ils avaient cru.","Ils croiront.","qu'ils croient.","qu'ils aient cru.","ils croiraient.","ils auraient cru.","n/a"],
-("croire","elles"):["Elles croient.","Elles ont cru.","Elles croyaient.","Elles avaient cru.","Elles croiront.","qu'elles croient.","qu'elles aient cru.","elles croiraient.","elle auraient cru.","n/a"],
+("croire","elles"):["Elles croient.","Elles ont cru.","Elles croyaient.","Elles avaient cru.","Elles croiront.","qu'elles croient.","qu'elles aient cru.","elles croiraient.","elles auraient cru.","n/a"],
 ("croire","ça"):["Ça croit.","Ça a cru.","Ça croyait.","Ça avait cru.","Ça croira.","que ça croie.","que ça ait cru.","ça croirait.","ça aurait cru.","n/a"],
 
 ("mourir","je"):["Je meurs.","Je suis mort.","Je mourais.","J'étais mort.","Je mourrai.","que je meure.","que je sois mort.","je mourais.","je serais mort.","n/a"],
@@ -1543,7 +1543,7 @@ table = {
 ("boire","nous"):["Nous buvons.","Nous avons bu.","Nous buvions.","Nous avions bu.","Nous boirons.","que nous buvions.","que nous ayons bu.","nous boirions.","nous aurions bu.","Buvons !"],
 ("boire","vous"):["Vous buvez.","Vous avez bu.","Vous buviez.","Vous aviez bu.","Vous boirez.","que vous buviez.","que vous ayez bu.","vous boiriez.","vous auriez bu.","Buvez !"],
 ("boire","ils"):["Ils boivent.","Ils ont bu.","Ils buvaient.","Ils avaient bu.","Ils boiront.","qu'ils boivent.","qu'ils aient bu.","ils boiraient.","ils auraient bu.","n/a"],
-("boire","elles"):["Elles boivent.","Elles ont bu.","Elles buvaient.","Elles avaient bu.","Elles boiront.","qu'elles boivent.","qu'elles aient bu.","elles boiraient.","elle auraient bu.","n/a"],
+("boire","elles"):["Elles boivent.","Elles ont bu.","Elles buvaient.","Elles avaient bu.","Elles boiront.","qu'elles boivent.","qu'elles aient bu.","elles boiraient.","elles auraient bu.","n/a"],
 ("boire","ça"):["Ça boit.","Ça a bu.","Ça buvait.","Ça avait bu.","Ça boira.","que ça boive.","que ça ait bu.","ça boirait.","ça aurait bu.","n/a"],
 
 ("s'asseoir","je"):["Je m'assois.","Je me suis assis.","Je m'assoyais.","Je m'etais assis.","Je m'assoirai.","que je m'assoie.","que je me sois assis.","je m'assoirais.","je me serais assis.","n/a"],
@@ -1573,7 +1573,7 @@ table = {
 ("prévoir","nous"):["Nous prévoyons.","Nous arevons prévu.","Nous prévoyions.","Nous avions prévu.","Nous prévoirons.","que nous prévoyions.","que nous ayons prévu.","nous prévoirions.","nous aurions prévu.","Prévoyons !"],
 ("prévoir","vous"):["Vous prévoyez.","vous avez prévu.","Vous prévoyiez.","vous aviez prévu.","Vous prévoirez.","que vous prévoyiez.","que vous ayez prévu.","vous prévoiriez.","vous auriez prévu.","Prévoyez !"],
 ("prévoir","ils"):["Ils prévoient.","Ils ont prévu.","Ils prévoyaient.","Ils avaient prévu.","Ils prévoiront.","qu'ils prévoient.","qu'ils aient prévu.","ils prévoiraient.","ils auraient prévu.","n/a"],
-("prévoir","elles"):["Elles prévoyent.","Elles ont prévu.","Elles prévoyaient.","Elles avaient prévu.","Elles prévoiront.","qu'elles prévoient.","qu'elles aient prévu.","elles prévoiraient.","elle auraient prévu.","n/a"],
+("prévoir","elles"):["Elles prévoyent.","Elles ont prévu.","Elles prévoyaient.","Elles avaient prévu.","Elles prévoiront.","qu'elles prévoient.","qu'elles aient prévu.","elles prévoiraient.","elles auraient prévu.","n/a"],
 ("prévoir","ça"):["Ça prévoit.","Ça a prévu.","Ça prévoyait.","Ça avait prévu.","Ça prévoira.","que ça prévoie.","que ça ait prévu.","ça pour voirait.","ça aurait prévu.","n/a"],
 
 ("suffire","je"):["Je suffis.","J'ai suffi","Je suffisais.","J'avais suffi.","Je suffirai.","que je suffise.","que j'aie suffi.","je suffirais.","j'aurais suffi.","n/a"],
@@ -1583,7 +1583,7 @@ table = {
 ("suffire","nous"):["Nous suffisons.","Nous avons suffi.","Nous suffisions.","Nous avions suffi.","Nous suffrons.","que nous suffisions.","que nous ayons suffi.","nous suffirions.","nous aurions suffi.","Suffisons !"],
 ("suffire","vous"):["Vous suffisez.","Vous avez suffi.","Vous suffisiez.","Vous aviez suffi.","Vous suffirez.","que vous suffisiez.","que vous ayez suffi.","vous suffiriez.","vous auriez suffi.","Suffisez !"],
 ("suffire","ils"):["Ils suffisent.","Ils ont suffi.","Ils suffisaient.","Ils avaient suffi.","Ils suffiront.","qu'il ssuffisent.","qu'ils aient suffi.","ils suffiraient.","ils auraient suffi.","n/a"],
-("suffire","elles"):["Elles suffisent.","Elles ont suffi.","Elles suffisaient.","Elles avaient suffi.","Elles suffiront.","qu'elles suffisent.","qu'elles aient suffi.","elles suffiraient.","elle auraient suffi.","n/a"],
+("suffire","elles"):["Elles suffisent.","Elles ont suffi.","Elles suffisaient.","Elles avaient suffi.","Elles suffiront.","qu'elles suffisent.","qu'elles aient suffi.","elles suffiraient.","elles auraient suffi.","n/a"],
 ("suffire","ça"):["Ça suffit.","Ça a suffi.","Ça suffisait.","Ça avait suffi.","Ça suffira.","que ça suffise.","que ça ait suffi.","ça suffirait.","ça aurait suffi.","n/a"],
 
 ("coudre","je"):["Je couds.","J'ai cousu.","Je cousais.","J'avais cousu.","Je coudrai.","que je couse.","que j'aie cousu.","je coudrais.","j'aurais cousu.","n/a"],
@@ -1593,7 +1593,7 @@ table = {
 ("coudre","nous"):["Nous cousons.","Nous avons cousu.","Nous cousions.","Nous avions cousu.","Nous coudrons.","que nous cousions.","que nous ayons cousu.","nous coudrions.","nous aurions cousu.","Cousons !"],
 ("coudre","vous"):["Vous cousez.","Vous avez cousu.","Vous cousiez.","Vous aviez cousu.","Vous coudrez.","que vous cousiez.","que vous ayez cousu.","vous coudriez.","vous auriez cousu.","cousez !"],
 ("coudre","ils"):["Ils cousent.","Ils ont cousu.","Ils cousaient.","Ils avaient cousu.","Ils coudront.","qu'ils cousent.","qu'ils aient cousu.","ils coudraient.","ils auraient cousu.","n/a"],
-("coudre","elles"):["Elles cousent.","Elles ont cousu.","Elles cousaient.","Elles avaient cousu.","Elles coudront.","qu'elles cousent.","qu'elles aient cousu.","elles coudraient.","elle auraient cousu.","n/a"],
+("coudre","elles"):["Elles cousent.","Elles ont cousu.","Elles cousaient.","Elles avaient cousu.","Elles coudront.","qu'elles cousent.","qu'elles aient cousu.","elles coudraient.","elles auraient cousu.","n/a"],
 ("coudre","ça"):["Ça coud.","Ça a cousu.","Ça cousait.","Ça avait cousu.","Ça coudra.","que ça couse.","que ça ait cousu.","ça coudrait.","ça aurait cousu.","n/a"],
 
 ("choir","je"):["Je chois.","J'ai chu.","n/a","J'avais chu.","Je choirai.","n/a","que j'aie chu.","je choirais.","j'aurais chu.","n/a"],
@@ -1603,7 +1603,7 @@ table = {
 ("choir","nous"):["Nous choyons.","Nous avons chu.","n/a","Nous avions chu.","Nous choirons.","n/a","que nous ayons chu.","nous choirions.","nous aurions chu.","n/a"],
 ("choir","vous"):["Vous choyez.","Vous avez chu.","n/a","Vous aviez chu.","Vous choirez.","n/a","que vous ayez chu.","vous choiriez.","vous auriez chu.","n/a"],
 ("choir","ils"):["Ils choient.","Ils ont chu.","n/a","Ils avaient chu.","Ils choiront.","n/a","qu'ils aient chu.","ils choiraient.","ils auraient chu.","n/a"],
-("choir","elles"):["Elles choient.","Elles ont chu.","n/a","Elles avaient chu.","Elles choiront.","n/a","qu'elles aient chu.","elles choiraient.","elle auraient chu.","n/a"],
+("choir","elles"):["Elles choient.","Elles ont chu.","n/a","Elles avaient chu.","Elles choiront.","n/a","qu'elles aient chu.","elles choiraient.","elles auraient chu.","n/a"],
 ("choir","ça"):["Ça choit.","Ça a chu.","n/a","Ça avait chu.","Ça choira.","n/a","que ça ait chu.","ça choirait.","ça aurait chu.","n/a"],
 
 ("prévaloir","je"):["Je prévaux.","J'ai prévalu.","Je prévalais.","J'avais prévalu.","Je prévaudrai.","que je prévale.","que j'aie prévalu.","je prévaudrais.","j'aurais prévalu.","n/a"],
@@ -1613,7 +1613,7 @@ table = {
 ("prévaloir","nous"):["Nous prévalons.","Nous avons prévalu.","Nous prévalions.","Nous avions prévalu.","Nous prévaudrons.","que nous prévalions.","que nous ayons prévalu.","nous prévaudrions.","nous aurions prévalu.","Prévalons !"],
 ("prévaloir","vous"):["Vous prévalez.","Vous avez prévalu.","Vous prévaliez.","Vous aviez prévalu.","Vous prévaudrez.","que vous prévaliez.","que vous ayez prévalu.","vous prévaudriez.","vous auriez prévalu.","Prévalez !"],
 ("prévaloir","ils"):["Ils prévalent.","Ils ont prévalu.","Ils prévalaient.","Ils avaient prévalu.","Ils prévaudront.","qu'ils prévalent.","qu'ils aient prévalu.","iIls prévaudraient.","ils auraient prévalu.","n/a"],
-("prévaloir","elles"):["Elles prévalent.","Elles ont prévalu.","Elles prévalaient.","Elles avaient prévalu.","Elles prévaudront.","qu'elles prévalent.","qu'elles aient prévalu.","elles prévaudraient.","elle auraient prévalu.","n/a"],
+("prévaloir","elles"):["Elles prévalent.","Elles ont prévalu.","Elles prévalaient.","Elles avaient prévalu.","Elles prévaudront.","qu'elles prévalent.","qu'elles aient prévalu.","elles prévaudraient.","elles auraient prévalu.","n/a"],
 ("prévaloir","ça"):["Ça prévaut.","Ça a prévalu.","Ça prévalait.","Ça avait prévalu.","Ça prévaudra.","que ça prévale.","que ça ait prévalu.","ça prévaudrait.","ça aurait prévalu.","n/a"],
 
 ("se taire","je"):["Je me tais.","Je me suis tu.","Je me taisais.","Je m'etais tu.","Je me tairai.","que je me taise.","que je me sois tu.","je me tairais.","je me serais tu.","n/a"],
@@ -1643,7 +1643,7 @@ table = {
 ("foutre","nous"):["Nous foutons.","Nous avons foutu.","Nous foutions.","Nous avions foutu.","Nous foutrons.","que nous foutions.","que nous ayons foutu.","nous foutrions.","nous aurions foutu.","Foutons !"],
 ("foutre","vous"):["Vous foutez.","Vous avez foutu.","Vous foutiez.","Vous aviez foutu.","Vous foutrez.","que vous foutiez.","que vous ayez foutu.","vous foutriez.","vous auriez foutu.","Foutez !"],
 ("foutre","ils"):["Ils foutent.","Ils ont foutu.","Ils foutaient.","Ils avaient foutu.","Ils foutront.","qu'ils foutent.","qu'ils aient foutu.","ils foutraient.","ils auraient foutu.","n/a"],
-("foutre","elles"):["Elles foutent.","Elles ont foutu.","Elles foutaient.","Elles avaient foutu.","Elles foutront.","qu'elles foutent.","qu'elles aient foutu.","elles foutraient.","elle auraient foutu.","n/a"],
+("foutre","elles"):["Elles foutent.","Elles ont foutu.","Elles foutaient.","Elles avaient foutu.","Elles foutront.","qu'elles foutent.","qu'elles aient foutu.","elles foutraient.","elles auraient foutu.","n/a"],
 ("foutre","ça"):["Ça fou.","Ça a foutu.","Ça foutait.","Ça avait foutu.","Ça foutra.","que ça foute.","que ça ait foutu.","ça foutrait.","ça aurait foutu.","n/a"],
 
 }
