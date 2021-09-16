@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'qodln1h+x@(+9k2ot_fy&8yu9t_t300&vd+8l+ay#*eq8$-t3_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'gutibyluciano.pythonanywhere.com']
 
