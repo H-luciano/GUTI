@@ -9,6 +9,16 @@
     background-size: cover;
 }
 
+.jumbotron-italian {
+    position: relative;
+    padding: 2rem 0rem;
+    margin-bottom: 0rem;
+    height: 15vh;
+    min-height: 30px;
+    background: url(../images/R0030916.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
 .jumbotron-container {
     position: relative;
     top: 15%;
@@ -32,6 +42,18 @@
   color: #fff;
   background-color: #EF3340;
   border-color: #EF3340;
+}
+
+.btn-italian-green {
+  color: #fff;
+  background-color: #009246;
+  border-color: #00249C;
+}
+
+.btn-italian-red {
+  color: #fff;
+  background-color: #ce2b37;
+  border-color: #ce2b37;
 }
 
 .answer {
